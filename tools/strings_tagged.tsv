@@ -423,6 +423,7 @@ b2b	ana-audience	AUD/lactogrow/campaign	Nestlé LACTOGROW Web Sampling — Japan
 b2b	ana-audience	AUD/lactogrow/q	Child age
 b2b	ana-audience	AUD/lactogrow/rowsN	25,918 rows
 b2b	ana-audience	pageAudiences	Manage and view your saved claimant audience segments — built across every
+b2b	ana-audience	pageAudiences	campaign, not just one
 b2b	ana-audience	pageAudiences	Refresh⟦0⟧⟦1⟧+ Create Audience
 consumer	ana-audience	pageAudiences	Name
 b2b	ana-audience	pageAudiences	Type
@@ -548,6 +549,7 @@ b2b	ana-stats	pageStats	Best segment
 b2b	ana-stats	pageStats	Watch-outs
 b2b	ana-stats	pageStats	Recommendation
 b2b	ana-stats	pageStats	PURCHASE INTENT
+b2b	ana-stats	pageStats	delivered claimants
 b2b	ana-stats	pageStats	TOP SEGMENT
 b2b	ana-stats	pageStats	KEY DRIVER
 b2b	ana-stats	pageStats	BELOW AVERAGE SEGMENTS
@@ -561,6 +563,7 @@ b2b	ana-stats	pageStats	Table
 b2b	ana-stats	pageStats	Who's most likely to buy? The tree splits the audience on the answers that matter most for each group.
 b2b	ana-stats	pageStats	Segment
 b2b	ana-stats	pageStats	PI rate
+b2b	ana-stats	pageStats	vs avg
 b2b	ana-stats	pageStats	Model Details
 b2b	ana-stats	pageStats	Modest⟦0⟧⟦1⟧Fit ⟦2⟧Modest⟦3⟧ — typical for survey models⟦4⟧⟦5⟧Predictors
 b2b	ana-stats	pageDataviz/charts/s	Every answer, stored as a tag on the customer
@@ -578,6 +581,9 @@ b2b	ana-stats	pageDataviz/charts/s	City-level claim volume
 b2b	ana-stats	pageDataviz/wl	Waitlisted when the campaign ran out of stock
 b2b	ana-stats	pageDataviz/wl	Stock-out branch
 b2b	ana-stats	pageDataviz/wl	Waitlisted, not lost
+b2b	ana-stats	pageDataviz/wl	people queued after stock-out
+b2b	ana-stats	pageDataviz/wl	of post-stock-out visitors
+b2b	ana-stats	pageDataviz/wl	bought with the coupon
 b2b	ana-stats	pageDataviz/wl	stock-out → sale
 b2b	ana-stats	pageDataviz	Sampled vs. waitlisted
 b2b	ana-stats	pageDataviz	What the form did once stock hit zero
@@ -592,6 +598,8 @@ b2b	ana-stats	pageDataviz/loy	New in this campaign
 b2b	ana-stats	pageDataviz/loy	Enrolled, not sampled
 b2b	ana-stats	pageDataviz/loy	existing LACTOGROW buyers
 b2b	ana-stats	pageDataviz/loy	of “already buy it” answers
+b2b	ana-stats	pageDataviz/loy	of all form completions
+b2b	ana-stats	pageDataviz/loy	sample cost avoided
 b2b	ana-stats	pageDataviz/loy	Sample vs. membership
 b2b	ana-stats	pageDataviz/loy	What the same form did with each visitor
 b2b	ana-stats	pageDataviz/loy	Loyalty enrolments per week
@@ -606,6 +614,7 @@ b2b	ana-stats	pageOverview/TR	UTM source · medium · campaign
 b2b	ana-stats	pageOverview/TR	Read from the entry link — never asked
 b2b	ana-stats	pageOverview/TR	Postal code → ward → prefecture
 b2b	ana-stats	pageOverview/TR	Every answer
+b2b	ana-stats	pageOverview/TR	stored as profile tags
 b2b	ana-stats	pageOverview/TR	Delivery
 b2b	ana-stats	pageOverview/TR	Shipped · delivered · photo proof
 b2b	ana-stats	pageOverview/TR	Day-7 rating & comment
@@ -624,8 +633,10 @@ b2b	ana-stats	pageOverview	Explore full segmentation
 b2b	ana-stats	pageOverview	sources tracked — Meta, Google, Yahoo!, ChatGPT, newsletter, vending QR, website, LINE ads
 b2b	ana-stats	pageOverview	Source
 b2b	ana-stats	pageOverview	UTM Platform Breakdown
+b2b	ana-stats	pageOverview	platforms tracked
 b2b	ana-stats	pageOverview	Platform
 b2b	ana-stats	pageOverview	UTM Medium Breakdown
+b2b	ana-stats	pageOverview	mediums tracked
 b2b	ana-stats	pageOverview	Medium
 b2b	ana-icons	COMPANY	Brand Japan K.K.
 b2b	ana-icons	CAMPAIGN	2026: Spring Sampling — Kanto
@@ -751,6 +762,7 @@ consumer	reengage	MA_TOAST/home	Shortcut added to your Home screen
 consumer	reengage	MA_TOAST/star	Added to Favorites · find it in the MINI tab
 consumer	reengage	MA_TOAST/info	Provider page · Nestlé Japan Ltd.
 consumer	reengage	MA_TOAST/flag	LINE inquiry form opened in your browser
+consumer	reengage	maBody	points to
 consumer	reengage	maBody	Top tier
 consumer	reengage	maBody	Member no.
 consumer	reengage	maBody	Sample history
@@ -794,6 +806,8 @@ consumer	reengage	wd	Consent withdrawn · marketing messages stop today
 consumer	reengage	del	Deletion requested · done within 14 days, confirmed on LINE
 b2b	reengage	s0	User profile
 b2b	reengage	s0	AUTO-ENROLLED
+b2b	reengage	s0	is now a
+b2b	reengage	s0	member
 b2b	reengage	s0	Enrolled the moment her sample was delivered and her feedback came in — no extra sign-up. The same conversation carries on.
 b2b	reengage	s0	points⟦0⟧⟦1⟧Bronze
 b2b	reengage	s0	See what
@@ -804,6 +818,9 @@ b2b	reengage	s1b/modal	Got it — let me tap around
 b2b	reengage	s1b	Member’s view — LINE mini app
 b2b	reengage	s1b	The real app, running here — every tab and activity is live
 b2b	reengage	s1b	The member card ⟦0⟧is⟦1⟧ the loyalty program — it opens inside LINE, with no app download and no new password.
+b2b	reengage	s1b	of verified samplers enrolled
+b2b	reengage	s1b	extra forms to fill
+b2b	reengage	s1b	wallet across every brand line
 b2b	reengage	s1b	👆 Fully interactive — tap any tab, earn points, redeem a reward, scan a receipt.
 b2b	reengage	s2/rows	CAPTURED
 b2b	reengage	s2/rows	Scheduled
@@ -820,6 +837,7 @@ b2b	reengage	s2	Re-engagement opportunities
 b2b	reengage	s2	What
 b2b	reengage	s2	does next with this profile · click a row
 consumer	reengage	openViewer	Your family manga
+consumer	reengage	animateManga	tap to open
 consumer	reengage	tickPts/textContent	2× spin won
 consumer	reengage	spin/textContent	Spinning…
 consumer	reengage	spin/textContent	good luck…
@@ -1097,6 +1115,7 @@ b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	loyalty_enrol fires when an existing customer joins Familyness.
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	Enrollments attributed to the creative
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/cta	Next: go live
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/spot	live preview
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/k	STEP 4 · GO LIVE
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/t	Copy the embed code
 b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	The same snippet serves both journeys.
@@ -1112,6 +1131,7 @@ b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/captio
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/cta	Check the Details
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/likes	2,856 likes
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/caption	Nutrition for a brighter tomorrow 💙 Try a FREE sample of Nestlé LACTOGROW!
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/q	lactogrow free sample
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/title	LACTOGROW Free Sample ⟦0⟧ Nestlé Japan
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/desc	The right pack for your child’s age, free. Just 5 questions.
 consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/cta	Get a free sample ›
@@ -1195,6 +1215,8 @@ b2b	journey	profileFrame/body	Collected as the customer chats with the bot…
 b2b	journey	profileFrame/body	LINE opt-in
 b2b	journey	profileFrame/body	Assigned once the address is verified…
 b2b	journey	panelFrame/checks	Postal code ↔ address match
+b2b	journey	panelFrame/checks	resolves to
+b2b	journey	panelFrame/checks	matches the address the customer typed
 b2b	journey	panelFrame/checks	Serviceable area
 b2b	journey	panelFrame/checks	Inside the active delivery zone for this campaign
 b2b	journey	panelFrame/checks	Geocoding
@@ -1207,6 +1229,7 @@ b2b	journey	panelFrame	VERIFIED
 b2b	journey	panelFrame	Address as typed
 b2b	journey	panelFrame	All checks passed · claim approved
 b2b	journey	panelFrame	Confirmation sent to the customer · sample reserved at
+b2b	journey	panelFrame	the nearest fulfilment centre
 b2b	journey	panelFrame/steps	Order created
 b2b	journey	panelFrame/steps	Packed
 consumer	journey	panelFrame/steps	Out for delivery
@@ -1226,12 +1249,16 @@ b2b	journey	panelFrame	Day 0
 b2b	journey	panelFrame	Sep 14
 b2b	journey	panelFrame	Day 1–6
 b2b	journey	panelFrame	Trial window
+b2b	journey	panelFrame	brand stays quiet
 b2b	journey	panelFrame	Day 7
 b2b	journey	panelFrame	Feedback request
 b2b	journey	panelFrame	Sep 21 · auto-triggered on LINE
 b2b	journey	panelFrame	Why wait?⟦0⟧ The customer gets time to actually use the sample. FreeStand holds all messaging for the gratification period, then triggers the feedback question automatically · one nudge, at the right moment, on the channel the customer already replied on.
 b2b	journey	panelFrame	1 nudge
+b2b	journey	panelFrame	max, in the whole window
+b2b	journey	panelFrame	feedback question fires
 b2b	journey	panelFrame	Day 10
+b2b	journey	panelFrame	reminder only if no reply
 b2b	journey	panelFrame	SKU allocation
 b2b	journey	panelFrame	Rule
 b2b	journey	panelFrame	answer → sample SKU
@@ -1239,6 +1266,7 @@ b2b	journey	panelFrame	ALLOCATED
 b2b	journey	panelFrame	Answer received
 b2b	journey	panelFrame	Allocated
 b2b	journey	panelFrame	Not selected
+b2b	journey	panelFrame	reserved for this claim
 b2b	journey	panelFrame	Inventory held at
 b2b	journey	panelFrame	the rest of the journey continues with this SKU
 b2b	journey	panelFrame/rows	Plain-language notice shown
@@ -1282,6 +1310,7 @@ b2b	journey	DEFAULT_TYPES	Email newsletter
 b2b	journey	DEFAULT_TYPES	Vending-machine QR code
 b2b	journey	DEFAULT_TYPES	Website web form
 b2b	journey	adScreen	Acquisition · how the journey starts
+b2b	journey	adScreen	this demo
 b2b	journey	adScreen	Every entry is UTM-tagged and lands in one place: the brand’s LINE official account.
 b2b	journey	afterSide/innerHTML	DELIVERED
 consumer	journey	siteNav	NASDAQ: MDLZ $62.36 USD 0.26 (0%)
@@ -1332,6 +1361,7 @@ b2b	appi	APPI/retention	12 months after the campaign ends
 b2b	appi	APPI/retention	postal code · street · building
 b2b	appi	APPI/retention	Postal code & address
 b2b	appi	APPI/retention	90 days after delivery
+b2b	appi	APPI/retention	doorstep photo
 b2b	appi	APPI/retention	Delivery photo proof
 b2b	appi	APPI/retention	30 days after delivery
 b2b	appi	APPI/retention	age · priority · store · milk
@@ -1340,6 +1370,7 @@ b2b	appi	APPI/retention	Anonymised after 24 months
 b2b	appi	APPI/retention	LINE UID
 b2b	appi	APPI/retention	LINE user ID
 b2b	appi	APPI/retention	Until she unfriends or withdraws consent
+b2b	appi	APPI/retention	on unfriend
 b2b	appi	APPI/retention	hashed email/phone · cookies
 b2b	appi	APPI/retention	Ad audiences & cookies
 b2b	appi	APPI/retention	13 months
@@ -1410,6 +1441,7 @@ b2b	appi	SETUP/side	Help
 consumer	appi	SETUP/formPrev	Get your free sample now!
 consumer	appi	SETUP/formPrev	Enter your
 consumer	appi	SETUP/formPrev	(privacy notice
+consumer	appi	SETUP/formPrev	powered by
 b2b	appi	SETUP/builder/pages	Page
 b2b	appi	SETUP/builder/pages	+ Add question
 b2b	appi	SETUP/builder/prev	Yes
@@ -1521,6 +1553,7 @@ b2b	popups	MODALS/geo	Targeting approved
 b2b	popups	MODALS/geo	VERIFIED POSTAL CODE
 b2b	popups	MODALS/geo	Campaign eligible: Yes
 b2b	popups	MODALS/alloc/rows	ASSIGNED
+b2b	popups	MODALS/alloc/rows	days
 b2b	popups	MODALS/alloc	Dynamic delivery-partner allocation
 b2b	popups	MODALS/alloc	FreeStand scores every contracted partner for ⟦0⟧this⟦1⟧ pincode, on every claim
 b2b	popups	MODALS/alloc	Score⟦0⟧partner⟦1⟧ =
@@ -1530,6 +1563,7 @@ b2b	popups	MODALS/alloc	Delivery time
 b2b	popups	MODALS/alloc	Cost / shipment
 b2b	popups	MODALS/alloc	Score
 b2b	popups	MODALS/alloc	assigned · score
+b2b	popups	MODALS/alloc	days⟦0⟧⟦1⟧promised to the customer
 b2b	popups	MODALS/alloc	Re-scored per claim, per pincode · a different postal code on the next claim can route to a different partner. The number the customer sees on screen is the winning partner’s live TAT, not a generic “2–3 business days”.
 b2b	popups	MODALS/verify/A	Address format matches Japan Post conventions
 b2b	popups	MODALS/verify/A	Claude
@@ -1554,9 +1588,14 @@ b2b	popups	MODALS/verify	Geolocation
 b2b	popups	MODALS/verify	Building-level pin · confidence 98%
 b2b	popups	MODALS/verify	VERIFIED ADDRESS · SAMPLE APPROVED
 b2b	popups	MODALS/skumap/opts	customer’s answer
+b2b	popups	MODALS/skumap/opts	rule branch
+b2b	popups	MODALS/skumap/packs	not allocated
 b2b	popups	MODALS/skumap	SKU allocation · live rule engine
 b2b	popups	MODALS/skumap	Question
+b2b	popups	MODALS/skumap	the answer alone decides which pack leaves the warehouse
 b2b	popups	MODALS/skumap	Answer “
+b2b	popups	MODALS/skumap	inventory held at
+b2b	popups	MODALS/skumap	the fulfilment centre
 b2b	popups	MODALS/order/prod	by FreeStand
 b2b	popups	MODALS/order/row	✦ NEW ORDER
 b2b	popups	MODALS/order	Processing
@@ -1565,8 +1604,12 @@ b2b	popups	MODALS/order	Delivery partner
 b2b	popups	MODALS/order	Highest dynamic-allocation score for this pincode
 consumer	popups	MODALS/order	Ships from
 b2b	popups	MODALS/order/inv	Campaign inventory
+b2b	popups	MODALS/order/inv	samples claimed
+b2b	popups	MODALS/order/inv	still available
+b2b	popups	MODALS/order/inv	allocated to this campaign
 b2b	popups	MODALS/order	This claim is sample ⟦0⟧#
 b2b	popups	MODALS/order	stock is decremented at the moment of allocation, so the campaign can never over-promise. At 90% FreeStand alerts the brand to re-stock
+b2b	popups	MODALS/order	the warehouse
 b2b	popups	MODALS/order	FreeStand Order Management
 b2b	popups	MODALS/order	Orders, delivery-partner assignment and live sample inventory
 b2b	popups	MODALS/order	ORD-2026
@@ -1600,6 +1643,7 @@ b2b	popups	MODALS/enrol	Existing customer detected
 b2b	popups	MODALS/enrol	She already buys the brand · so the offer changes
 b2b	popups	MODALS/enrol	NOT SENT
 b2b	popups	MODALS/enrol	SENT INSTEAD
+b2b	popups	MODALS/enrol	welcome points
 b2b	popups	MODALS/soldout	Stock is decremented at allocation · so the campaign can never over-promise
 b2b	popups	MODALS/soldout	0⟦0⟧⟦1⟧still available
 b2b	popups	MODALS/soldout	Campaign stock exhausted
@@ -1622,6 +1666,7 @@ b2b	popups	MODALS/geowait	DECISION OWNER
 b2b	popups	MODALS/geowait	No order created · ⟦0⟧demand recorded against this postal code⟦1⟧⟦2⟧⟦3⟧Add to geo waitlist
 b2b	popups	MODALS/geoon	Postal code activated
 b2b	popups	MODALS/geoon	The brand opened the area · everyone waiting is messaged automatically
+b2b	popups	MODALS/geoon	is now serviced
 b2b	popups	MODALS/geoon	WAITING, NOW MESSAGED
 b2b	popups	MODALS/geoon	COURIER SCORED
 b2b	popups	MODALS/geoon	DAYS ON WAITLIST
@@ -1974,6 +2019,8 @@ b2b	sources-js	innerHTML	Mayumi Satō⟦0⟧⟦1⟧090-3312-7748 · mayumi.sato@
 b2b	sources-js	innerHTML	RELEVANT COHORTS
 b2b	sources-js	innerHTML	CAPTURED BY FREESTAND
 b2b	sources-js	innerHTML	AND THE ANALYTICS BEHIND IT⟦0⟧NLG-JP-2026 · 100,000 samples
+b2b	sources-js	innerHTML	delivered on time
+b2b	sources-js	innerHTML	tapped to buy
 b2b	sources-js		Claims per week
 b2b	sources-js		Outcome mix
 b2b	sources-js		Export to Meta
@@ -1989,9 +2036,13 @@ b2b	tpl:Case Studies — FreeStand	CASES/setup	Journey
 b2b	tpl:Case Studies — FreeStand	CASES/setup	Qualified journey
 b2b	tpl:Case Studies — FreeStand	CASES/setup	Pet parents
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Web-form + WhatsApp integration
+b2b	tpl:Case Studies — FreeStand	CASES/steps	across all three brand websites
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Scalable solution
+b2b	tpl:Case Studies — FreeStand	CASES/steps	easy and quick to customise per brand
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Google & Meta pixels
+b2b	tpl:Case Studies — FreeStand	CASES/steps	integrated for all key events
 b2b	tpl:Case Studies — FreeStand	CASES/steps	One-time integration set-up
+b2b	tpl:Case Studies — FreeStand	CASES/steps	then every campaign reuses it
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Offline claims too
 b2b	tpl:Case Studies — FreeStand	CASES/steps	promoter at the brand stall → customer signs up on WhatsApp → sample handed over
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique customers reached
@@ -2000,9 +2051,13 @@ b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase conversion
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Sampling → full-size purchase
 b2b	tpl:Case Studies — FreeStand	CASES/mets	3:00 min
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Avg. engagement time
+b2b	tpl:Case Studies — FreeStand	CASES/mets	in the brand chatbot
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Messages exchanged
+b2b	tpl:Case Studies — FreeStand	CASES/mets	high interactivity
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback rate
+b2b	tpl:Case Studies — FreeStand	CASES/mets	direct customer answers
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Data points
+b2b	tpl:Case Studies — FreeStand	CASES/mets	unique insights collected
 b2b	tpl:Case Studies — FreeStand	CASES/award	Best Product Sampling Award
 b2b	tpl:Case Studies — FreeStand	CASES/award	afaqs Marketers Excellence Awards 2025 & 2024
 b2b	tpl:Case Studies — FreeStand	CASES/hi	20M reached · 20% purchase conversion
@@ -2014,12 +2069,20 @@ b2b	tpl:Case Studies — FreeStand	CASES/setup	LSM 10+ women
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Targeting
 b2b	tpl:Case Studies — FreeStand	CASES/steps	hyper-targeting on Facebook
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Interaction + qualification
+b2b	tpl:Case Studies — FreeStand	CASES/steps	direct customer conversation and qualification in chat
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Fulfilment + experience
+b2b	tpl:Case Studies — FreeStand	CASES/steps	product sample delivered to the doorstep
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Consumer feedback
+b2b	tpl:Case Studies — FreeStand	CASES/steps	captured automatically after use
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Sales
+b2b	tpl:Case Studies — FreeStand	CASES/steps	integrated sales redirect on positive feedback
+b2b	tpl:Case Studies — FreeStand	CASES/mets	unprecedented outreach to the target group
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase-intent CTA
+b2b	tpl:Case Studies — FreeStand	CASES/mets	clicks on the purchase link
 b2b	tpl:Case Studies — FreeStand	CASES/mets	2:30 min
+b2b	tpl:Case Studies — FreeStand	CASES/mets	high user interactivity
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback shared
+b2b	tpl:Case Studies — FreeStand	CASES/mets	customers posted reviews
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique data points
 b2b	tpl:Case Studies — FreeStand	CASES/mets	PII collected
 b2b	tpl:Case Studies — FreeStand	CASES/award	A trophy-studded campaign
@@ -2037,6 +2100,7 @@ b2b	tpl:Case Studies — FreeStand	CASES/steps	on Facebook and Instagram
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Assured qualification
 b2b	tpl:Case Studies — FreeStand	CASES/steps	plus automated SKU selection from the answers
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Sample delivered as per selection
+b2b	tpl:Case Studies — FreeStand	CASES/steps	the right size, first time
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Captured switching insight
 b2b	tpl:Case Studies — FreeStand	CASES/steps	brand they used to buy & why they switched to Little's
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback loop
@@ -2044,48 +2108,71 @@ b2b	tpl:Case Studies — FreeStand	CASES/steps	95.4% rated the product 4–5 sta
 b2b	tpl:Case Studies — FreeStand	CASES/skus	Small
 b2b	tpl:Case Studies — FreeStand	CASES/skus	Large
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Rated 4–5 stars
+b2b	tpl:Case Studies — FreeStand	CASES/mets	high customer satisfaction
 b2b	tpl:Case Studies — FreeStand	CASES/mets	3 SKUs
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Customised sample delivered
+b2b	tpl:Case Studies — FreeStand	CASES/mets	allocated automatically from the answers
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Large
 b2b	tpl:Case Studies — FreeStand	CASES/mets	the most-claimed SKU
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Medium
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Small
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Brand switched from + why
+b2b	tpl:Case Studies — FreeStand	CASES/mets	captured for every claimant
 b2b	tpl:Case Studies — FreeStand	CASES/hi	3 SKUs auto-allocated · 95.4% 4–5★
 b2b	tpl:Case Studies — FreeStand	CASES/ind	Infant nutrition
 b2b	tpl:Case Studies — FreeStand	CASES/brand	Nestlé Lactogrow
 b2b	tpl:Case Studies — FreeStand	CASES/title	Sampling with young parents — search intent to doorstep
 b2b	tpl:Case Studies — FreeStand	CASES/setup	Young parents
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Instagram ads + search-based targeting
+b2b	tpl:Case Studies — FreeStand	CASES/steps	reach parents at the moment of intent
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Customer interaction on the website
+b2b	tpl:Case Studies — FreeStand	CASES/steps	web-form claim journey
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Delivery updates on WhatsApp
+b2b	tpl:Case Studies — FreeStand	CASES/steps	every step of the way
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback + purchase CTA
+b2b	tpl:Case Studies — FreeStand	CASES/steps	after the gratification period
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Sampling-led UGC
+b2b	tpl:Case Studies — FreeStand	CASES/steps	parents shared their moments
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique customer interactions
+b2b	tpl:Case Studies — FreeStand	CASES/mets	focused engagement with young parents
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Clicks on purchase links
 b2b	tpl:Case Studies — FreeStand	CASES/mets	chatbot → retail purchase page
 b2b	tpl:Case Studies — FreeStand	CASES/mets	1:30 min
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Total messages
+b2b	tpl:Case Studies — FreeStand	CASES/mets	high-volume interaction
+b2b	tpl:Case Studies — FreeStand	CASES/mets	answered the follow-up
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique PII data
+b2b	tpl:Case Studies — FreeStand	CASES/mets	rich consumer profiling
 b2b	tpl:Case Studies — FreeStand	CASES/hi	Search intent → sample → UGC
 b2b	tpl:Case Studies — FreeStand	CASES/ind	Body care
 b2b	tpl:Case Studies — FreeStand	CASES/brand	HUL Vaseline Gluta-Hya
 b2b	tpl:Case Studies — FreeStand	CASES/title	Influencer-led sampling with best-in-class intent
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Influencer content
+b2b	tpl:Case Studies — FreeStand	CASES/steps	drives the audience into the brand chatbot
+b2b	tpl:Case Studies — FreeStand	CASES/steps	direct conversation and qualification
+b2b	tpl:Case Studies — FreeStand	CASES/steps	doorstep delivery of the sample
 b2b	tpl:Case Studies — FreeStand	CASES/steps	automatic capture — 1 in 2 responded
+b2b	tpl:Case Studies — FreeStand	CASES/steps	integrated redirect on positive feedback
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback response rate
 b2b	tpl:Case Studies — FreeStand	CASES/mets	1 in 2 shared detailed product feedback — far above industry average
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase-link clicks
+b2b	tpl:Case Studies — FreeStand	CASES/mets	highest conversion intent across all sampling campaigns
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique reach
+b2b	tpl:Case Studies — FreeStand	CASES/mets	target audience
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Avg. engagement
+b2b	tpl:Case Studies — FreeStand	CASES/mets	chatbot interaction
+b2b	tpl:Case Studies — FreeStand	CASES/mets	active conversation
 b2b	tpl:Case Studies — FreeStand	CASES/mets	PII data points
+b2b	tpl:Case Studies — FreeStand	CASES/mets	zero-party data
 b2b	tpl:Case Studies — FreeStand	CASES/award	Top performer
 b2b	tpl:Case Studies — FreeStand	CASES/award	Highest engagement · best-in-class purchase intent
 b2b	tpl:Case Studies — FreeStand	CASES/hi	50% feedback · 25% purchase clicks
 b2b	tpl:Case Studies — FreeStand	CASES/ind	Professional haircare
 b2b	tpl:Case Studies — FreeStand	CASES/brand	L'Oréal Professionnel — Shampoo & Mask
 b2b	tpl:Case Studies — FreeStand	CASES/title	Launch sampling for a salon range, at scale
+b2b	tpl:Case Studies — FreeStand	CASES/steps	hair-concern questions in chat
 b2b	tpl:Case Studies — FreeStand	CASES/steps	shampoo & mask sample delivered to the door
+b2b	tpl:Case Studies — FreeStand	CASES/steps	automatic capture after use
 b2b	tpl:Case Studies — FreeStand	CASES/steps	integrated redirect on positive feedback + sampling-led UGC
 b2b	tpl:Case Studies — FreeStand	CASES/mets	metro & tier-1 cities
 b2b	tpl:Case Studies — FreeStand	CASES/mets	sampling → full-size purchase
@@ -2099,10 +2186,13 @@ b2b	tpl:Case Studies — FreeStand	CASES/setup	Launch
 b2b	tpl:Case Studies — FreeStand	CASES/setup	On World No Tobacco Day
 b2b	tpl:Case Studies — FreeStand	CASES/setup	Smokers looking to quit + their families
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Media ads + chatbot
+b2b	tpl:Case Studies — FreeStand	CASES/steps	a sample claim journey built for a cause
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Two audiences
+b2b	tpl:Case Studies — FreeStand	CASES/steps	the smoker who wants to quit, and the family who wants them to
 b2b	tpl:Case Studies — FreeStand	CASES/steps	in the customer's own language
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Nicotex sample delivered to the doorstep
 b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback + sales
+b2b	tpl:Case Studies — FreeStand	CASES/steps	redirect on positive feedback
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Quit journeys started on No Tobacco Day
 b2b	tpl:Case Studies — FreeStand	CASES/mets	Languages — Hindi & English chatbot
 b2b	tpl:Case Studies — FreeStand	CASES/mets	31 May

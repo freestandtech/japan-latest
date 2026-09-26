@@ -60,6 +60,7 @@ POST_EDITS = [
     ("40 secondsで", "40秒で"),
     ("さくらには配信しません", "さくらさんには配信しません"),
     ("さくらはドライフード", "さくらさんはドライフード"),
+    ("Gold · 繰り越し", "ゴールド・繰り越し"),
     # purposes list: "Nothing else" means no other purpose, not no other data
     ("Nestléの広告。これ以外の情報はお預かりしません。", "Nestléの広告。これ以外の目的には使用しません。"),
     # profile tag has a fixed width; the full phrase gets truncated
@@ -74,6 +75,35 @@ OVERRIDES = {
     "as a friend.": "を友だち追加しました。",
     "Earn": "獲得",
     "points": "ポイント",
+    "points to": "ポイントで次のランク：",
+    "is now a": "さんが",
+    "member": "の会員になりました",
+    "days": "日",
+    "resolves to": "→",
+    "reserved for this claim": "をこの申込用に確保",
+    "inventory held at": "在庫の保管場所：",
+    "Inventory held at": "在庫の保管場所：",
+    "Confirmation sent to the customer · sample reserved at": "お客様へ確認通知を送信済み · サンプルの確保先：",
+    "is now serviced": "が配送対象になりました",
+    "powered by": "提供：",
+    "Manage and view your saved claimant audience segments — built across every":
+        "保存済みの申込者オーディエンスセグメントを管理・閲覧できます —",
+    "campaign, not just one": "の全キャンペーンを横断（単一キャンペーンに限りません）",
+    "☰ Demos": "☰ デモ一覧",
+    "Thank you — restart": "ありがとうございました — 最初に戻る",
+    # reviewed wording for short dashboard/popup labels
+    "still available": "在庫残数",
+    "the fulfilment centre": "物流センター",
+    "the nearest fulfilment centre": "最寄りの物流センター",
+    "brand stays quiet": "ブランドからの配信は控えます",
+    "feedback question fires": "フィードバックの質問を送信",
+    "max, in the whole window": "期間中の上限",
+    "customers posted reviews": "人がレビューを投稿",
+    "answered the follow-up": "フォローアップに回答",
+    "tapped to buy": "購入ボタンをタップ",
+    "the right size, first time": "最初から適切なサイズ",
+    # loyalty tiers: one consistent katakana form
+    "Bronze": "ブロンズ", "Silver": "シルバー", "Gold": "ゴールド", "Platinum": "プラチナ",
 }
 
 # Fugu keeps English time units next to numbers ("2 days", "1–7 years");

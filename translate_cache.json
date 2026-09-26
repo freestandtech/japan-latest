@@ -3,6 +3,10 @@
   "en": "of “already buy it” answers",
   "ja": "「すでに購入している」の回答のうち"
  },
+ "b2b:00108f7baa6040ac4af38a8d": {
+  "en": "high user interactivity",
+  "ja": "ユーザーとの高いインタラクティブ性"
+ },
  "b2b:00718267983b152ebeb4c95a": {
   "en": "15.5%⟦0⟧⟦1⟧tapped through to buy",
   "ja": "15.5%⟦0⟧⟦1⟧購入ページへ進んだ割合"
@@ -94,6 +98,10 @@
  "b2b:03606c440ad4246ed17b95ae": {
   "en": "Brand switched from + why",
   "ja": "乗り換え前のブランドと理由"
+ },
+ "b2b:039e51b029e3f3cb9abd4273": {
+  "en": "sample cost avoided",
+  "ja": "サンプル費用削減額"
  },
  "b2b:03a89fd939f610cf7b9742eb": {
   "en": "Delivered claimants in Osaka, Kyoto and Hyogo who gave negative feedback. Suppress from conversion campaigns.",
@@ -222,6 +230,10 @@
  "b2b:0812250bf4adc73291db932c": {
   "en": "Delivered claimants for whom Premium Care proves little; route to the Baby-Dry line.",
   "ja": "サンプルを受け取った申込者のうち、Premium Careの訴求効果が低い層をBaby-Dryラインへ誘導します。"
+ },
+ "b2b:08463cc39cf8f869362c6f71": {
+  "en": "the nearest fulfilment centre",
+  "ja": "最寄りのフルフィルメントセンター"
  },
  "b2b:0858a94829b41fc401a166de": {
   "en": "May your wish come true ✨⟦0⟧Your tanzaku is hanging on the Familyness wish tree, Mayumi — and your LACTOGROW points are doubled this week.",
@@ -547,6 +559,10 @@
   "en": "Tanabata — wish tanzaku",
   "ja": "七夕 — 願いごとの短冊"
  },
+ "b2b:131f0654d4d0fceca08f531b": {
+  "en": "highest conversion intent across all sampling campaigns",
+  "ja": "全サンプリングキャンペーン中で最も高いコンバージョン意向"
+ },
  "b2b:133577ff0e13ee886b33d697": {
   "en": "Retention",
   "ja": "継続率"
@@ -570,6 +586,10 @@
  "b2b:13659d5758cf10bfa2be3964": {
   "en": "Premium Care · S trial pack",
   "ja": "Premium Care · Sサイズ お試しパック"
+ },
+ "b2b:13852a4d63e71e620cb8630e": {
+  "en": "then every campaign reuses it",
+  "ja": "その後、すべてのキャンペーンで再利用されます。"
  },
  "b2b:13afebd98c45a040a01e7cc8": {
   "en": "1px solid #F1F3F6",
@@ -622,6 +642,10 @@
  "b2b:156ff3e00df0ad6b2ce6bc70": {
   "en": "Live Numbers",
   "ja": "リアルタイムの数値"
+ },
+ "b2b:157874676e3bbbd376fc3cf8": {
+  "en": "clicks on the purchase link",
+  "ja": "購入リンクのクリック数"
  },
  "b2b:158b8118b1c5849a792aa075": {
   "en": "Purchase intent averages 14.5% across 23,905 delivered claimants. Whether the baby has sensitive skin is the dominant predictor (48% of predictive power); the parent's main diaper concern adds another 31%.",
@@ -747,6 +771,10 @@
   "en": "1:30 min",
   "ja": "1:30 min"
  },
+ "b2b:19b8050df246bc875dae27c2": {
+  "en": "delivered on time",
+  "ja": "予定どおり配送済み"
+ },
  "b2b:19f64959d086c52fefd800c0": {
   "en": "Kawasaki",
   "ja": "川崎"
@@ -787,6 +815,10 @@
   "en": "+1.5pp above average",
   "ja": "平均を+1.5pp上回る"
  },
+ "b2b:1bc515026b7e703c6b4d1ddf": {
+  "en": "rich consumer profiling",
+  "ja": "詳細な消費者プロファイリング"
+ },
  "b2b:1bfb6d976055b34ff2006796": {
   "en": "MATCHED",
   "ja": "マッチ済み"
@@ -818,6 +850,10 @@
  "b2b:1d2ab412581f51810421acc3": {
   "en": "1.6pp below average",
   "ja": "平均を1.6pp下回る"
+ },
+ "b2b:1d829bc38b053b8bcf1d4e86": {
+  "en": "high-volume interaction",
+  "ja": "大量のインタラクション"
  },
  "b2b:1d97519fdc2c391055c39d94": {
   "en": "901-0152 → outside the campaign geography",
@@ -935,6 +971,10 @@
   "en": "and accounts for ⟦0⟧71%⟦1⟧ of predictive power. The SKU the customer received follows directly from it.",
   "ja": "また、予測力の⟦0⟧71%⟦1⟧を占めます。顧客が受け取るSKUも、これに基づいて直接決まります。"
  },
+ "b2b:220fc8ee0555f174b0eddbae": {
+  "en": "welcome points",
+  "ja": "ウェルカムポイント"
+ },
  "b2b:221219a0126a7ccf1566b3e5": {
   "en": "Live numbers",
   "ja": "リアルタイム数値"
@@ -1027,9 +1067,17 @@
   "en": "Claim success → order + live inventory",
   "ja": "申込完了 → 注文作成 + リアルタイム在庫反映"
  },
+ "b2b:2585f1d9373520126ebaa234": {
+  "en": "parents shared their moments",
+  "ja": "保護者が思い出の瞬間をシェア"
+ },
  "b2b:2597cff6ae4618c08147e09f": {
   "en": "yjtag 7740-XX",
   "ja": "yjtag 7740-XX"
+ },
+ "b2b:25b17facaa4a30c337e7f0ad": {
+  "en": "every step of the way",
+  "ja": "すべてのステップで"
  },
  "b2b:25b8e85183db55bd17179c6b": {
   "en": "Cost / shipment",
@@ -1119,6 +1167,10 @@
   "en": "Why wait?⟦0⟧ The customer gets time to actually use the sample. FreeStand holds all messaging for the gratification period, then triggers the feedback question automatically · one nudge, at the right moment, on the channel the customer already replied on.",
   "ja": "待つ理由は？⟦0⟧お客様が実際にサンプルを使う時間を確保するためです。FreeStandは、サンプルを体験する期間中はメッセージの送信をすべて控え、その後、フィードバックの質問を自動でお送りします。お客様がすでに返信したチャネルで、適切なタイミングに1回だけお声がけします。"
  },
+ "b2b:28506a1b1002783acd60b773": {
+  "en": "brand stays quiet",
+  "ja": "ブランドは表立って発信しません。"
+ },
  "b2b:286af26bc87f75faac5a7c9f": {
   "en": "The form is integrated into your website",
   "ja": "フォームは貴社のウェブサイトに組み込まれます。"
@@ -1170,6 +1222,10 @@
  "b2b:29b13025e53c3c205da41288": {
   "en": "Assign SKUs⟦0⟧⟦1⟧Conditionally assign SKUs to claimants based on their responses",
   "ja": "SKUの割り当て⟦0⟧⟦1⟧申請者の回答に応じて、SKUを条件付きで割り当てます。"
+ },
+ "b2b:29e48428686ede7cf4a92992": {
+  "en": "doorstep photo",
+  "ja": "玄関先の写真"
  },
  "b2b:29f89f0fde107153b016c533": {
   "en": "Card, points, festivals.",
@@ -1383,6 +1439,10 @@
   "en": "Purchase with coupon",
   "ja": "クーポンを使って購入"
  },
+ "b2b:31dff4c61eef9e149223e76b": {
+  "en": "integrated redirect on positive feedback",
+  "ja": "ポジティブなフィードバック時の連携リダイレクト"
+ },
  "b2b:31f6b7dc2a302ce9054b8ea4": {
   "en": "Delivered claimants who tapped through to the store",
   "ja": "ストアへ遷移した配送済みの申込者"
@@ -1430,6 +1490,10 @@
  "b2b:33b25597d52c855955476ec1": {
   "en": "What Drives Purchase Intent",
   "ja": "購入意向を左右する要因"
+ },
+ "b2b:33cb2038a338920756311c04": {
+  "en": "direct customer answers",
+  "ja": "顧客からの直接回答"
  },
  "b2b:344811cf7dc34fb149131c70": {
   "en": "WAITLIST POSITION",
@@ -1547,6 +1611,10 @@
   "en": "FreeStand compliance JP",
   "ja": "FreeStand コンプライアンス（日本）"
  },
+ "b2b:3957912af78044b5a1bb3f92": {
+  "en": "unique insights collected",
+  "ja": "収集した独自のインサイト"
+ },
  "b2b:39628b3f99793bc1093500f3": {
   "en": "Re-engagement Flows",
   "ja": "再エンゲージメントフロー"
@@ -1622,6 +1690,10 @@
  "b2b:3b05723f37c520080f4d5f50": {
   "en": "Personal details⟦0⟧⟦1⟧Other details⟦2⟧⟦3⟧Relevant cohorts",
   "ja": "個人情報⟦0⟧⟦1⟧その他の情報⟦2⟧⟦3⟧該当コホート"
+ },
+ "b2b:3b4a5b9dbdfb54d0b1fcc9fc": {
+  "en": "stored as profile tags",
+  "ja": "プロフィールのタグとして保存"
  },
  "b2b:3b737c36bb6aea03dfd92737": {
   "en": "The brand opens the area",
@@ -1699,6 +1771,10 @@
   "en": "Geo",
   "ja": "地域"
  },
+ "b2b:3f62c52df93adbcde44be130": {
+  "en": "after the gratification period",
+  "ja": "特典付与期間の終了後"
+ },
  "b2b:3f783f556fbf00169a73ad3e": {
   "en": "VERIFIED ADDRESS · SAMPLE APPROVED",
   "ja": "住所確認済み · サンプル承認済み"
@@ -1742,6 +1818,10 @@
  "b2b:40de49d247bbcd29bfb22828": {
   "en": "SKU allocation",
   "ja": "SKU割り当て"
+ },
+ "b2b:40f4473f7041f6a31ca4dc96": {
+  "en": "web-form claim journey",
+  "ja": "Webフォームでの受け取り申込フロー"
  },
  "b2b:41ed2dc0ed249b22bd803e4c": {
   "en": "Total Feedback Responses",
@@ -1995,6 +2075,10 @@
   "en": "Nyūgakushiki — first school day",
   "ja": "入学式 — 初登校日"
  },
+ "b2b:49fe0f8e2b193d51c67d499e": {
+  "en": "mediums tracked",
+  "ja": "計測対象媒体"
+ },
  "b2b:4a0b529a6f77cb2796200f79": {
   "en": "2026: Nestlé LACTOGROW Web Sampling — Japan · existing-customer branch",
   "ja": "2026年：Nestlé LACTOGROW ウェブサンプリング — 日本・既存顧客向け分岐"
@@ -2038,6 +2122,14 @@
  "b2b:4b623e6564d2cf0040bf177c": {
   "en": "Waiting for restock only",
   "ja": "再入荷待ちのみ"
+ },
+ "b2b:4b8d54a88442d23867d6feb2": {
+  "en": "of verified samplers enrolled",
+  "ja": "の認証済みサンプリング参加者が登録"
+ },
+ "b2b:4be7ae734a4131ef4d39df01": {
+  "en": "days⟦0⟧⟦1⟧promised to the customer",
+  "ja": "日⟦0⟧⟦1⟧お客様への約束期間"
  },
  "b2b:4c46a7a4c233a1daaeaede26": {
   "en": "Which brand she buys today · and whether this campaign wants her",
@@ -2195,6 +2287,10 @@
   "en": "English",
   "ja": "英語"
  },
+ "b2b:5157d74df5130ba5b9003539": {
+  "en": "live preview",
+  "ja": "ライブプレビュー"
+ },
  "b2b:51593813f356888e4570329e": {
   "en": "Manage Analytics",
   "ja": "アナリティクス管理"
@@ -2222,6 +2318,10 @@
  "b2b:528a1ef48d162966869d32c0": {
   "en": "Deleted on schedule, logged for audit",
   "ja": "所定の期日に削除し、監査用に記録"
+ },
+ "b2b:529997eef2b9c521248a9099": {
+  "en": "automatic capture after use",
+  "ja": "利用後の自動取得"
  },
  "b2b:52b6b5741e39e8142c880008": {
   "en": "Allocated",
@@ -2511,6 +2611,10 @@
   "en": "Queued at #1,482 · coupon issued instantly",
   "ja": "待機順位：#1,482・クーポンは即時発行済み"
  },
+ "b2b:5b5e858d8746069c07bef2d8": {
+  "en": "answered the follow-up",
+  "ja": "フォローアップに回答しました"
+ },
  "b2b:5bd323c343f2659b8d2aebd8": {
   "en": "Audience lists 13 mo",
   "ja": "オーディエンスリスト 13か月"
@@ -2735,6 +2839,10 @@
   "en": "Tokyo",
   "ja": "東京"
  },
+ "b2b:632b71a8cbb000ba6b97e013": {
+  "en": "the smoker who wants to quit, and the family who wants them to",
+  "ja": "禁煙したい喫煙者と、その人に禁煙してほしい家族"
+ },
  "b2b:63353149bce18bd490f0ba6e": {
   "en": "3 hours ago",
   "ja": "3時間前"
@@ -2790,6 +2898,10 @@
  "b2b:6530e25f743cbbf094a7e6de": {
   "en": "Serviceable area",
   "ja": "サービス提供エリア"
+ },
+ "b2b:65522168096394970b1641d9": {
+  "en": "the fulfilment centre",
+  "ja": "フルフィルメントセンター"
  },
  "b2b:6569ed4bbf9133ad5da2bf02": {
   "en": "Your family manga is ready — share it anywhere.",
@@ -2875,6 +2987,10 @@
   "en": "yahoo · cpc",
   "ja": "yahoo · cpc"
  },
+ "b2b:683babc1077e5039d3e6d4d4": {
+  "en": "unprecedented outreach to the target group",
+  "ja": "ターゲット層へのこれまでにないリーチ"
+ },
  "b2b:684da3074ffc089bbdfb30b3": {
   "en": "Not serviced yet",
   "ja": "未対応"
@@ -2930,6 +3046,10 @@
  "b2b:6ac9ce54bf99a0b9dc48806b": {
   "en": "chatbot → retail purchase page",
   "ja": "チャットボット → 小売店の購入ページ"
+ },
+ "b2b:6b03e717f11b1d20602c3803": {
+  "en": "easy and quick to customise per brand",
+  "ja": "ブランドごとに簡単かつ迅速にカスタマイズ可能"
  },
  "b2b:6b0c78675b78d1eadf56018d": {
   "en": "Launch sampling for a new-to-market skincare brand",
@@ -3183,6 +3303,10 @@
   "en": "Bring her in",
   "ja": "彼女を中に入れてください。"
  },
+ "b2b:74aaa99cd80020bf59410db7": {
+  "en": "bought with the coupon",
+  "ja": "クーポンを利用して購入"
+ },
  "b2b:74ae03eab86fca11e06c7ce2": {
   "en": "Plain language: what we collect, why, who sees it, and that ⟦0⟧FreeStand India accesses it⟦1⟧. The consent box is written from the notice, so the form can’t ask for more.",
   "ja": "わかりやすい言葉で、お預かりする情報、利用目的、閲覧者、そして⟦0⟧FreeStand Indiaが情報にアクセスすること⟦1⟧を明記します。同意欄は「個人情報の取扱いについて」の内容をもとに作成されるため、フォームでそれ以上の情報を求めることはできません。"
@@ -3223,6 +3347,10 @@
   "en": "Other",
   "ja": "その他"
  },
+ "b2b:76228b440c05d698050242ec": {
+  "en": "feedback question fires",
+  "ja": "フィードバックの質問が表示される"
+ },
  "b2b:768cb9d504e017a6380cea96": {
   "en": "0.7pp below average",
   "ja": "平均を0.7pp下回る"
@@ -3238,6 +3366,10 @@
  "b2b:76d7b8ebc0aa94657617b8c5": {
   "en": "Stuffiness",
   "ja": "蒸れ"
+ },
+ "b2b:76fcf892f2d89290edf81f6b": {
+  "en": "tapped to buy",
+  "ja": "購入するためにタップ"
  },
  "b2b:770640432dcbcd34840b5f18": {
   "en": "PII collected",
@@ -3286,6 +3418,10 @@
  "b2b:7832fcc68f8751ea95ba9a6f": {
   "en": "Claim Success 🎉",
   "ja": "受け取り完了 🎉"
+ },
+ "b2b:78fa6769fcf75c99bc6d47b2": {
+  "en": "samples claimed",
+  "ja": "サンプル申込数"
  },
  "b2b:79117510d89c07e2a6334d75": {
   "en": "Privacy notice & consent — before any data",
@@ -3366,6 +3502,10 @@
  "b2b:7b2b0898a20fa4c26a2ae08d": {
   "en": "Qualify → pack → courier → verify → ship → ask → convert.",
   "ja": "対象者を選定 → 梱包 → 配送業者を手配 → 確認 → 発送 → 回答を依頼 → コンバージョン"
+ },
+ "b2b:7b362ec4d0c0a0a6cb515366": {
+  "en": "not allocated",
+  "ja": "未割り当て"
  },
  "b2b:7b38f32bd5a8678db2c037d4": {
   "en": "40s⟦0⟧her story → a manga she shared herself",
@@ -3550,6 +3690,10 @@
  "b2b:7f652773ccaf747b757748f7": {
   "en": "No sample needed — the budget goes to keeping her instead.",
   "ja": "サンプルは不要です。その分の予算は、彼女を引き留めるために使います。"
+ },
+ "b2b:7f812cd75cf7d498d826f193": {
+  "en": "direct customer conversation and qualification in chat",
+  "ja": "チャットでの顧客との直接対話と見込み度の判定"
  },
  "b2b:7fa3855e8c764938790e7dd9": {
   "en": "¥11,240⟦0⟧400 g with the coupon · then 850 g twice, no coupon",
@@ -3835,6 +3979,10 @@
   "en": "Already a LACTOGROW family",
   "ja": "すでにLACTOGROWをご利用のご家庭"
  },
+ "b2b:872a05cd186a781e684ab5ca": {
+  "en": "chatbot interaction",
+  "ja": "チャットボットとのやり取り"
+ },
  "b2b:8758322f0adc18eee3a5de07": {
   "en": "LINE user ID",
   "ja": "LINEユーザーID"
@@ -3870,6 +4018,10 @@
  "b2b:893c555240653a2ee009df97": {
   "en": "First Christmas set",
   "ja": "初めてのクリスマスセット"
+ },
+ "b2b:894060f77874852f3f99694a": {
+  "en": "extra forms to fill",
+  "ja": "追加で記入するフォーム"
  },
  "b2b:894b1e9b3cd80905e5ce37e7": {
   "en": "Product",
@@ -4151,6 +4303,10 @@
   "en": "LINE Official Account · FreeStand DB",
   "ja": "LINE公式アカウント · FreeStand DB"
  },
+ "b2b:9240e310fe2dba1894f03b79": {
+  "en": "hair-concern questions in chat",
+  "ja": "チャットでの髪の悩みに関する質問"
+ },
  "b2b:92d5fd5181f09aab68a00cc7": {
   "en": "Customer",
   "ja": "顧客"
@@ -4158,6 +4314,10 @@
  "b2b:92e4b8595a0dc40ee9841dc7": {
   "en": "Day 42",
   "ja": "42日目"
+ },
+ "b2b:936bffc1a47541300bd36443": {
+  "en": "delivered claimants",
+  "ja": "配送済み申込者"
  },
  "b2b:938363b4344da909cfa02f20": {
   "en": "Orders, delivery-partner assignment and live sample inventory",
@@ -4323,6 +4483,14 @@
   "en": "UTM sources",
   "ja": "UTMソース"
  },
+ "b2b:9a5c31958f870b5146f27fe2": {
+  "en": "redirect on positive feedback",
+  "ja": "好意的なフィードバック時にリダイレクト"
+ },
+ "b2b:9a60b4962453a86f487689bd": {
+  "en": "active conversation",
+  "ja": "進行中の会話"
+ },
  "b2b:9aa0e0b4a9b4a50f83cb7632": {
   "en": "Two audiences",
   "ja": "2つのオーディエンス"
@@ -4367,6 +4535,10 @@
   "en": "Coupon, card or waiting",
   "ja": "クーポン、カード、または順番待ち"
  },
+ "b2b:9c237f216ce1f9a948a23cbb": {
+  "en": "zero-party data",
+  "ja": "ゼロパーティデータ"
+ },
  "b2b:9c70fbcbd83390b352732bfc": {
   "en": "Enrollments attributed to the creative",
   "ja": "クリエイティブに起因する登録数"
@@ -4406,6 +4578,10 @@
  "b2b:9d73117073cbfdfa08b1fa9f": {
   "en": "= Senior (7+ years) AND",
   "ja": "= シニア（7+ years） AND"
+ },
+ "b2b:9deccff10d8e7a76c107c6a3": {
+  "en": "doorstep delivery of the sample",
+  "ja": "サンプルの玄関先へのお届け"
  },
  "b2b:9df23f965d4720845211b4bf": {
   "en": "154-0001 Setagaya",
@@ -4579,6 +4755,10 @@
   "en": "Audits",
   "ja": "監査"
  },
+ "b2b:a2500a43edd28a07e5f8536a": {
+  "en": "across all three brand websites",
+  "ja": "3つのブランドサイト全体で"
+ },
  "b2b:a29d5002065590a137e689b7": {
   "en": "Feedback + purchase CTA",
   "ja": "フィードバック＋購入CTA"
@@ -4586,6 +4766,10 @@
  "b2b:a2a69693747e15a674adea9a": {
   "en": "Tanabata",
   "ja": "七夕"
+ },
+ "b2b:a2abe0854bd517a53219aa7b": {
+  "en": "wallet across every brand line",
+  "ja": "すべてのブランドラインにおける顧客の支出"
  },
  "b2b:a2c7fc14323e34afbd41f25a": {
   "en": "UGC given",
@@ -4654,6 +4838,10 @@
  "b2b:a61366fd3e36744b730fac2a": {
   "en": "She told the form she buys on Distacart",
   "ja": "フォームでは、普段Distacartで購入していると回答しました。"
+ },
+ "b2b:a619443e078305afec878c7c": {
+  "en": "of post-stock-out visitors",
+  "ja": "在庫切れ後の訪問者に占める割合"
  },
  "b2b:a66134bb2d8d05532aa25538": {
   "en": "Target Audiences",
@@ -4806,6 +4994,10 @@
  "b2b:ac3e3df5ebf2d14007621224": {
   "en": "Why website sampling",
   "ja": "ウェブサイトでサンプリングを行う理由"
+ },
+ "b2b:ac44d1c6659244f707cc6e52": {
+  "en": "target audience",
+  "ja": "ターゲット層"
  },
  "b2b:ac856ac6e47d537c0b0c9006": {
   "en": "High intent · 3,595 members",
@@ -4999,6 +5191,10 @@
   "en": "Sensitive skin: Yes",
   "ja": "敏感肌：はい"
  },
+ "b2b:b38580779819524d832886c8": {
+  "en": "allocated automatically from the answers",
+  "ja": "回答に基づいて自動的に割り当てられます"
+ },
  "b2b:b3886ad8e6aadf2e1a80aa8d": {
   "en": "Until unfriend / withdrawal",
   "ja": "友だち解除または退会まで"
@@ -5119,6 +5315,14 @@
   "en": "Food type: Dry food",
   "ja": "フードの種類：ドライフード"
  },
+ "b2b:b6f7d86b3b35e95af8926f69": {
+  "en": "reach parents at the moment of intent",
+  "ja": "購買意欲が高まるタイミングで保護者にアプローチ"
+ },
+ "b2b:b7143bcdcad13ccf815ba3dc": {
+  "en": "people queued after stock-out",
+  "ja": "在庫切れ後の順番待ち人数"
+ },
  "b2b:b71bf60a08f04b015847e5e4": {
   "en": "What's your biggest diaper concern?",
   "ja": "おむつについて、いちばん気になることは何ですか？"
@@ -5142,6 +5346,10 @@
  "b2b:b7513e44f6721686355c2229": {
   "en": "What the audience actually answered — each question becomes a tag on the customer profile.",
   "ja": "オーディエンスが実際に回答した内容です。各質問は顧客プロフィールのタグとして記録されます。"
+ },
+ "b2b:b7aadfa8dfd12fe40d1b6b03": {
+  "en": "integrated sales redirect on positive feedback",
+  "ja": "ポジティブなフィードバック時の販売ページへのリダイレクト連携"
  },
  "b2b:b7f2e63e26f25031b87b09ab": {
   "en": "Share a photo of your little one enjoying LACTOGROW and earn 250 points 📸",
@@ -5419,6 +5627,10 @@
   "en": "Integration t…⟦0⟧1⟦1⟧⟦2⟧07:36 PM",
   "ja": "連携…⟦0⟧1⟦1⟧⟦2⟧午後07:36"
  },
+ "b2b:c12f79e7081a2d7c4ef91fcc": {
+  "en": "product sample delivered to the doorstep",
+  "ja": "玄関先までお届けする製品サンプル"
+ },
  "b2b:c13d91c01ef65e8e1547f060": {
   "en": "Manage Analytics V2",
   "ja": "分析の管理 V2"
@@ -5639,6 +5851,18 @@
   "en": "1,240 waiting in 901-0152 — threshold was 1,000",
   "ja": "901-0152の待機数：1,240（しきい値：1,000）"
  },
+ "b2b:c70a40243e95c7f0593b78b4": {
+  "en": "the warehouse",
+  "ja": "倉庫"
+ },
+ "b2b:c70f2f3930d700105b2a64fb": {
+  "en": "rule branch",
+  "ja": "ルール分岐"
+ },
+ "b2b:c7105ddc1b24d755574f2f42": {
+  "en": "on unfriend",
+  "ja": "友だち解除時"
+ },
  "b2b:c719ff0f04e3b81798d68c9b": {
   "en": "Pet parents",
   "ja": "ペットの飼い主"
@@ -5663,6 +5887,10 @@
   "en": "orders today · ⟦0⟧New order created successfully⟦1⟧⟦2⟧⟦3⟧Close⟦4⟧⟦5⟧Order Created",
   "ja": "本日の注文 · ⟦0⟧新しい注文を作成しました⟦1⟧⟦2⟧⟦3⟧閉じる⟦4⟧⟦5⟧注文作成完了"
  },
+ "b2b:c7cd40f1f731eaada44d06df": {
+  "en": "focused engagement with young parents",
+  "ja": "若い子育て世代への重点的なエンゲージメント"
+ },
  "b2b:c7df7dac6240dd2f65f91fa9": {
   "en": "INSIGHTS",
   "ja": "インサイト"
@@ -5678,6 +5906,10 @@
  "b2b:c8360ab4697b76607353be0a": {
   "en": "Existing buyers → enrolled",
   "ja": "既存購入者 → 登録済み"
+ },
+ "b2b:c8720fd40483f7fd9e7d651a": {
+  "en": "platforms tracked",
+  "ja": "追跡対象プラットフォーム"
  },
  "b2b:c87992de8dd44766a39a86d8": {
   "en": "+ Add logic",
@@ -5746,6 +5978,10 @@
  "b2b:caea1ce441d3e5b25aedca52": {
   "en": "Aug 13",
   "ja": "8月13日"
+ },
+ "b2b:cb036e0ed0307e9c079d4701": {
+  "en": "captured for every claimant",
+  "ja": "すべての申込者から取得"
  },
  "b2b:cb3b66fd5066af64547e7e16": {
   "en": "Nestlé Lactogrow · Infant nutrition",
@@ -5867,6 +6103,10 @@
   "en": "Claimed",
   "ja": "受け取り済み"
  },
+ "b2b:ce2b522e419431928c925a54": {
+  "en": "in the brand chatbot",
+  "ja": "ブランドのチャットボット内で"
+ },
  "b2b:ce3ed874f2abcbd88f546ba9": {
   "en": "Did not like it",
   "ja": "気に入りませんでした"
@@ -5906,6 +6146,10 @@
  "b2b:cf4413b5ca5fc882312e1a37": {
   "en": "Store chosen from her own answer",
   "ja": "本人の回答に基づいて選ばれた店舗"
+ },
+ "b2b:cf51ad09b8c8da5b55ed8709": {
+  "en": "reminder only if no reply",
+  "ja": "返信がない場合のみリマインダーを送信"
  },
  "b2b:cf612b474b3e527a6aefea47": {
   "en": "Address validity",
@@ -5951,6 +6195,10 @@
   "en": "brand they used to buy & why they switched to Little's",
   "ja": "以前購入していたブランドとLittle'sへの切り替え理由"
  },
+ "b2b:d04ecdcf099f8e95dd8e0f4d": {
+  "en": "still available",
+  "ja": "まだご利用いただけます。"
+ },
  "b2b:d06f65c2ad55a9f283239212": {
   "en": "LACTO20 · 20%",
   "ja": "LACTO20 · 20%"
@@ -5983,6 +6231,10 @@
   "en": "How much does your baby weigh?",
   "ja": "赤ちゃんの体重はどのくらいですか？"
  },
+ "b2b:d148f0b0e2f561ba9f569cd4": {
+  "en": "high customer satisfaction",
+  "ja": "高い顧客満足度"
+ },
  "b2b:d1548c485cf10684888157e5": {
   "en": "Nestlé Familyness membership",
   "ja": "Nestlé Familyness 会員"
@@ -6014,6 +6266,10 @@
  "b2b:d2284b2d5b47a925428684d3": {
   "en": "Run the whole engagement",
   "ja": "エンゲージメント全体を運用"
+ },
+ "b2b:d23e4010744efca0fd10daf8": {
+  "en": "max, in the whole window",
+  "ja": "期間全体の最大値"
  },
  "b2b:d2439b7be7b9b7ba422fe234": {
   "en": "One form, both kinds of visitor",
@@ -6131,6 +6387,10 @@
   "en": "Write a wish",
   "ja": "願いを書く"
  },
+ "b2b:d63f04f026422ddcf7b38cf2": {
+  "en": "integrated for all key events",
+  "ja": "すべての主要イベントに統合済み"
+ },
  "b2b:d655638909c8e1d55205e10d": {
   "en": "SKU allocation from the chat answers",
   "ja": "チャット回答に基づくSKU割り当て"
@@ -6174,6 +6434,10 @@
  "b2b:d7f855f81540e9b78e5b9473": {
   "en": "Next demo",
   "ja": "次のデモ"
+ },
+ "b2b:d83d671009c8432c6792bba3": {
+  "en": "a sample claim journey built for a cause",
+  "ja": "社会貢献を目的に設計したサンプル申込ジャーニー"
  },
  "b2b:d88c9224ac2c5e116ccdf607": {
   "en": "Purpose",
@@ -6459,6 +6723,10 @@
   "en": "Score",
   "ja": "スコア"
  },
+ "b2b:e231a6b3d662fc0ca27b7d9f": {
+  "en": "captured automatically after use",
+  "ja": "使用後に自動で取得"
+ },
  "b2b:e245ceb02c4d981fa1fa3296": {
   "en": "Qualified journey",
   "ja": "条件を満たしたジャーニー"
@@ -6498,6 +6766,10 @@
  "b2b:e310bd44f1dd04dd065507db": {
   "en": "WAITING",
   "ja": "待機中"
+ },
+ "b2b:e31a0769204c5f57258caf0a": {
+  "en": "this demo",
+  "ja": "このデモ"
  },
  "b2b:e349d411f921361811e99064": {
   "en": "Ads to mothers with toddlers",
@@ -6547,6 +6819,10 @@
   "en": "Jul 22, 2026",
   "ja": "2026年7月22日"
  },
+ "b2b:e605bb1cb57d4c9d92efff00": {
+  "en": "customers posted reviews",
+  "ja": "顧客がレビューを投稿しました。"
+ },
  "b2b:e6239ab1000c7a218c5e04e8": {
   "en": "Declared reason where feedback was negative",
   "ja": "ネガティブなフィードバックの申告理由"
@@ -6558,6 +6834,10 @@
  "b2b:e6d9a8d0b811c42890494c86": {
   "en": "Dynamic audience of delivered claimants in Tokyo, Kanagawa, Saitama and Chiba who gave negative feedback. Suppress from conversion spend; use for product insight.",
   "ja": "東京都、神奈川県、埼玉県、千葉県で商品を受け取り、否定的なフィードバックを寄せた申込者で構成する動的オーディエンスです。コンバージョン目的の広告配信から除外し、商品に関するインサイトの収集に活用します。"
+ },
+ "b2b:e70fba9cdf0a80e19d4bc023": {
+  "en": "the right size, first time",
+  "ja": "最初から適切なサイズを"
  },
  "b2b:e72f8990968fa9c86c08ac4c": {
   "en": "The same snippet serves both journeys.",
@@ -6699,6 +6979,10 @@
   "en": "claims",
   "ja": "申請件数"
  },
+ "b2b:ec995ec3ab07638bd25867bc": {
+  "en": "of all form completions",
+  "ja": "全フォーム入力完了のうち"
+ },
  "b2b:ecf39102964c87d5c0881c21": {
   "en": "ENROLLED",
   "ja": "登録済み"
@@ -6731,6 +7015,10 @@
   "en": "Pedigree Overall Jan – Sep 2026",
   "ja": "Pedigree 全体（2026年1月～9月）"
  },
+ "b2b:ee1cb847f3d4a850d6817955": {
+  "en": "drives the audience into the brand chatbot",
+  "ja": "オーディエンスをブランドのチャットボットへ誘導します"
+ },
  "b2b:ee462ae932c11194428f8d9c": {
   "en": "9 NOV⟦0⟧⟦1⟧¥11,240⟦2⟧⟦3⟧named member",
   "ja": "11月9日⟦0⟧⟦1⟧¥11,240⟦2⟧⟦3⟧氏名登録済み会員"
@@ -6750,6 +7038,10 @@
  "b2b:ef1158a99a0e72e8980c08d9": {
   "en": "Geocoding",
   "ja": "ジオコーディング"
+ },
+ "b2b:ef37d56df5474f83c8441f17": {
+  "en": "high interactivity",
+  "ja": "高いインタラクティブ性"
  },
  "b2b:ef61d2f331feb35cdfa0f2bf": {
   "en": "= Adult (1–7 years)",
@@ -6786,6 +7078,10 @@
  "b2b:f0507edb4904102b2359cca4": {
   "en": "Refresh⟦0⟧⟦1⟧+ Create Audience",
   "ja": "更新⟦0⟧⟦1⟧+ オーディエンスを作成"
+ },
+ "b2b:f059b9f088149af5d820b145": {
+  "en": "the answer alone decides which pack leaves the warehouse",
+  "ja": "その回答だけで、倉庫から出荷するパックが決まります。"
  },
  "b2b:f0985b6e3002bd988ed58dbc": {
   "en": "23 Mar, 2026",
@@ -6971,6 +7267,10 @@
   "en": "Claimant volume trend over time",
   "ja": "申込者数の推移"
  },
+ "b2b:f61a6f0c4eefd6378896f242": {
+  "en": "direct conversation and qualification",
+  "ja": "直接対話と見込み客の選別"
+ },
  "b2b:f62cfacd8c6bc95dffc436c8": {
   "en": "Analysis",
   "ja": "分析"
@@ -6983,6 +7283,10 @@
   "en": "One profile → the right festival moment for each member, and the wrong ones skipped.",
   "ja": "1つのプロフィール → 会員ごとに適したフェスティバルでの接点を選び、適さない接点は除外します。"
  },
+ "b2b:f6598558e8ccdc79ef0e236d": {
+  "en": "vs avg",
+  "ja": "平均比"
+ },
  "b2b:f671b7bbc86657148b69a47f": {
   "en": "The agency’s pixels fire from the form",
   "ja": "代理店のピクセルはフォームから発火します"
@@ -6994,6 +7298,10 @@
  "b2b:f6c5dc9761f4f6911c9743b7": {
   "en": "Adult-dog households already feeding dry food convert at 16.8% — 1.33× the average — and they all received the Pedigree Adult SKU.",
   "ja": "すでにドライフードを与えている成犬の飼育世帯では、コンバージョン率が16.8%と平均の1.33×で、全世帯がPedigree Adult SKUを受け取っています。"
+ },
+ "b2b:f6d45889f6457a00925fa7bf": {
+  "en": "allocated to this campaign",
+  "ja": "このキャンペーンに割り当て済み"
  },
  "b2b:f722feeed56704b81f87383a": {
   "en": "Households with a daughter · 18,600 members",
@@ -7042,6 +7350,10 @@
  "b2b:f8505c647089ab3d9588b3e5": {
   "en": "Launch sampling for a salon range, at scale",
   "ja": "サロン向け製品ラインのサンプリングを大規模に展開"
+ },
+ "b2b:f872c54341892ec466536e2f": {
+  "en": "matches the address the customer typed",
+  "ja": "お客様が入力した住所と一致"
  },
  "b2b:f88f3d2875bd1a95836fe15b": {
   "en": "LINE UID · chat history",
@@ -7698,6 +8010,10 @@
  "consumer:3e994f5433ddd109c8f6eb8d": {
   "en": "Geo waitlist · 901-0152",
   "ja": "エリア別ウェイトリスト · 901-0152"
+ },
+ "consumer:3e9e7ca7ffae455365a3e1fb": {
+  "en": "tap to open",
+  "ja": "タップして開く"
  },
  "consumer:3f94a6e782018c4541850fe6": {
   "en": "2 – 3 years",
@@ -8378,6 +8694,10 @@
  "consumer:aac8d5124e5db9ee4ab98a51": {
   "en": "Address approved · consensus 97.1%",
   "ja": "住所承認済み · 合意率 97.1%"
+ },
+ "consumer:acb20478f56458e8d7d81625": {
+  "en": "lactogrow free sample",
+  "ja": "LACTOGROW 無料サンプル"
  },
  "consumer:ad458b7dffcfcf18a43e063f": {
   "en": "Official website",

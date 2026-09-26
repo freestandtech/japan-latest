@@ -125,7 +125,10 @@ def residual(t):
     return CODE_TOKEN.sub(" ", t)
 
 # single lowercase words that are display text, not identifiers
-DISPLAY_WORDS = {"claims", "points"}
+DISPLAY_WORDS = {"claims", "points", "member", "days"}
+# lowercase strings that are code even though they look like prose
+CODE_STRINGS = {"hub-frame scaled"}
+CSS_WORDS = {"top", "left", "right", "bottom", "center", "auto", "none", "both", "inherit"}
 
 def looks_code(s):
     t = s.strip()
@@ -144,7 +147,9 @@ def looks_code(s):
     if re.search(r"(^|;)\s*[a-z\-]+\s*:\s*[^;]+;", t) and not re.search(r"[A-Za-z]+ [a-z]+ [a-z]+", t.split(":")[0]): return True  # css
     if re.fullmatch(r"(?:[a-z\-]+:[^;]+;?\s*)+", t): return True
     if re.fullmatch(r"[\d\s.,%+\-×x/:#()]*[A-Za-z]{1,3}[\d\s.,%+\-×x/:()]*", t) and not re.search(r"[A-Za-z]{3}", t): return True
-    if not re.search(r"[A-Z]", t) and all(re.fullmatch(r"[.#]?[a-z][\w\-]*(?:\[[^\]]*\])?(?::[\w\-()]+)?", w) for w in re.split(r"[\s>,+~]+", t) if w): return True  # selectors / class lists
+    if t in CODE_STRINGS or all(w in CSS_WORDS for w in t.split()): return True
+    # class lists / selectors: need selector punctuation, or be a single token
+    if not re.search(r"[A-Z]", t) and (re.search(r"[.#\[>]", t) or " " not in t) and all(re.fullmatch(r"[.#]?[a-z][\w\-]*(?:\[[^\]]*\])?(?::[\w\-()]+)?", w) for w in re.split(r"[\s>,+~]+", t) if w): return True  # selectors / class lists
     if re.fullmatch(r"[MmLlHhVvCcSsQqTtAaZz0-9\s.,\-]+", t) and re.search(r"\d", t): return True  # svg path
     if re.fullmatch(r"(rgba?|hsla?|url|translate\w*|scale|rotate|linear-gradient|calc|var)\(.*\)", t, re.S): return True
     if t in {"en-US", "ja-JP", "Arial", "Poppins", "Lexend Deca", "sans-serif", "monospace"}: return True
