@@ -1,0 +1,2237 @@
+register	file	path	english
+b2b	tpl:FreeStand — Japan Demo Hub		FreeStand — Japan Demo Hub
+b2b	tpl:FreeStand — Japan Demo Hub		Demo of Demos · Japan
+b2b	tpl:FreeStand — Japan Demo Hub		keys step through each demo.⟦0⟧Options inside the LINE phone are tappable.
+b2b	tpl:FreeStand — Japan Demo Hub		Previous
+consumer	tpl:FreeStand — Japan Demo Hub		Next
+b2b	tpl:FreeStand Analytics — Japan		FreeStand Analytics — Japan
+b2b	tpl:FreeStand Analytics — Japan	title	FreeStand Analytics
+b2b	tpl:FreeStand Analytics — Japan	MENU	Analytics
+b2b	tpl:FreeStand Analytics — Japan	MENU	Overview
+b2b	tpl:FreeStand Analytics — Japan	MENU	Live Analytics
+b2b	tpl:FreeStand Analytics — Japan	MENU	Data Visualisation
+b2b	tpl:FreeStand Analytics — Japan	MENU	Statistical Analysis
+b2b	tpl:FreeStand Analytics — Japan	MENU	Audience
+b2b	tpl:FreeStand Analytics — Japan	MENU	Saved Audiences
+b2b	tpl:FreeStand Analytics — Japan	MENU	All Claimants
+b2b	tpl:FreeStand Analytics — Japan	MENU	Dashboards
+b2b	tpl:FreeStand Analytics — Japan	MENU	All Charts
+b2b	tpl:FreeStand Analytics — Japan	MENU	Campaign Performance Overview
+b2b	tpl:FreeStand Analytics — Japan	MENU	Geographic Performance
+b2b	tpl:FreeStand Analytics — Japan	MENU	Consumer Profile & Survey Insights
+b2b	tpl:FreeStand Analytics — Japan	MENU	Feedback Deep Dive
+b2b	tpl:FreeStand Analytics — Japan	MENU	Purchase Intent Deep Dive
+b2b	tpl:FreeStand Analytics — Japan	MENU	Channel & Acquisition Analysis
+b2b	tpl:FreeStand Analytics — Japan	MENU	+ New Dashboard
+b2b	tpl:FreeStand Analytics — Japan	PAGES/perf/t	Dashboard
+b2b	tpl:FreeStand Analytics — Japan	drawMenu/innerHTML	Consolidated
+b2b	ana-insights	INS/overview	Live numbers
+b2b	ana-insights	INS/overview	Interactions → qualified → claims → deliveries → feedback → purchase intent, updating as customers come in.
+b2b	ana-insights	INS/overview/t	Live Numbers
+b2b	ana-insights	INS/overview	UTM breakdown for the media agency
+b2b	ana-insights	INS/overview	Every source, platform and medium as a full funnel — the agency sees which ad actually produced claims and purchase intent.
+b2b	ana-insights	INS/overview/t	UTM Source Breakdown
+b2b	ana-insights	INS/live	Claims as they happen
+b2b	ana-insights	INS/live	Daily claims, deliveries and feedback — volume by day or cumulative, for the whole campaign.
+b2b	ana-insights	INS/live/t	Live analytics
+b2b	ana-insights	INS/live	The live feed
+b2b	ana-insights	INS/live	Every row carries the source, the geo, the answer the customer gave and the SKU the rule picked — no extra questions asked.
+b2b	ana-insights	INS/live/t	Live feed
+b2b	ana-insights	INS/dataviz	Every question, charted
+b2b	ana-insights	INS/dataviz	What the audience actually answered — each question becomes a tag on the customer profile.
+b2b	ana-insights	INS/dataviz	Channel funnels
+b2b	ana-insights	INS/dataviz	Each UTM source as its own funnel — which channel brings people who claim, and which brings people who buy.
+b2b	ana-insights	INS/dataviz/t	UTM sources
+b2b	ana-insights	INS/stats	What drives purchase intent
+b2b	ana-insights	INS/stats	A model over every answer: which segment is most likely to buy, which to deprioritise, and what to target in the next wave.
+b2b	ana-insights	INS/stats/t	What Drives Purchase Intent
+b2b	ana-insights	INS/perf	Executive summary
+b2b	ana-insights	INS/perf	Is the campaign performing? Health, conversion and weekly trend for the brand lead — one page.
+b2b	ana-insights	INS/perf/t	Campaign Health at a Glance
+b2b	ana-insights	INS/audiences	Audiences across campaigns
+b2b	ana-insights	INS/audiences	Every claimant the brand has ever sampled sits in one pool — saved as dynamic segments that update themselves as new claims arrive.
+b2b	ana-insights	INS/claimants	View, save, export
+b2b	ana-insights	INS/claimants	Filter the pool by campaign, answer, SKU, feedback or purchase intent → save it as an audience → export to Meta Custom Audiences, Google Ads or LINE Ads.
+b2b	ana-insights	showInsights/innerHTML	WHAT THIS TAB TELLS THE BRAND
+b2b	ana-insights	showInsights/innerHTML	Show me
+b2b	ana-insights		Nobody hits a dead end
+b2b	ana-insights		When campaign stock ran out, visitors were waitlisted, enrolled and given a coupon — counted here as its own metric.
+b2b	ana-insights	t	Waitlisted when the campaign
+b2b	ana-insights		Existing customers, kept
+b2b	ana-insights		Visitors who already buy the brand are enrolled into the loyalty program instead of being sent a sample — counted here as its own metric.
+b2b	ana-data	CAMPAIGNS/days	8 Jan, 2026
+b2b	ana-data	CAMPAIGNS/days	26 Jan, 2026
+b2b	ana-data	CAMPAIGNS/days	13 Feb, 2026
+b2b	ana-data	CAMPAIGNS/days	3 Mar, 2026
+b2b	ana-data	CAMPAIGNS/days	23 Mar, 2026
+b2b	ana-data	CAMPAIGNS/days	11 Apr, 2026
+b2b	ana-data	CAMPAIGNS/days	29 Apr, 2026
+b2b	ana-data	CAMPAIGNS/days	17 May, 2026
+b2b	ana-data	CAMPAIGNS/days	4 Jun, 2026
+b2b	ana-data	CAMPAIGNS/days	22 Jun, 2026
+b2b	ana-data	CAMPAIGNS/days	10 Jul, 2026
+b2b	ana-data	CAMPAIGNS/days	28 Jul, 2026
+b2b	ana-data	CAMPAIGNS/days	15 Aug, 2026
+b2b	ana-data	CAMPAIGNS/days	2 Sep, 2026
+consumer	ana-data	CAMPAIGNS/LQ1	How old is your child?
+consumer	ana-data	CAMPAIGNS/LQ2	What matters most for your child right now?
+consumer	ana-data	CAMPAIGNS/LQ3	Where do you usually shop for your child’s essentials?
+consumer	ana-data	CAMPAIGNS/LQ4	Is your child drinking a growing-up milk today?
+b2b	ana-data	CAMPAIGNS/PQ1	Do you currently have a dog?
+b2b	ana-data	CAMPAIGNS/PQ2	How old is your dog?
+b2b	ana-data	CAMPAIGNS/PQ3	What type of food does your dog usually eat?
+b2b	ana-data	CAMPAIGNS/MQ1	How old is your baby?
+b2b	ana-data	CAMPAIGNS/MQ2	How much does your baby weigh?
+b2b	ana-data	CAMPAIGNS/MQ3	What's your biggest diaper concern?
+b2b	ana-data	CAMPAIGNS/MQ4	Does your baby have sensitive skin?
+b2b	ana-data	CAMPAIGNS/C/pedigree/id	PED-JP-2026
+b2b	ana-data	CAMPAIGNS/C/pedigree/company	Mars Japan Ltd.
+b2b	ana-data	CAMPAIGNS/C/pedigree/name	2026: Pedigree LINE Sampling — Kanto
+b2b	ana-data	CAMPAIGNS/C/pedigree/brand	Pedigree
+b2b	ana-data	CAMPAIGNS/C/pedigree/channelShort	Instagram → LINE chatbot
+b2b	ana-data	CAMPAIGNS/C/pedigree/carrier	Yamato Transport
+b2b	ana-data	CAMPAIGNS/C/pedigree/skuLabel	SKU allocated by dog age
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/tag	Qualification
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Yes, I do!
+consumer	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Not yet
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/tag	SKU rule
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Puppy (under 1 year)
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Adult (1–7 years)
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Senior (7+ years)
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Dry food
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Wet food
+b2b	ana-data	CAMPAIGNS/C/pedigree/questions/opts	Mix of dry and wet
+b2b	ana-data	CAMPAIGNS/C/pedigree/skus	Pedigree Puppy · Chicken & Milk 400 g
+b2b	ana-data	CAMPAIGNS/C/pedigree/skus	Pedigree Adult · Chicken & Vegetables 400 g
+b2b	ana-data	CAMPAIGNS/C/pedigree/skus	Pedigree Senior 7+ · Chicken 400 g
+b2b	ana-data	CAMPAIGNS/C/pedigree/fbSplit/l	Positive
+b2b	ana-data	CAMPAIGNS/C/pedigree/fbSplit/l	Negative
+b2b	ana-data	CAMPAIGNS/C/pedigree/fbSplit/l	Neutral
+b2b	ana-data	CAMPAIGNS/C/pedigree/piSplit	Tapped “Buy now”
+consumer	ana-data	CAMPAIGNS/C/pedigree/piDest	Rakuten
+b2b	ana-data	CAMPAIGNS/C/pedigree/neg	Dog didn't finish it
+b2b	ana-data	CAMPAIGNS/C/pedigree/neg	Prefers wet food
+b2b	ana-data	CAMPAIGNS/C/pedigree/neg	Pack damaged
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Tokyo (23 wards)
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Yokohama
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Saitama
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Chiba
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Kawasaki
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/cities	Osaka
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	160-0022 Shinjuku
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	150-0001 Shibuya
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	154-0001 Setagaya
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	220-0011 Yokohama Nishi
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	330-0801 Saitama Ōmiya
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	260-0013 Chiba Chūō
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	210-0006 Kawasaki
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	106-0032 Roppongi
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	170-0013 Toshima
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/postals	130-0011 Sumida
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/prefs	Tokyo
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/prefs	Kanagawa
+b2b	ana-data	CAMPAIGNS/C/pedigree/geo/prefs	Other
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/top/d	= Adult (1–7 years) AND
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/top/d	= Dry food
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/top/m	1.33x avg
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/top2/d	= Adult (1–7 years)
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/top2/m	1.12x avg
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/low	= Senior (7+ years) AND
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/low	= Wet food
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/low	= Puppy (under 1 year) AND
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/key	is the strongest predictor of purchase intent (partial pseudo-R²=0.0041, rank #1).
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/driverLine	is your strongest driver — ⟦0⟧3×⟦1⟧ the impact of
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/driverLine	and accounts for ⟦0⟧71%⟦1⟧ of predictive power. The SKU the customer received follows directly from it.
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	Rank #1
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	+1.5pp above average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	1.4pp below average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	3.2pp below average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	Rank #2
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	+2pp above average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	1.3pp below average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	4.7pp below average
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	Rank #3
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/idx	0pp — every delivered claimant qualified
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/tree	All delivered claimants
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/tree	Adult · Dry food
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/tree	Adult · Mix
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/tree	Adult · Wet food
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/tree	Senior · Wet food
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/summary	Purchase intent averages 12.6% across 28,571 delivered claimants. Dog age is the dominant predictor (71% of predictive power); the food type the dog already eats adds most of the rest.
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/summary	Adult-dog households already feeding dry food convert at 16.8% — 1.33× the average — and they all received the Pedigree Adult SKU.
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/summary	Senior-dog households on wet food sit at 6.1% (0.48× average): the dry Senior 7+ sample is the wrong format for them — test a wet-pouch SKU in the next wave.
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/summary	Weight Meta and Google spend toward adult-dog audiences in Tokyo and Kanagawa, and route senior-dog claimants to the wet-food sample.
+b2b	ana-data	CAMPAIGNS/C/pedigree/stats/ai	Focus the next wave on adult-dog, dry-food households in Tokyo & Kanagawa — 33% higher purchase intent than the campaign average.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Yuki T.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Shibuya, Tokyo
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Pedigree Adult
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Delivered
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Kenta M.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	google · cpc
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Yokohama, Kanagawa
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Pedigree Puppy
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Shipped
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Aoi N.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Shinjuku, Tokyo
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Pedigree Senior 7+
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Claimed
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Haruto S.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	yahoo · cpc
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Ōmiya, Saitama
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Mei K.
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	chatgpt.com · referral
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Chūō, Chiba
+b2b	ana-data	CAMPAIGNS/C/pedigree/feed	Sakura S.
+b2b	ana-data	CAMPAIGNS/C/pampers/id	PMP-JP-2026
+b2b	ana-data	CAMPAIGNS/C/pampers/company	P&G Japan K.K.
+b2b	ana-data	CAMPAIGNS/C/pampers/name	2026: Pampers Premium Care Web Sampling — Japan
+b2b	ana-data	CAMPAIGNS/C/pampers/brand	Pampers
+b2b	ana-data	CAMPAIGNS/C/pampers/channelShort	Search → web form on pampers.jp
+b2b	ana-data	CAMPAIGNS/C/pampers/skuLabel	SKU allocated by baby weight
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Newborn – 1 month
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	2 – 4 months
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	5 – 8 months
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	9+ months
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Up to 5 kg
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	4 – 8 kg
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	6 – 11 kg
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	9 – 14 kg
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Leakage
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Diaper rash
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Stuffiness
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Nighttime leaks
+b2b	ana-data	CAMPAIGNS/C/pampers/questions/opts	Yes — prone to rash or redness
+b2b	ana-data	CAMPAIGNS/C/pampers/skus	Premium Care · Newborn trial pack
+b2b	ana-data	CAMPAIGNS/C/pampers/skus	Premium Care · S trial pack
+b2b	ana-data	CAMPAIGNS/C/pampers/skus	Premium Care · M trial pack
+b2b	ana-data	CAMPAIGNS/C/pampers/skus	Premium Care · L trial pack
+b2b	ana-data	CAMPAIGNS/C/pampers/piSplit	Tapped “Open store”
+b2b	ana-data	CAMPAIGNS/C/pampers/neg	Size didn't fit
+b2b	ana-data	CAMPAIGNS/C/pampers/neg	Prefer pants type
+b2b	ana-data	CAMPAIGNS/C/pampers/neg	Leaked at night
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/cities	Nagoya
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/cities	Fukuoka
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	158-0094 Setagaya Tamagawa
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	222-0033 Yokohama Kōhoku
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	530-0001 Osaka Umeda
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	460-0008 Nagoya Sakae
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	336-0017 Saitama Minami
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	810-0001 Fukuoka Tenjin
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	135-0061 Kōtō Toyosu
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	651-0087 Kobe
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/postals	060-0001 Sapporo
+b2b	ana-data	CAMPAIGNS/C/pampers/geo/prefs	Aichi
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/top/d	= Yes AND
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/top/d	= Diaper rash
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/top/m	1.37x avg
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/top2/d	= Yes — prone to rash or redness
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/top2/m	1.19x avg
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/low	= No AND
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/low	= Leakage
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/low	= Nighttime leaks
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/key	is the strongest predictor of purchase intent (partial pseudo-R²=0.0052, rank #1).
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/driverLine	is your strongest driver — ⟦0⟧1.5×⟦1⟧ the impact of
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/driverLine	and accounts for ⟦0⟧48%⟦1⟧ of predictive power. Size (from weight) matters less for intent than the skin concern the product solves.
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+2.7pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	3.7pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+3.4pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+0.6pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	2.1pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	2.6pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+1.1pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+0.2pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	0.7pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	1.6pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	Rank #4
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+0.7pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	+0.1pp above average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	0.5pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/idx	1.1pp below average
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	Sensitive skin: Yes
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	Sensitive skin: No
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	Yes · Diaper rash
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	Yes · Stuffiness
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	Yes · Leakage
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	No · Nighttime leaks
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/tree	No · Leakage
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/summary	Purchase intent averages 14.5% across 23,905 delivered claimants. Whether the baby has sensitive skin is the dominant predictor (48% of predictive power); the parent's main diaper concern adds another 31%.
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/summary	Sensitive-skin households whose concern is diaper rash convert at 19.8% — 1.37× the average. Premium Care's positioning lands exactly there.
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/summary	Households without a skin concern whose worry is leakage sit at 8.9% (0.61× average): for them the sample proves little — route them to the Baby-Dry line instead.
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/summary	Weight search spend (Google, Yahoo!) toward sensitive-skin and rash keywords, and schedule the size-up reminder by weight band, not age.
+b2b	ana-data	CAMPAIGNS/C/pampers/stats/ai	Prioritise sensitive-skin, rash-concern households — 37% higher purchase intent than the campaign average — and pair the Day-7 coupon with a size-up reminder.
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Setagaya, Tokyo
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Premium Care S
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Kōhoku, Yokohama
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Premium Care M
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	newsletter · email
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Umeda, Osaka
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Premium Care Newborn
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Sakae, Nagoya
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Premium Care L
+b2b	ana-data	CAMPAIGNS/C/pampers/feed	Tenjin, Fukuoka
+b2b	ana-data	CAMPAIGNS/C/lactogrow/id	NLG-JP-2026
+b2b	ana-data	CAMPAIGNS/C/lactogrow/company	Nestlé Japan Ltd.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/name	2026: Nestlé LACTOGROW Web Sampling — Japan
+consumer	ana-data	CAMPAIGNS/C/lactogrow/brand	Nestlé LACTOGROW
+b2b	ana-data	CAMPAIGNS/C/lactogrow/channelShort	Meta & TikTok → web form on nestle.jp
+b2b	ana-data	CAMPAIGNS/C/lactogrow/carrier	Dynamic · scored per pincode
+b2b	ana-data	CAMPAIGNS/C/lactogrow/skuLabel	SKU allocated by child’s age
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	1 – 2 years
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	2 – 3 years
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	3 – 4 years
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	4 – 6 years
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Tummy comfort & digestion
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Immunity
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Growth & height
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Fussy eating
+b2b	ana-data	CAMPAIGNS/C/lactogrow/questions/tag	Coupon destination
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Rakuten Ichiba
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Distacart
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Drugstore / Akachan Honpo
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Yes — another brand
+consumer	ana-data	CAMPAIGNS/C/lactogrow/questions/opts	Yes — LACTOGROW already
+b2b	ana-data	CAMPAIGNS/C/lactogrow/skus	LACTOGROW 3 · 1–3 years trial pack
+b2b	ana-data	CAMPAIGNS/C/lactogrow/skus	LACTOGROW Aktif · 4–6 years trial pack
+b2b	ana-data	CAMPAIGNS/C/lactogrow/piSplit	Tapped the store link
+b2b	ana-data	CAMPAIGNS/C/lactogrow/neg	Child didn’t take to the taste
+b2b	ana-data	CAMPAIGNS/C/lactogrow/neg	Already on another brand
+b2b	ana-data	CAMPAIGNS/C/lactogrow/neg	Pack arrived damaged
+b2b	ana-data	CAMPAIGNS/C/lactogrow/geo/postals	153-0042 Meguro Aobadai
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/top/d	= Distacart AND
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/top/d	= Tummy comfort & digestion
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/top/m	1.55x avg
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/top2/d	= Distacart
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/top2/m	1.39x avg
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/low	= Drugstore / Akachan Honpo AND
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/low	= Not yet
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/low	= Fussy eating
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/key	is the strongest predictor of purchase intent (partial pseudo-R²=0.0061, rank #1).
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/driverLine	and accounts for ⟦0⟧44%⟦1⟧ of predictive power. Sending the Day-7 coupon to the store the parent already uses is what converts.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+6.1pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+1.7pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	5.7pp below average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+0.3pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	4.1pp below average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+1.6pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+0.4pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	0.9pp below average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	2.3pp below average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	+1.9pp above average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/idx	0.4pp below average
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Buys on Distacart
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Buys on Amazon.co.jp
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Distacart · Tummy comfort
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Distacart · Immunity
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Amazon · Fussy eating
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/tree	Drugstore · Not yet on milk
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/summary	Purchase intent averages 15.5% across 25,918 delivered claimants. Where the parent already shops is the dominant predictor (44% of predictive power) — more than the child’s age or the need they came with.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/summary	Parents who buy on Distacart and came for tummy comfort convert at 24.1% — 1.55× the average. The Day-7 coupon lands in the basket they already use.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/summary	Drugstore-first parents who aren’t yet on a growing-up milk sit at 9.2% (0.59×): an online coupon is the wrong ask — route them to an in-store trial offer instead.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/summary	Weight Meta and TikTok spend toward 2–3-year-old households with a digestion concern in Tokyo and Kanagawa, and split the Day-7 creative by preferred store.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/stats/ai	Split the Day-7 coupon by the store the parent named — Distacart-first parents convert 39% above campaign average; drugstore-first parents need an in-store offer, not a link.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	Mayumi S.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	Meguro, Tokyo
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	LACTOGROW 3
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	LACTOGROW Aktif
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	Rina O.
+b2b	ana-data	CAMPAIGNS/C/lactogrow/feed	Toyosu, Tokyo
+b2b	ana-data	CAMPAIGNS/name	2026: Nestlé LACTOGROW Web Sampling — Japan · existing-customer branch
+b2b	ana-data	CAMPAIGNS/loyalty/note	Every visitor who answered “Yes — LACTOGROW already” was enrolled into Nestlé Familyness instead of being sent a sample.
+b2b	ana-data	CAMPAIGNS/loyalty/src	QR · pack
+b2b	ana-data	CAMPAIGNS/loyalty/tiers	Bronze · 250 pts
+b2b	ana-data	CAMPAIGNS/loyalty/tiers	Silver · carried over
+b2b	ana-data	CAMPAIGNS/loyalty/tiers	Gold · carried over
+b2b	ana-data	CAMPAIGNS/loyalty/split	Existing buyers → enrolled
+b2b	ana-data	CAMPAIGNS/loyalty/split	New / switchers → sampled
+b2b	ana-data	CAMPAIGNS/name	2026: Nestlé LACTOGROW Web Sampling — Japan · stock-out branch
+b2b	ana-data	CAMPAIGNS/waitlistViz/restock	Oct 6 · 40,000 packs
+b2b	ana-data	CAMPAIGNS/waitlistViz/note	Samples ran out on day 41. Every visitor after that was waitlisted, apologised to, enrolled and given a 20% coupon — instead of seeing an error.
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 39
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 40
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 41
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 42
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 43
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 44
+b2b	ana-data	CAMPAIGNS/waitlistViz/days	Day 45
+b2b	ana-data	CAMPAIGNS/waitlistViz/what	Waitlisted + enrolled + coupon
+b2b	ana-data	CAMPAIGNS/waitlistViz/what	Samples delivered before stock-out
+b2b	ana-data	CAMPAIGNS/waitlistViz/acted	Used the 20% coupon
+b2b	ana-data	CAMPAIGNS/waitlistViz/acted	Opened the member card
+b2b	ana-data	CAMPAIGNS/waitlistViz/acted	Waiting for restock only
+b2b	ana-data	CAMPAIGNS/RQ1	Which retailer was the receipt from?
+b2b	ana-data	CAMPAIGNS/RQ2	Which Cadbury SKU was on the bill?
+b2b	ana-data	CAMPAIGNS/RQ3	What was the basket value?
+b2b	ana-data	CAMPAIGNS/RQ4	How did she pay at the till?
+b2b	ana-audience	AUD/pedigree/saved	Pedigree Overall Jan – Sep 2026
+b2b	ana-audience	AUD/pedigree/saved	Every delivered Pedigree claimant across all 2026 campaigns — LINE, web form and vending QR.
+b2b	ana-audience	AUD/pedigree/saved	Pedigree — Positive Feedback (Recent)
+b2b	ana-audience	AUD/pedigree/saved	Delivered Pedigree claimants who gave positive feedback in the last 3 months. Highest engagement likelihood for the pet-parent LINE survey.
+b2b	ana-audience	AUD/pedigree/saved	Adult dog · Dry food · High intent
+b2b	ana-audience	AUD/pedigree/saved	Purchase-intent tappers whose dog is 1–7 y and eats dry food — 33% above average PI. Target list for the Dog Day and Christmas campaigns.
+b2b	ana-audience	AUD/pedigree/saved	Senior-dog owners — wet-food re-engagement
+b2b	ana-audience	AUD/pedigree/saved	Senior 7+ recipients who said the dog didn't finish it or prefers wet food — offer the wet-pouch SKU instead of another dry sample.
+b2b	ana-audience	AUD/pedigree/saved	Kanto — Negative Feedback
+b2b	ana-audience	AUD/pedigree/saved	Dynamic audience of delivered claimants in Tokyo, Kanagawa, Saitama and Chiba who gave negative feedback. Suppress from conversion spend; use for product insight.
+b2b	ana-audience	AUD/pedigree/saved	Whiskas × Pedigree — Multi-pet households
+b2b	ana-audience	AUD/pedigree/saved	Cross-brand: claimants who sampled both a Mars dog and cat product in 2026.
+b2b	ana-audience	AUD/pedigree/campaign	Pedigree LINE Sampling — Kanto
+b2b	ana-audience	AUD/pedigree/rows	Adult (1–7 y)
+b2b	ana-audience	AUD/pedigree/rows	Loved it!
+consumer	ana-audience	AUD/pedigree/rows	Buy now
+b2b	ana-audience	AUD/pedigree/rows	Senior (7+ y)
+b2b	ana-audience	AUD/pedigree/rows	Did not like it
+b2b	ana-audience	AUD/pedigree/rows	Ren O.
+b2b	ana-audience	AUD/pedigree/rows	Hina W.
+b2b	ana-audience	AUD/pedigree/rows	Sota I.
+b2b	ana-audience	AUD/pedigree/rows	Rin F.
+b2b	ana-audience	AUD/pedigree/q	Dog age
+b2b	ana-audience	AUD/pedigree/rowsN	28,571 rows
+b2b	ana-audience	AUD/pampers/saved	Pampers Overall Jan – Sep 2026
+b2b	ana-audience	AUD/pampers/saved	Every delivered Pampers claimant across all 2026 campaigns — web form, LINE and newsletter.
+b2b	ana-audience	AUD/pampers/saved	Pampers — Positive Feedback (Recent)
+b2b	ana-audience	AUD/pampers/saved	Delivered Premium Care claimants who gave positive feedback in the last 3 months.
+b2b	ana-audience	AUD/pampers/saved	Sensitive skin · Diaper rash · High intent
+b2b	ana-audience	AUD/pampers/saved	Store-click tappers with a sensitive-skin baby whose concern is rash — 37% above average PI. Target list for the Christmas set.
+b2b	ana-audience	AUD/pampers/saved	Size-up due — S → M in Q4
+b2b	ana-audience	AUD/pampers/saved	Size-S recipients whose weight answer predicts a move to M by December. Trigger the Oshōgatsu size-up reminder.
+b2b	ana-audience	AUD/pampers/saved	Leakage concern · No skin issue — Baby-Dry re-route
+b2b	ana-audience	AUD/pampers/saved	Delivered claimants for whom Premium Care proves little; route to the Baby-Dry line.
+b2b	ana-audience	AUD/pampers/saved	Kansai — Negative Feedback
+b2b	ana-audience	AUD/pampers/saved	Delivered claimants in Osaka, Kyoto and Hyogo who gave negative feedback. Suppress from conversion campaigns.
+b2b	ana-audience	AUD/pampers/campaign	Pampers Premium Care Web — Japan
+b2b	ana-audience	AUD/pampers/rows	Loved it
+consumer	ana-audience	AUD/pampers/rows	Open store
+b2b	ana-audience	AUD/pampers/rows	Good
+b2b	ana-audience	AUD/pampers/rows	Not for us
+b2b	ana-audience	AUD/pampers/q	Baby weight
+b2b	ana-audience	AUD/pampers/rowsN	23,905 rows
+b2b	ana-audience	AUD/lactogrow/saved	Nestlé LACTOGROW Overall Jan – Sep 2026
+b2b	ana-audience	AUD/lactogrow/saved	Every delivered LACTOGROW claimant across all 2026 campaigns — web form, LINE, TikTok and newsletter.
+b2b	ana-audience	AUD/lactogrow/saved	LACTOGROW — Positive Feedback (Recent)
+b2b	ana-audience	AUD/lactogrow/saved	Delivered claimants who rated the sample positively in the last 3 months. Highest response rate for the Familyness parent survey.
+b2b	ana-audience	AUD/lactogrow/saved	Distacart buyers · Tummy comfort · High intent
+b2b	ana-audience	AUD/lactogrow/saved	Coupon tappers who buy on Distacart and came for digestion — 55% above average purchase intent. Target list for the Shichi-Go-San and New Year offers.
+b2b	ana-audience	AUD/lactogrow/saved	Turning 3 before December — Shichi-Go-San
+b2b	ana-audience	AUD/lactogrow/saved	Children whose age answer puts them at the 3-year milestone this season. Trigger the spin-the-wheel campaign.
+b2b	ana-audience	AUD/lactogrow/saved	Drugstore-first · not yet on a growing-up milk
+b2b	ana-audience	AUD/lactogrow/saved	Delivered claimants an online coupon does not convert (9.2% PI) — route to an in-store trial offer instead of a link.
+b2b	ana-audience	AUD/lactogrow/saved	Ageing into LACTOGROW Aktif 4–6
+b2b	ana-audience	AUD/lactogrow/saved	LACTOGROW 3 recipients whose child crosses 4 years in the next two quarters — next-stage switch audience.
+b2b	ana-audience	AUD/lactogrow/saved	Nestlé Familyness — cross-brand parents
+b2b	ana-audience	AUD/lactogrow/saved	Cross-brand: claimants who sampled both LACTOGROW and a Nestlé cereals or baby-food product in 2026.
+b2b	ana-audience	AUD/lactogrow/campaign	Nestlé LACTOGROW Web Sampling — Japan
+b2b	ana-audience	AUD/lactogrow/q	Child age
+b2b	ana-audience	AUD/lactogrow/rowsN	25,918 rows
+b2b	ana-audience	pageAudiences	Manage and view your saved claimant audience segments — built across every
+b2b	ana-audience	pageAudiences	Refresh⟦0⟧⟦1⟧+ Create Audience
+consumer	ana-audience	pageAudiences	Name
+b2b	ana-audience	pageAudiences	Type
+b2b	ana-audience	pageAudiences	Unique Users
+b2b	ana-audience	pageAudiences	Created
+b2b	ana-audience	pageAudiences	Last Updated
+b2b	ana-audience	pageAudiences	Actions
+b2b	ana-audience	pageAudiences	Dynamic
+b2b	ana-audience	pageAudiences	Sep 15, 2026
+b2b	ana-audience	pageAudiences	Aug 15, 2026
+b2b	ana-audience	pageAudiences	Aug 2, 2026
+b2b	ana-audience	pageAudiences	Jul 22, 2026
+b2b	ana-audience	pageAudiences	Apr 22, 2026
+b2b	ana-audience	pageAudiences	Mar 3, 2026
+b2b	ana-audience	pageAudiences	View
+b2b	ana-audience	pageClaimants/exp	Email Export
+b2b	ana-audience	pageClaimants/exp	2/4 left this month
+b2b	ana-audience	pageClaimants/exp	Meta Custom Audience
+b2b	ana-audience	pageClaimants/exp	Unlimited
+b2b	ana-audience	pageClaimants/exp	Google Ads Audience
+b2b	ana-audience	pageClaimants/exp	LINE Ads Audience
+b2b	ana-audience	pageClaimants	Back to Audiences
+b2b	ana-audience	pageClaimants	Campaigns
+b2b	ana-audience	pageClaimants	Date Range
+b2b	ana-audience	pageClaimants	All time
+b2b	ana-audience	pageClaimants	Columns
+b2b	ana-audience	pageClaimants	Columns ⟦0⟧6
+b2b	ana-audience	pageClaimants	Filters
+b2b	ana-audience	pageClaimants	Save Audience
+b2b	ana-audience	pageClaimants	Export
+b2b	ana-audience	pageClaimants	Phone
+b2b	ana-audience	pageClaimants	Campaign
+b2b	ana-audience	pageClaimants	Feedback
+b2b	ana-audience	pageClaimants	Purchase intent
+b2b	ana-perf	pagePerf/K1	Total Interactions
+b2b	ana-perf	pagePerf/K1	People who started the journey
+b2b	ana-perf	pagePerf/K1	Claimant Count
+b2b	ana-perf	pagePerf/K1	Total Claimants
+b2b	ana-perf	pagePerf/K1	Qualified and completed with a verified address
+b2b	ana-perf	pagePerf/K1	Samples Delivered
+b2b	ana-perf	pagePerf/K1	Delivered by
+b2b	ana-perf	pagePerf/K1	photo proof, no OTP
+b2b	ana-perf	pagePerf/K2	Feedback Rate
+b2b	ana-perf	pagePerf/K2	Delivered claimants who answered the Day-7 question on LINE
+b2b	ana-perf	pagePerf/K2	Feedback Count
+b2b	ana-perf	pagePerf/K2	Positive Feedback Rate
+b2b	ana-perf	pagePerf/K2	Share of delivered claimants with positive feedback
+b2b	ana-perf	pagePerf/K2	Positive Feedback Count
+b2b	ana-perf	pagePerf/K2	Purchase Intent Rate
+b2b	ana-perf	pagePerf/K2	Delivered claimants who tapped through to the store
+b2b	ana-perf	pagePerf/K2	Purchase Intent Count
+b2b	ana-perf	pagePerf/st	Not qualified
+b2b	ana-perf	pagePerf/st	Journey incomplete
+consumer	ana-perf	pagePerf/st	In transit
+b2b	ana-perf	pagePerf	New
+b2b	ana-perf	pagePerf	Executive summary: is this campaign performing? Key metrics, conversion, and trends.
+b2b	ana-perf	pagePerf	Ask AI
+b2b	ana-perf	pagePerf	Live
+b2b	ana-perf	pagePerf	Unpublish
+b2b	ana-perf	pagePerf	Key metrics that define campaign success
+b2b	ana-perf	pagePerf	Full Funnel: Where Every Interaction Went
+b2b	ana-perf	pagePerf	Complete accountability of every interaction across lifecycle stages
+b2b	ana-perf	pagePerf	Claimant Status Distribution
+b2b	ana-perf	pagePerf	Relative share of interactions across lifecycle statuses
+b2b	ana-perf	pagePerf	Claimant Count by Status
+b2b	ana-perf	pagePerf	Absolute volume at each lifecycle stage
+b2b	ana-perf	pagePerf	Conversion Snapshot
+b2b	ana-perf	pagePerf	Feedback sentiment and response volumes
+b2b	ana-perf	pagePerf	Feedback Sentiment Split
+b2b	ana-perf	pagePerf	Distribution of positive vs negative feedback
+b2b	ana-perf	pagePerf	Total Feedback Responses
+b2b	ana-perf	pagePerf	Day-7 responses received on LINE
+b2b	ana-perf	pagePerf	Total Purchase Intent Responses
+b2b	ana-perf	pagePerf	Store clicks from the coupon message
+b2b	ana-perf	pagePerf	Campaign Trend Over Time
+b2b	ana-perf	pagePerf	Weekly trajectory — are we accelerating or decelerating?
+b2b	ana-perf	pagePerf	Weekly Claimant Acquisition
+b2b	ana-perf	pagePerf	Claimant volume trend over time
+b2b	ana-perf	pagePerf	Weekly Feedback Rate
+b2b	ana-perf	pagePerf	Feedback engagement trend over time
+b2b	ana-perf	pagePerf	Weekly Purchase Intent Rate
+b2b	ana-perf	pagePerf	Purchase intent trend over time
+b2b	ana-perf	pagePerf	Weekly Positive Feedback Rate
+b2b	ana-perf	pagePerf	Positive feedback trend over time
+b2b	ana-perf	pagePerf	+ Add Section
+b2b	ana-perf	pageLive/nums	Interactions
+b2b	ana-perf	pageLive/nums	Qualified
+b2b	ana-perf	pageLive/nums	Claimants
+b2b	ana-perf	pageLive/nums	Purchase Intent
+b2b	ana-perf	pageLive	Duplicate Orders
+b2b	ana-perf	pageLive	1px solid #F1F3F6
+b2b	ana-perf	pageLive	Claims
+b2b	ana-perf	pageLive	Deliveries
+b2b	ana-perf	pageLive	Feedbacks
+b2b	ana-perf	pageLive	Day wise claims
+b2b	ana-perf	pageLive	Cumulative claims
+b2b	ana-perf	pageLive	Live feed — latest
+b2b	ana-perf	pageLive	claims
+b2b	ana-perf	pageLive	Every row carries the source, geo, answers and the SKU the rule picked
+b2b	ana-perf	pageLive	Time
+b2b	ana-perf	pageLive	Customer
+b2b	ana-perf	pageLive	Source (UTM)
+b2b	ana-perf	pageLive	Geo
+b2b	ana-perf	pageLive	SKU allocated
+consumer	ana-perf	pageLive	Status
+b2b	ana-stats	stTab	Analysis
+b2b	ana-stats	segView	Tree
+b2b	ana-stats	pageStats/model	Odds Ratios
+b2b	ana-stats	pageStats/model	predictors · all levels
+b2b	ana-stats	pageStats/model	Model Diagnostics
+b2b	ana-stats	pageStats/model	AUC, fit, calibration
+b2b	ana-stats	pageStats/model	Modest
+b2b	ana-stats	pageStats/model	Multicollinearity
+b2b	ana-stats	pageStats/model	Clear
+b2b	ana-stats	pageStats/model	Dropped Levels
+b2b	ana-stats	pageStats/model	0 excluded
+b2b	ana-stats	pageStats/model	Raw Export
+b2b	ana-stats	pageStats/model	Full JSON download
+b2b	ana-stats	pageStats	AI Summary
+b2b	ana-stats	pageStats	Analyzed 2h ago
+b2b	ana-stats	pageStats	Summary
+b2b	ana-stats	pageStats	Best segment
+b2b	ana-stats	pageStats	Watch-outs
+b2b	ana-stats	pageStats	Recommendation
+b2b	ana-stats	pageStats	PURCHASE INTENT
+b2b	ana-stats	pageStats	TOP SEGMENT
+b2b	ana-stats	pageStats	KEY DRIVER
+b2b	ana-stats	pageStats	BELOW AVERAGE SEGMENTS
+b2b	ana-stats	pageStats	PI Rate Index
+b2b	ana-stats	pageStats	Purchase intent rate per answer — every option of every question the brand asked
+b2b	ana-stats	pageStats	Answer
+b2b	ana-stats	pageStats	PI Rate
+b2b	ana-stats	pageStats	vs Average
+b2b	ana-stats	pageStats	Audience Segments
+b2b	ana-stats	pageStats	Table
+b2b	ana-stats	pageStats	Who's most likely to buy? The tree splits the audience on the answers that matter most for each group.
+b2b	ana-stats	pageStats	Segment
+b2b	ana-stats	pageStats	PI rate
+b2b	ana-stats	pageStats	Model Details
+b2b	ana-stats	pageStats	Modest⟦0⟧⟦1⟧Fit ⟦2⟧Modest⟦3⟧ — typical for survey models⟦4⟧⟦5⟧Predictors
+b2b	ana-stats	pageDataviz/charts/s	Every answer, stored as a tag on the customer
+b2b	ana-stats	pageDataviz/charts/s	Which trial pack the rule picked
+b2b	ana-stats	pageDataviz/charts/s	Day-7 rating on LINE
+b2b	ana-stats	pageDataviz/charts/s	Store click from the coupon message
+b2b	ana-stats	pageDataviz/charts/s	Where the click landed
+b2b	ana-stats	pageDataviz/charts/s	Declared reason where feedback was negative
+b2b	ana-stats	pageDataviz/charts/t	Geo · Prefecture
+b2b	ana-stats	pageDataviz/charts/s	From the verified postal code
+b2b	ana-stats	pageDataviz/charts/t	Geo · Top 10 claimant postal codes
+b2b	ana-stats	pageDataviz/charts/s	Where claims concentrate
+b2b	ana-stats	pageDataviz/charts/t	Geo · Top claimant cities
+b2b	ana-stats	pageDataviz/charts/s	City-level claim volume
+b2b	ana-stats	pageDataviz/wl	Waitlisted when the campaign ran out of stock
+b2b	ana-stats	pageDataviz/wl	Stock-out branch
+b2b	ana-stats	pageDataviz/wl	Waitlisted, not lost
+b2b	ana-stats	pageDataviz/wl	stock-out → sale
+b2b	ana-stats	pageDataviz	Sampled vs. waitlisted
+b2b	ana-stats	pageDataviz	What the form did once stock hit zero
+b2b	ana-stats	pageDataviz	Waitlist sign-ups per day
+b2b	ana-stats	pageDataviz	Stock hit zero on day 41 · restock
+b2b	ana-stats	pageDataviz	Waitlist by acquisition source
+b2b	ana-stats	pageDataviz	Paid clicks that still became members
+b2b	ana-stats	pageDataviz	What the waitlisted did next
+b2b	ana-stats	pageDataviz	Coupon, card or waiting
+b2b	ana-stats	pageDataviz/loy	Existing customers enrolled in the loyalty program
+b2b	ana-stats	pageDataviz/loy	New in this campaign
+b2b	ana-stats	pageDataviz/loy	Enrolled, not sampled
+b2b	ana-stats	pageDataviz/loy	existing LACTOGROW buyers
+b2b	ana-stats	pageDataviz/loy	of “already buy it” answers
+b2b	ana-stats	pageDataviz/loy	Sample vs. membership
+b2b	ana-stats	pageDataviz/loy	What the same form did with each visitor
+b2b	ana-stats	pageDataviz/loy	Loyalty enrolments per week
+b2b	ana-stats	pageDataviz/loy	loyalty_enrol event · fired from the form
+b2b	ana-stats	pageDataviz/loy	Enrolments by acquisition source
+b2b	ana-stats	pageDataviz/loy	Paid media that produced a member, not a sample
+b2b	ana-stats	pageDataviz/loy	Tier at enrolment
+b2b	ana-stats	pageDataviz/loy	Welcome points credited instantly
+b2b	ana-stats	pageDataviz	UTM sources — full funnel per entry channel
+b2b	ana-stats	pageDataviz	UTM mediums
+b2b	ana-stats	pageOverview/TR	UTM source · medium · campaign
+b2b	ana-stats	pageOverview/TR	Read from the entry link — never asked
+b2b	ana-stats	pageOverview/TR	Postal code → ward → prefecture
+b2b	ana-stats	pageOverview/TR	Every answer
+b2b	ana-stats	pageOverview/TR	Delivery
+b2b	ana-stats	pageOverview/TR	Shipped · delivered · photo proof
+b2b	ana-stats	pageOverview/TR	Day-7 rating & comment
+b2b	ana-stats	pageOverview/TR	Store click · coupon · destination
+b2b	ana-stats	pageOverview/tbl	Conversion
+b2b	ana-stats	pageOverview/tbl	Total
+b2b	ana-stats	pageOverview	Tracked on every claim — automatically, without extra questions
+b2b	ana-stats	pageOverview	Purchase Intent Drivers
+b2b	ana-stats	pageOverview	TOP VARIABLES
+b2b	ana-stats	pageOverview	View full analysis
+b2b	ana-stats	pageOverview	Target Audiences
+b2b	ana-stats	pageOverview	overall PI
+b2b	ana-stats	pageOverview	DEPRIORITISE
+b2b	ana-stats	pageOverview	AI INSIGHT
+b2b	ana-stats	pageOverview	Explore full segmentation
+b2b	ana-stats	pageOverview	sources tracked — Meta, Google, Yahoo!, ChatGPT, newsletter, vending QR, website, LINE ads
+b2b	ana-stats	pageOverview	Source
+b2b	ana-stats	pageOverview	UTM Platform Breakdown
+b2b	ana-stats	pageOverview	Platform
+b2b	ana-stats	pageOverview	UTM Medium Breakdown
+b2b	ana-stats	pageOverview	Medium
+b2b	ana-icons	COMPANY	Brand Japan K.K.
+b2b	ana-icons	CAMPAIGN	2026: Spring Sampling — Kanto
+b2b	ana-icons	secTools	Date
+b2b	ana-icons	secTools	Measure Event Date
+b2b	ana-icons	TIMELINE	Last OTP Triggered
+b2b	ana-icons	TIMELINE	3 hours ago
+b2b	ana-icons	TIMELINE	Sep 11, 2026⟦0⟧09:18 AM
+b2b	ana-icons	TIMELINE	Last OTP Verified
+b2b	ana-icons	TIMELINE	Sep 11, 2026⟦0⟧09:19 AM
+b2b	ana-icons	TIMELINE	Last Shipment Notification Sent
+b2b	ana-icons	TIMELINE	10 hours ago
+b2b	ana-icons	TIMELINE	Sep 11, 2026⟦0⟧02:21 AM
+b2b	ana-icons	TIMELINE	Last Feedback Message Sent
+b2b	ana-icons	TIMELINE	1 hour ago
+b2b	ana-icons	TIMELINE	Sep 11, 2026⟦0⟧11:12 AM
+b2b	ana-icons	TIMELINE	Last Feedback Received
+b2b	ana-icons	TIMELINE	18 hours ago
+b2b	ana-icons	TIMELINE	Sep 10, 2026⟦0⟧06:31 PM
+b2b	ana-icons	TIMELINE	Last Delivered
+b2b	ana-icons	TIMELINE	Just now
+b2b	ana-icons	TIMELINE	Sep 11, 2026⟦0⟧04:41 PM
+b2b	ana-icons	TIMELINE	Last Sample Claimed
+b2b	ana-icons	TIMELINE	Feedback Flow Triggered
+b2b	ana-icons	TIMELINE	Total count
+b2b	ana-icons	TIMELINE	Feedback No Response
+b2b	ana-icons	TIMELINE	Initial Flow Errors
+b2b	ana-icons	TIMELINE	In Transit Flow Errors
+b2b	ana-icons	TIMELINE	Feedback Flow Errors
+b2b	ana-icons	TIMELINE	Re-engagement Flow Errors
+b2b	ana-icons	timeline/tiles	Re-engagement Flows
+b2b	ana-icons	timeline/tiles	9495ef43-4…⟦0⟧1⟦1⟧⟦2⟧09:26 PM
+b2b	ana-icons	timeline/tiles	Integration t…⟦0⟧1⟦1⟧⟦2⟧07:36 PM
+b2b	ana-icons	timeline/tiles	114 days ago
+b2b	ana-icons	timeline	Campaign Activity Timeline
+b2b	ana-icons	lineChart	Rate
+b2b	tpl:Thank you — FreeStand		Thank you — FreeStand
+b2b	tpl:Thank you — FreeStand		Thank you
+b2b	tpl:Thank you — FreeStand		Sampling that converts, verified deliveries, first-party data on every consumer — and a loyalty base that keeps talking to you on LINE.
+b2b	tpl:Thank you — FreeStand		Sampling Interaction⟦0⟧⟦1⟧Re-engagement⟦2⟧⟦3⟧Analytics &amp; Data Storage⟦4⟧⟦5⟧Case Studies
+b2b	tpl:Thank you — FreeStand		Restart demo
+b2b	tpl:Thank you — FreeStand		or press → to start over from the first demo
+b2b	tpl:Thank you — FreeStand		Enter
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		Trial → loyal customer — Nestlé LACTOGROW
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		THE POINT OF THE WHOLE JOURNEY
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		One free sample.⟦0⟧Six weeks later — a paying, posting customer.
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		12 SEP⟦0⟧⟦1⟧¥0⟦2⟧⟦3⟧anonymous click
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		9 NOV⟦0⟧⟦1⟧¥11,240⟦2⟧⟦3⟧named member
+consumer	tpl:Trial → loyal customer — Nestlé LACTOGROW		Mayumi Satō
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		Meguro-ku, Tokyo · daughter 2 y 10 m
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		FAMILYNESS⟦0⟧NF-2026-204118⟦1⟧⟦2⟧1,180
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		3⟦0⟧⟦1⟧purchases
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		4.5×⟦0⟧⟦1⟧return on sampling her
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		18,400⟦0⟧⟦1⟧organic impressions
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		¥0⟦0⟧⟦1⟧second acquisition spend
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		SHE BOUGHT
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		¥11,240⟦0⟧400 g with the coupon · then 850 g twice, no coupon
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		SWITCHED
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		SHE REVIEWED
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		She finished the cup for the first time in weeks.
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		SHE MADE THE CONTENT
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		40s⟦0⟧her story → a manga she shared herself
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		Every delivered sample runs the same loop. The profile is the asset.
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		50,001⟦0⟧⟦1⟧claimed of 100,000
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		92%⟦0⟧⟦1⟧auto-enrolled
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		15.5%⟦0⟧⟦1⟧tapped through to buy
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW		Manga from Mayumi’s story
+consumer	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	12 SEP
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Tapped the ad
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Claimed in 6 answers
+consumer	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	14 SEP
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Delivered · 2 days
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	21 SEP
+consumer	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	😍 Loved it
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Bought on Distacart
+consumer	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	5 OCT
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Shared her manga
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	15 NOV
+b2b	tpl:Trial → loyal customer — Nestlé LACTOGROW	T	Shichi-Go-San scheduled
+b2b	tpl:Loyalty &amp; re-engagement — FreeStand		Loyalty &amp; re-engagement — FreeStand
+b2b	reengage	title	Loyalty & re-engagement
+consumer	reengage	MTABS	Home
+consumer	reengage	MTABS	Card, points, tier, sample history
+consumer	reengage	MTABS	Shop
+consumer	reengage	MTABS	Re-buy the pack she sampled
+consumer	reengage	MTABS	Rewards
+consumer	reengage	MTABS	Points → coupons &amp; gifts
+consumer	reengage	MTABS	Guides
+consumer	reengage	MTABS	Growing-up content she wants
+consumer	reengage	MTABS	Profile
+consumer	reengage	MTABS	Consent, export, deletion
+b2b	reengage	profileBody	Personal details
+b2b	reengage	profileBody	Relevant cohorts
+b2b	reengage	profileBody	Captured during the sampling journey
+consumer	reengage	profileBody	points
+consumer	reengage	phone/h/date	Sep 21 (Mon)
+consumer	reengage	FIRST	Sakura
+consumer	reengage	WHEEL	SPIN &amp; WIN
+consumer	reengage	WHEEL	Photo frame
+consumer	reengage	WHEEL	2× points
+consumer	reengage	WHEEL	850 g pack
+consumer	reengage	WHEEL	Sticker set
+consumer	reengage	WHEEL	👆 tap to spin
+consumer	reengage	STK	sticker set · free
+consumer	reengage	TANZ	Write a wish⟦0⟧⟦1⟧for your child
+consumer	reengage	TANZ	👆 tap to write
+consumer	reengage	tier	Platinum
+consumer	reengage	tier	Gold
+consumer	reengage	tier	Silver
+consumer	reengage	tier	Bronze
+consumer	reengage	MA_TITLE/home	Member card
+consumer	reengage	MA_MENU	All tabs
+consumer	reengage	MA_MENU	Refresh
+consumer	reengage	MA_MENU	Minimize browser
+consumer	reengage	MA_MENU	Share
+consumer	reengage	MA_MENU	Add to Home
+consumer	reengage	MA_MENU	Favorites
+consumer	reengage	MA_MENU	Permission settings
+consumer	reengage	MA_MENU	About the service
+consumer	reengage	MA_MENU	Report
+consumer	reengage	MA_TOAST/share	Shared as a LINE message · liff.line.me/2006118-Familyness
+consumer	reengage	MA_TOAST/home	Shortcut added to your Home screen
+consumer	reengage	MA_TOAST/star	Added to Favorites · find it in the MINI tab
+consumer	reengage	MA_TOAST/info	Provider page · Nestlé Japan Ltd.
+consumer	reengage	MA_TOAST/flag	LINE inquiry form opened in your browser
+consumer	reengage	maBody	Top tier
+consumer	reengage	maBody	Member no.
+consumer	reengage	maBody	Sample history
+consumer	reengage	maBody	LACTOGROW 3 · trial pack 400 g⟦0⟧⟦1⟧Delivered Sep 14 · feedback: loved it
+consumer	reengage	maBody	Earn more
+consumer	reengage	maBody	Done · points added
+consumer	reengage	maBody	Tap to take part
+consumer	reengage	maBody	LACTO10 · 10% off, applied automatically
+consumer	reengage	maBody	Aktif
+consumer	reengage	maBody	Buy
+consumer	reengage	maBody	Earn
+consumer	reengage	maBody	Done
+consumer	reengage	maBody	Redeem
+consumer	reengage	maBody	Redeemed · in your LINE coupons
+consumer	reengage	maBody	Tummy comfort at 2–3 years
+consumer	reengage	maBody	5 min read · picked for you
+consumer	reengage	maBody	Shichi-Go-San: a checklist for the day
+consumer	reengage	maBody	3 min read · Nov 15
+consumer	reengage	maBody	Switching growing-up milks: a 7-day plan
+consumer	reengage	maBody	4 min read
+consumer	reengage	maBody	Your details
+consumer	reengage	maBody	Privacy
+consumer	reengage	maBody	Consent⟦0⟧⟦1⟧Privacy notice v1.0 · Sep 12, 2026
+consumer	reengage	maBody	Data access⟦0⟧⟦1⟧Stored in Japan · accessed from India
+consumer	reengage	maBody	Download my data
+consumer	reengage	maBody	Withdraw consent
+consumer	reengage	maBody	Delete my data
+consumer	reengage	maSheet	Recently used services
+consumer	reengage	maSheet	MINI App · now
+consumer	reengage	maSheet	Yamato Transport · tracking
+consumer	reengage	maSheet	LIFF app · Sep 14
+consumer	reengage	maSheet	Distacart · LACTOGROW
+consumer	reengage	maSheet	LIFF app · Sep 21
+consumer	reengage	maSheet	Camera
+consumer	reengage	maSheet	Microphone
+consumer	reengage	maSheet	Changes may need a refresh to take effect.
+consumer	reengage		redeemed · sent to your LINE coupons
+consumer	reengage		Opening Distacart · LACTO10 applied
+consumer	reengage	dl	Your data export is being prepared · link sent on LINE
+consumer	reengage	wd	Consent withdrawn · marketing messages stop today
+consumer	reengage	del	Deletion requested · done within 14 days, confirmed on LINE
+b2b	reengage	s0	User profile
+b2b	reengage	s0	AUTO-ENROLLED
+b2b	reengage	s0	Enrolled the moment her sample was delivered and her feedback came in — no extra sign-up. The same conversation carries on.
+b2b	reengage	s0	points⟦0⟧⟦1⟧Bronze
+b2b	reengage	s0	See what
+b2b	reengage	s1	member since Sep 21
+b2b	reengage	s1b/modal	THIS IS LIVE — TRY IT
+b2b	reengage	s1b/modal	Five tabs, all interactive
+b2b	reengage	s1b/modal	Got it — let me tap around
+b2b	reengage	s1b	Member’s view — LINE mini app
+b2b	reengage	s1b	The real app, running here — every tab and activity is live
+b2b	reengage	s1b	The member card ⟦0⟧is⟦1⟧ the loyalty program — it opens inside LINE, with no app download and no new password.
+b2b	reengage	s1b	👆 Fully interactive — tap any tab, earn points, redeem a reward, scan a receipt.
+b2b	reengage	s2/rows	CAPTURED
+b2b	reengage	s2/rows	Scheduled
+b2b	reengage	s2/rows	why ›
+b2b	reengage	s2/body	BALANCE
+b2b	reengage	s2/body	One profile → the right festival moment for each member, and the wrong ones skipped.
+b2b	reengage	s2/body	Not sent to
+b2b	reengage	s2/body	Schedule campaign
+b2b	reengage	s2/modal	WE KNEW
+b2b	reengage	s2/modal	SHE GETS
+b2b	reengage	s2	Skipped⟦0⟧ — she doesn’t match this segment
+b2b	reengage	s2	See it on LINE
+b2b	reengage	s2	Re-engagement opportunities
+b2b	reengage	s2	What
+b2b	reengage	s2	does next with this profile · click a row
+consumer	reengage	openViewer	Your family manga
+consumer	reengage	tickPts/textContent	2× spin won
+consumer	reengage	spin/textContent	Spinning…
+consumer	reengage	spin/textContent	good luck…
+consumer	reengage	spin/textContent	🎉 2× POINTS WON
+consumer	reengage	spin	Familyness points doubled
+consumer	reengage	spin	Double points! 🎉⟦0⟧Your spin doubled your points
+consumer	reengage	spin	pts are in your Familyness card.
+consumer	reengage	wishFlow/onclick	Your tanzaku on the wish tree
+consumer	reengage	wishFlow	2× week
+b2b	redata	RE_CFG/pedigree/program	Pedigree Pack Club
+consumer	redata	RE_CFG/pedigree/member	PPC-2026-088412
+consumer	redata	RE_CFG/pedigree/last	Pawsome! 🐶 Here's 15% off a full-size pack of Pedigree Adult.⟦0⟧Coupon: PED-JP-15⟦1⟧Applied automatically on the Pedigree store.
+consumer	redata	RE_CFG/pedigree/welcome	Welcome to Pedigree Pack Club, Sakura 🎁⟦0⟧You're in — 250 points for trying the sample and telling us how it went. Points turn into treats, coupons and early access to seasonal offers.
+consumer	redata	RE_CFG/pedigree/welcomeCta	Open my member card
+b2b	redata	RE_CFG/pedigree/profile	Sakura Sato
+b2b	redata	RE_CFG/pedigree/profile	Address ✅
+b2b	redata	RE_CFG/pedigree/profile	Neo Garden 305, 4-2-18 Shinjuku, Tokyo 160-0022
+b2b	redata	RE_CFG/pedigree/profile	Instagram ad · utm_source=meta
+b2b	redata	RE_CFG/pedigree/cohorts	Dog owner
+b2b	redata	RE_CFG/pedigree/cohorts	Adult dog · 1–7 y
+b2b	redata	RE_CFG/pedigree/cohorts	Dry-food buyer
+b2b	redata	RE_CFG/pedigree/cohorts	Tokyo · Shinjuku
+b2b	redata	RE_CFG/pedigree/cohorts	Loved the sample
+b2b	redata	RE_CFG/pedigree/cohorts	High intent · Buy now
+b2b	redata	RE_CFG/pedigree/captured	3 answers
+b2b	redata	RE_CFG/pedigree/captured	SKU: Pedigree Adult
+b2b	redata	RE_CFG/pedigree/captured	Delivered · photo
+consumer	redata	RE_CFG/pedigree/captured	Feedback: Loved it
+b2b	redata	RE_CFG/pedigree/opps/data	Dog age: Adult (1–7 y)
+b2b	redata	RE_CFG/pedigree/opps/d	Nov 1
+b2b	redata	RE_CFG/pedigree/opps/n	Dog Day
+b2b	redata	RE_CFG/pedigree/opps/jp	Inu no Hi
+b2b	redata	RE_CFG/pedigree/opps/idea	2× points on Pedigree Adult + free dental-check guide
+b2b	redata	RE_CFG/pedigree/opps/msg	It's Dog Day! 🐶 Earn 2× Pack Club points on Pedigree Adult this week, plus a free dental-check guide for your dog.
+b2b	redata	RE_CFG/pedigree/opps/cta	Claim 2× points
+b2b	redata	RE_CFG/pedigree/opps/send	Oct 30 · 18:00
+b2b	redata	RE_CFG/pedigree/opps/seg	Adult-dog owners · 16.6k members
+b2b	redata	RE_CFG/pedigree/opps/data	Purchase intent: Buy now
+b2b	redata	RE_CFG/pedigree/opps/d	Dec 24
+b2b	redata	RE_CFG/pedigree/opps/n	Christmas gift box
+b2b	redata	RE_CFG/pedigree/opps/jp	Christmas
+b2b	redata	RE_CFG/pedigree/opps/idea	Pedigree Adult 2.5 kg + festive treats — 20% off or 500 points
+b2b	redata	RE_CFG/pedigree/opps/msg	Merry Christmas from Pedigree 🎄 Your dog's gift box is ready: Pedigree Adult 2.5 kg + festive treats, 20% off — or redeem 500 points.
+b2b	redata	RE_CFG/pedigree/opps/cta	Order the gift box
+b2b	redata	RE_CFG/pedigree/opps/send	Dec 10 · 10:00
+b2b	redata	RE_CFG/pedigree/opps/seg	High intent · 3,595 members
+b2b	redata	RE_CFG/pedigree/opps/data	Geo: Shinjuku-ku, Tokyo
+b2b	redata	RE_CFG/pedigree/opps/d	Mar 28
+b2b	redata	RE_CFG/pedigree/opps/n	Hanami walks
+b2b	redata	RE_CFG/pedigree/opps/jp	Hanami
+b2b	redata	RE_CFG/pedigree/opps/idea	Dog-friendly sakura routes near Shinjuku Gyoen + pocket-treat kit
+b2b	redata	RE_CFG/pedigree/opps/msg	Sakura season 🌸 Here are 3 dog-friendly hanami routes near Shinjuku Gyoen — and a pocket-treat kit for the walk.
+b2b	redata	RE_CFG/pedigree/opps/cta	See the routes
+b2b	redata	RE_CFG/pedigree/opps/send	Mar 20 · 10:00
+b2b	redata	RE_CFG/pedigree/opps/seg	Dog owners · Tokyo · 14.2k members
+b2b	redata	RE_CFG/pedigree/opps/data	Food type: Dry food
+b2b	redata	RE_CFG/pedigree/opps/d	Aug 13
+b2b	redata	RE_CFG/pedigree/opps/n	Obon wet-food trial
+b2b	redata	RE_CFG/pedigree/opps/jp	Obon
+b2b	redata	RE_CFG/pedigree/opps/idea	Not sent — Sakura is a dry-food buyer, so the wet-pouch campaign skips her
+b2b	redata	RE_CFG/pedigree/opps/msg	Stay cool this Obon ☀️ Hydration tips for your dog and a free Pedigree wet-food pouch to try.
+b2b	redata	RE_CFG/pedigree/opps/cta	Get the pouch
+b2b	redata	RE_CFG/pedigree/opps/send	Aug 5 · 10:00
+b2b	redata	RE_CFG/pedigree/opps/seg	Wet & mixed-food buyers · 12.5k members
+b2b	redata	RE_CFG/pampers/program	Pampers Club
+consumer	redata	RE_CFG/pampers/last	Wonderful! Try the full pack at 10% off 🛍️⟦0⟧Coupon: PAMPERS-10⟦1⟧Applied automatically on the Pampers store.
+consumer	redata	RE_CFG/pampers/welcome	Welcome to Pampers Club, Sakura 🎁⟦0⟧You're in — 250 points for trying Premium Care and sharing your feedback. Points turn into coupons, size-up reminders and little gifts for baby's firsts.
+b2b	redata	RE_CFG/pampers/profile	Phone · email
+b2b	redata	RE_CFG/pampers/profile	Google sponsored result · utm_source=google
+b2b	redata	RE_CFG/pampers/cohorts	Baby 2–4 months
+b2b	redata	RE_CFG/pampers/cohorts	4–8 kg · Size S
+b2b	redata	RE_CFG/pampers/cohorts	Sensitive skin
+b2b	redata	RE_CFG/pampers/cohorts	Concern: stuffiness
+b2b	redata	RE_CFG/pampers/cohorts	High intent · Open store
+b2b	redata	RE_CFG/pampers/captured	4 answers
+b2b	redata	RE_CFG/pampers/captured	SKU: Premium Care S
+b2b	redata	RE_CFG/pampers/opps/data	Weight: 4–8 kg (Sep)
+b2b	redata	RE_CFG/pampers/opps/d	Jan 1
+b2b	redata	RE_CFG/pampers/opps/n	Oshōgatsu — size-up
+b2b	redata	RE_CFG/pampers/opps/jp	Oshōgatsu
+b2b	redata	RE_CFG/pampers/opps/idea	Baby will be ~7 kg by January → size-M reminder with 15% off
+b2b	redata	RE_CFG/pampers/opps/msg	Happy New Year 🎍 Off to hatsu-mōde? Here's the baby checklist — and a heads-up: at ~7 kg it may be time for size M. 15% off your first M pack.
+b2b	redata	RE_CFG/pampers/opps/cta	Try size M
+b2b	redata	RE_CFG/pampers/opps/send	Dec 28 · 10:00
+b2b	redata	RE_CFG/pampers/opps/seg	Size S · predicted size-up · 7,420 members
+b2b	redata	RE_CFG/pampers/opps/data	Baby age: 2–4 months
+b2b	redata	RE_CFG/pampers/opps/d	May 5
+b2b	redata	RE_CFG/pampers/opps/n	Kodomo no Hi
+b2b	redata	RE_CFG/pampers/opps/idea	Baby's first Children's Day — koinobori craft kit + 150 points
+b2b	redata	RE_CFG/pampers/opps/msg	Baby's first Happy Kodomo no Hi 🎏 Make a koinobori together with our craft kit — and earn 150 Pampers Club points.
+b2b	redata	RE_CFG/pampers/opps/cta	Get the craft kit
+b2b	redata	RE_CFG/pampers/opps/send	Apr 26 · 10:00
+b2b	redata	RE_CFG/pampers/opps/seg	Babies 0–12 months · 21.4k members
+b2b	redata	RE_CFG/pampers/opps/data	Purchase intent: Open store
+b2b	redata	RE_CFG/pampers/opps/n	First Christmas set
+b2b	redata	RE_CFG/pampers/opps/idea	Premium Care S + wipes bundle at 2× points
+b2b	redata	RE_CFG/pampers/opps/msg	Merry Christmas 🎄 Baby's first Christmas set is ready — Premium Care S + wipes at 2× Pampers Club points.
+b2b	redata	RE_CFG/pampers/opps/cta	Order the gift set
+b2b	redata	RE_CFG/pampers/opps/seg	Size S · high intent · 3,466 members
+b2b	redata	RE_CFG/pampers/opps/data	Baby age: 3 months
+b2b	redata	RE_CFG/pampers/opps/d	Nov 15
+b2b	redata	RE_CFG/pampers/opps/n	Shichi-go-san
+b2b	redata	RE_CFG/pampers/opps/jp	Shichi-Go-San
+b2b	redata	RE_CFG/pampers/opps/idea	Not sent — the shrine-visit campaign targets 3-year-olds, so it skips Sakura
+b2b	redata	RE_CFG/pampers/opps/msg	Shichi-Go-San is coming 👘 Here's our shrine-visit guide and a family photo-shoot offer for your three-year-old.
+b2b	redata	RE_CFG/pampers/opps/cta	Book the photo shoot
+b2b	redata	RE_CFG/pampers/opps/send	Nov 5 · 10:00
+b2b	redata	RE_CFG/pampers/opps/seg	Children aged 3 · 2,180 members
+consumer	redata	RE_CFG/lactogrow/first	Mayumi
+consumer	redata	RE_CFG/lactogrow/program	Nestlé Familyness
+consumer	redata	RE_CFG/lactogrow/app/earn	Share a family photo
+consumer	redata	RE_CFG/lactogrow/app/earn	Review on Distacart
+consumer	redata	RE_CFG/lactogrow/app/earn	Refer a parent friend
+consumer	redata	RE_CFG/lactogrow/app/earn	Upload a receipt
+consumer	redata	RE_CFG/lactogrow/app/redeem	¥1,000 gift card
+consumer	redata	RE_CFG/lactogrow/app/redeem	Shichi-Go-San photo frame
+consumer	redata	RE_CFG/lactogrow/app/redeem	Familyness hamper
+consumer	redata	RE_CFG/lactogrow/app/shop	LACTOGROW 3 · 400 g
+consumer	redata	RE_CFG/lactogrow/app/shop	LACTOGROW 3 · 850 g
+consumer	redata	RE_CFG/lactogrow/app/shop	Aktif · 4–6 y 400 g
+consumer	redata	RE_CFG/lactogrow/last	How was it? Please tell us how your child liked LACTOGROW 3.
+consumer	redata	RE_CFG/lactogrow/last	Wonderful! 🛒️ You told us you shop on Distacart — here’s 10% off the full 400 g pack there.⟦0⟧Coupon: LACTO10⟦1⟧Applied automatically at checkout.
+consumer	redata	RE_CFG/lactogrow/last	Shop on Distacart
+consumer	redata	RE_CFG/lactogrow/welcome	Welcome to Nestlé Familyness, Mayumi 🎁⟦0⟧You’re in — 250 points for trying LACTOGROW and telling us how it went. Points become coupons, growing-up guides and little gifts for your family’s milestones.
+b2b	redata	RE_CFG/lactogrow/profile	Sakura Terrace 402, 3-11-5 Aobadai, Meguro-ku, Tokyo 153-0042
+b2b	redata	RE_CFG/lactogrow/cohorts	Child 2–3 years
+b2b	redata	RE_CFG/lactogrow/cohorts	Switching from another brand
+b2b	redata	RE_CFG/lactogrow/cohorts	Tokyo · Meguro
+b2b	redata	RE_CFG/lactogrow/cohorts	Shops on Distacart
+b2b	redata	RE_CFG/lactogrow/cohorts	High intent · coupon tapped
+b2b	redata	RE_CFG/lactogrow/captured	Geo · 153-0042
+b2b	redata	RE_CFG/lactogrow/captured	5 answers
+b2b	redata	RE_CFG/lactogrow/captured	SKU: LACTOGROW 3
+b2b	redata	RE_CFG/lactogrow/captured	Purchase intent · Distacart
+b2b	redata	RE_CFG/lactogrow/opps/data	Child turns 3 in November
+b2b	redata	RE_CFG/lactogrow/opps/n	Shichi-Go-San · spin the wheel
+b2b	redata	RE_CFG/lactogrow/opps/short	Child turns 3
+b2b	redata	RE_CFG/lactogrow/opps/short	Nov 15 · Shichi-Go-San
+b2b	redata	RE_CFG/lactogrow/opps/short	Spin to win
+b2b	redata	RE_CFG/lactogrow/opps/msg	Happy Shichi-Go-San, Mayumi! 🎎 Your little one turns 3 — spin the Familyness wheel for a keepsake photo frame, 2× points or a free LACTOGROW 850 g pack.
+b2b	redata	RE_CFG/lactogrow/opps/cta	🎡 Spin the wheel
+b2b	redata	RE_CFG/lactogrow/opps/send	Nov 8 · 10:00
+b2b	redata	RE_CFG/lactogrow/opps/seg	Children turning 3 · 9,140 members
+b2b	redata	RE_CFG/lactogrow/opps/data	Feedback: Loved it · UGC-willing
+b2b	redata	RE_CFG/lactogrow/opps/d	Always-on
+b2b	redata	RE_CFG/lactogrow/opps/n	Turn my story into a manga
+b2b	redata	RE_CFG/lactogrow/opps/jp	Manga campaign
+b2b	redata	RE_CFG/lactogrow/opps/short	Feedback: loved it
+b2b	redata	RE_CFG/lactogrow/opps/short	Her story, drawn
+b2b	redata	RE_CFG/lactogrow/opps/invite	Share your funniest parenting moment! 📣⟦0⟧Tell us a funny story about your little one and we’ll turn it into a 6-panel manga you can share. Best stories win a LACTOGROW gift box.
+b2b	redata	RE_CFG/lactogrow/opps/inviteCta	Send my story
+b2b	redata	RE_CFG/lactogrow/opps/story	My 2-year-old has one response whenever a stranger talks to him: “I’m hungry.”⟦0⟧One day, a man in the elevator was holding tater tots.⟦1⟧My son looked at him and politely asked for one. He got it.⟦2⟧We had a new baby that day. He didn’t mention the baby once. 😂
+b2b	redata	RE_CFG/lactogrow/opps/reply	All done! 🎨 Here’s your family manga, Mayumi — drawn from your story in 40 seconds.
+b2b	redata	RE_CFG/lactogrow/opps/msg	Share it with #LactogrowManga and earn 300 Familyness points. Your manga also goes into this month’s parent gallery 📖
+b2b	redata	RE_CFG/lactogrow/opps/cta	Share to LINE
+b2b	redata	RE_CFG/lactogrow/opps/send	Oct 5 · 19:00
+b2b	redata	RE_CFG/lactogrow/opps/seg	Positive feedback · 5,100 members
+b2b	redata	RE_CFG/lactogrow/opps/data	Daughter · Tokyo household
+b2b	redata	RE_CFG/lactogrow/opps/d	Mar 3
+b2b	redata	RE_CFG/lactogrow/opps/n	Hinamatsuri sticker set
+b2b	redata	RE_CFG/lactogrow/opps/jp	Hinamatsuri
+b2b	redata	RE_CFG/lactogrow/opps/short	Has a daughter
+b2b	redata	RE_CFG/lactogrow/opps/short	Mar 3 · Hinamatsuri
+b2b	redata	RE_CFG/lactogrow/opps/short	Free stickers
+b2b	redata	RE_CFG/lactogrow/opps/msg	Happy Hinamatsuri 🌸 A free Familyness sticker set for your daughter’s day — plus a hinaarare snack guide and 150 points.
+b2b	redata	RE_CFG/lactogrow/opps/cta	Get the stickers
+b2b	redata	RE_CFG/lactogrow/opps/send	Feb 24 · 10:00
+b2b	redata	RE_CFG/lactogrow/opps/seg	Households with a daughter · 18,600 members
+b2b	redata	RE_CFG/lactogrow/opps/data	Priority: tummy comfort
+b2b	redata	RE_CFG/lactogrow/opps/d	Jul 7
+b2b	redata	RE_CFG/lactogrow/opps/n	Tanabata wish tanzaku
+b2b	redata	RE_CFG/lactogrow/opps/jp	Tanabata
+b2b	redata	RE_CFG/lactogrow/opps/short	Jul 7 · Tanabata
+b2b	redata	RE_CFG/lactogrow/opps/short	Write a wish
+b2b	redata	RE_CFG/lactogrow/opps/wish	May she grow up healthy and happy
+b2b	redata	RE_CFG/lactogrow/opps/wishReply	May your wish come true ✨⟦0⟧Your tanzaku is hanging on the Familyness wish tree, Mayumi — and your LACTOGROW points are doubled this week.
+b2b	redata	RE_CFG/lactogrow/opps/msg	Happy Tanabata 🎋 Write a wish for your child on a digital tanzaku — we’ll hang it on the Familyness wish tree and double your points this week.
+b2b	redata	RE_CFG/lactogrow/opps/cta	Write my wish
+b2b	redata	RE_CFG/lactogrow/opps/send	Jun 28 · 10:00
+b2b	redata	RE_CFG/lactogrow/opps/seg	All members · 204k
+b2b	redata	RE_CFG/lactogrow/opps/data	Child age: 3 in Nov
+b2b	redata	RE_CFG/lactogrow/opps/d	Apr 6
+b2b	redata	RE_CFG/lactogrow/opps/n	Nyūgakushiki — first school day
+b2b	redata	RE_CFG/lactogrow/opps/jp	Nyūgakushiki
+b2b	redata	RE_CFG/lactogrow/opps/short	Child is 3, not 6
+b2b	redata	RE_CFG/lactogrow/opps/short	Apr 6 · Nyūgakushiki
+b2b	redata	RE_CFG/lactogrow/opps/short	Nothing — skipped
+b2b	redata	RE_CFG/lactogrow/opps/msg	Congratulations on starting school 🎒 A first-day breakfast plan and a LACTOGROW Aktif lunchbox set for your new first-grader.
+b2b	redata	RE_CFG/lactogrow/opps/cta	Get the breakfast plan
+b2b	redata	RE_CFG/lactogrow/opps/send	Mar 28 · 10:00
+b2b	redata	RE_CFG/lactogrow/opps/seg	Children aged 6 · 3,410 members
+consumer	line	LINE/user	Read
+consumer	line	LINE/addFriend	Official account
+consumer	line	LINE/addFriend	Add
+consumer	line	LINE/addFriend	Block
+consumer	line	LINE/addFriend	Add us to claim your free sample and get delivery updates, tips and offers right here on LINE.
+consumer	line	LINE/addFriend	Free sample campaign
+consumer	line	LINE/addFriend	Official website
+consumer	line	LINE/addFriend	Store locator
+consumer	line	LINE/addFriend	By adding this account you agree to receive messages from
+consumer	line	LINE/phone	Today
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)		Nestlé LACTOGROW — existing customer (web form)
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/kicker	SCENARIO B · SHE ALREADY BUYS LACTOGROW
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/title	Same form.⟦0⟧A customer you already have.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/sub	One answer tells the form she is already a LACTOGROW family. No sample is sent — she is enrolled into Nestlé Familyness instead.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/meta	CAMPAIGN
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/meta	Existing customer
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/meta	OUTCOME
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/meta	Loyalty enrollment
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Build it once
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Same builder. Same questions.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Builder
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	No developer
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Same embed on nestle.jp
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	One form for every visitor.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Script → form
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	The answer splits it
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Already a buyer → no sample.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	No sample cost
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Instant enrollment
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Keep the customer
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Card, points, festivals.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Loyalty
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/phases	Re-engagement
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	INTRO/cta	Start with the builder
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/title	Nestlé LACTOGROW Interaction [Sep 2026-live]
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/heroT	Try Nestlé LACTOGROW — free sample
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/formTitle	Get your free LACTOGROW sample!
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/formCta	Continue
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fields	Full name
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fields	Mobile number
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fields	Email ID
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fixed	Signup
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fixed	Always Enabled
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fixed	Privacy notice (APPI) + consent
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fixed	v1.0 · Always Enabled
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/fixed	Email & phone validation
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Decides which LACTOGROW pack we send
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Tailors the tips we send after delivery
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Decides where the Day-7 coupon sends them
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Tells us if this is a switch or a first trial
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Please enter your postal code
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Used to score the delivery partner for your area
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Please share your complete address
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	B/pages	Verified by agentic consensus before approval
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/after	Claim Success 🎉
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/after	Existing customer → Familyness enrollment
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	B/after	Feedback · Day 7 (LINE)
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	EMBED_CODE	Loading...
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/channelLabel	Web form on nestle.jp
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/source	Website form · nestle.jp → LINE
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/startDate	Sep 12 (Sat)
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/k	STEP 1 · BUILDER
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/t	One form, both kinds of visitor
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	Identical to Scenario A — the answers decide what happens next.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	Page 1 qualifies the child
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	Page 2 asks what she buys today
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/cta	Add the pack logic
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/sku/skus	LACTOGROW 3 · 1–3 years trial
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/sku/skus	LACTOGROW Aktif · 4–6 years trial
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/k	STEP 2 · PACK LOGIC
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/t	Pack rule stays on
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	It only fires for people who don’t buy the brand yet.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	Existing buyers never reach it
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/cta	Next: pixels
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/pixel/platform	Meta Pixel
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	Marketing Pixel 2 · TikTok Pixel
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	C8LM4RJC77U9K2
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	Marketing Pixel 3 · Google Ads
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	Marketing Pixel 4 · Yahoo! JAPAN Ads
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	yjtag 7740-XX
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/more	Marketing Pixel 5 · LINE Tag
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/k	STEP 3 · MEASUREMENT
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/t	Same pixels, one extra event
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	loyalty_enrol fires when an existing customer joins Familyness.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	Enrollments attributed to the creative
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/cta	Next: go live
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/k	STEP 4 · GO LIVE
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/t	Copy the embed code
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/s	The same snippet serves both journeys.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/pts	One form, two outcomes
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/call/cta	Paste it on nestle.jp
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/title2	The form is integrated into your website
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/sub	One paste. The script becomes the live form.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/chips	Script → live form
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/chips	Nestlé keeps the page
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/chips	FreeStand keeps the logic
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/pre/cta	See how she arrives
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/caption	The ad doesn’t know who she is. The form finds out in five questions.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/cta	Check the Details
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/likes	2,856 likes
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/ig/caption	Nutrition for a brighter tomorrow 💙 Try a FREE sample of Nestlé LACTOGROW!
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/title	LACTOGROW Free Sample ⟦0⟧ Nestlé Japan
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/desc	The right pack for your child’s age, free. Just 5 questions.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/cta	Get a free sample ›
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/title	LACTOGROW ⟦0⟧ Nestlé
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/desc	Growing-up milk with L. reuteri and DHA.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/title	How to choose a growing-up milk
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/media2/results/desc	Drinks for 1–3 year olds: reviews from other parents.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	Instagram / Meta ads
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	TikTok in-feed & Spark
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	Google & Yahoo! JAPAN search
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	ChatGPT recommendations
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	Email to Nestlé members
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/types	Pack & vending-machine QR
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/ad/line	Existing customers click the same ad. That click is not wasted — it becomes a member.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/friend/desc	Nestlé LACTOGROW Japan official account. Member card, growing-up tips and Familyness offers.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/friend/links	Growing-up milk guide
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/friend/links	Member rewards
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/optinTag	Existing customer · LINE friend
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/persona/area	Meguro-ku, Tokyo
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/persona/cohorts	Existing LACTOGROW buyer
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/persona/cohorts	Familyness member
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/persona/homeLabel	Sakura Terrace 402 · Meguro
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/persona/region	Kanto region
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/verdict	Already a LACTOGROW family
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/sub	No sample needed — the budget goes to keeping her instead.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/badge	ENROLLED
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/skip	Free trial pack
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/give	Nestlé Familyness membership
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/rows	Which growing-up milk today?
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/rows	Campaign rule
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/rows	Existing buyer → skip the sample, enroll in loyalty
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/rows	Decision
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/rows	Enrolled instantly · no extra form
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/program	NESTLÉ FAMILYNESS
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/tags	Existing buyer
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/tags	Loyalty enrolled
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/tags	¥0 sample cost
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/enroll/tags	Retention audience
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skumap/packs/name	LACTOGROW 3 · 1–3 years
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skumap/packs/pack	Trial pack · 400 g
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skumap/packs/name	LACTOGROW Aktif · 4–6 years
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skus/answer	1 – 3 years
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skus/why	L. reuteri, DHA, 18 vitamins & minerals.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skus/why	AktifGro + DHA for pre-schoolers.
+b2b	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/skuRule	child’s age → LACTOGROW 3 (1–3 y) or LACTOGROW Aktif (4–6 y)
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/k	FREE SAMPLE
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/t	Happy tummies,⟦0⟧brighter tomorrows
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/s	Five quick questions and we’ll send the right LACTOGROW pack for your child’s age — free.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/cta	Get my free sample
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/note	Same landing page for everyone · utm_source=meta captured
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Source: Instagram ad (utm_source=meta)
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Before you start
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/cta	Agree & start
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Consent: privacy notice v1.0 · incl. India access
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Step 1 of 5
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/q	Let’s start with you
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fields	Email
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Email: mayumi.sato@gmail.com
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Step 2 of 5
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Child age: 2–3 years
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Step 3 of 5
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Priority: Tummy comfort
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Step 4 of 5
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Preferred store: Distacart
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/step	Step 5 of 5
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/note	She already buys the brand — the journey changes here.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/t	You’re already one of us 💙
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/s	No sample needed — you’re now a ⟦0⟧Nestlé Familyness⟦1⟧ member with ⟦2⟧250 welcome points⟦3⟧.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/sku/n	Nestlé Familyness · NF-2026-204118
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/sku/p	250 points · Bronze
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/cta	Open my card on LINE
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/note	Enrolled in one tap · no second form
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Enrolled: Nestlé Familyness
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Member NF-2026-204118 · 250 pts
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/b	Thank you, Mayumi 💙⟦0⟧You’ve been enrolled in the Nestlé Familyness loyalty program — thank you for being a valued LACTOGROW family.⟦1⟧250 welcome points are already on your card.
+consumer	tpl:Nestlé LACTOGROW — existing customer (web form)	CHAT_CONFIG/groups/fact	Welcome message · member card link
+b2b	journey	profileFrame/body	Personal details⟦0⟧⟦1⟧Other details⟦2⟧⟦3⟧Relevant cohorts
+consumer	journey	profileFrame/body	Address
+b2b	journey	profileFrame/body	Self-declared
+b2b	journey	profileFrame/body	Collected as the customer chats with the bot…
+b2b	journey	profileFrame/body	LINE opt-in
+b2b	journey	profileFrame/body	Assigned once the address is verified…
+b2b	journey	panelFrame/checks	Postal code ↔ address match
+b2b	journey	panelFrame/checks	Serviceable area
+b2b	journey	panelFrame/checks	Inside the active delivery zone for this campaign
+b2b	journey	panelFrame/checks	Geocoding
+b2b	journey	panelFrame/checks	Building-level pin placed · confidence 98%
+b2b	journey	panelFrame/checks	Duplicate check
+b2b	journey	panelFrame/checks	No prior claim on this LINE ID, phone number, email or address
+b2b	journey	panelFrame	Address verification
+b2b	journey	panelFrame	Automated · 4 checks · postal code
+b2b	journey	panelFrame	VERIFIED
+b2b	journey	panelFrame	Address as typed
+b2b	journey	panelFrame	All checks passed · claim approved
+b2b	journey	panelFrame	Confirmation sent to the customer · sample reserved at
+b2b	journey	panelFrame/steps	Order created
+b2b	journey	panelFrame/steps	Packed
+consumer	journey	panelFrame/steps	Out for delivery
+consumer	journey	panelFrame	Delivery tracking
+b2b	journey	panelFrame	IN TRANSIT
+b2b	journey	panelFrame	Fulfilment centre
+b2b	journey	panelFrame	arrives Sep 14
+b2b	journey	panelFrame	Delivered 14:32 · left at the door · photo proof saved to the profile
+b2b	journey	panelFrame	Recipient
+b2b	journey	panelFrame	Deliver to
+b2b	journey	panelFrame	Carrier
+consumer	journey	panelFrame	Tracking
+b2b	journey	panelFrame	Gratification period
+b2b	journey	panelFrame	7 days · no brand messages in the window
+b2b	journey	panelFrame	WAITING
+b2b	journey	panelFrame	Day 0
+b2b	journey	panelFrame	Sep 14
+b2b	journey	panelFrame	Day 1–6
+b2b	journey	panelFrame	Trial window
+b2b	journey	panelFrame	Day 7
+b2b	journey	panelFrame	Feedback request
+b2b	journey	panelFrame	Sep 21 · auto-triggered on LINE
+b2b	journey	panelFrame	Why wait?⟦0⟧ The customer gets time to actually use the sample. FreeStand holds all messaging for the gratification period, then triggers the feedback question automatically · one nudge, at the right moment, on the channel the customer already replied on.
+b2b	journey	panelFrame	1 nudge
+b2b	journey	panelFrame	Day 10
+b2b	journey	panelFrame	SKU allocation
+b2b	journey	panelFrame	Rule
+b2b	journey	panelFrame	answer → sample SKU
+b2b	journey	panelFrame	ALLOCATED
+b2b	journey	panelFrame	Answer received
+b2b	journey	panelFrame	Allocated
+b2b	journey	panelFrame	Not selected
+b2b	journey	panelFrame	Inventory held at
+b2b	journey	panelFrame	the rest of the journey continues with this SKU
+b2b	journey	panelFrame/rows	Plain-language notice shown
+b2b	journey	panelFrame/rows	What we collect · why · who sees it · ⟦0⟧accessed from India⟦1⟧ (Digital Personal Data Protection Act 2023 + contract safeguards)
+b2b	journey	panelFrame/rows	Consent matches the notice
+b2b	journey	panelFrame/rows	Box was ⟦0⟧unticked⟦1⟧ until she ticked it. The form's
+b2b	journey	panelFrame/rows	fields are all named in the notice, so it can't ask for more.
+b2b	journey	panelFrame/rows	MATCHED
+b2b	journey	panelFrame/rows	Retention clock started
+b2b	journey	panelFrame/rows	SCHEDULED
+b2b	journey	panelFrame/rows	RoPA register updated
+b2b	journey	panelFrame/rows	entries now include this claimant: what is held, where it lives, who touches it. FreeStand India access is logged per session.
+b2b	journey	panelFrame	Consent record
+b2b	journey	panelFrame	APPI · stored before any personal data is collected
+b2b	journey	panelFrame	CONSENTED
+b2b	journey	panelFrame	Notice shown
+consumer	journey	panelFrame	Privacy notice
+b2b	journey	panelFrame	English
+b2b	journey	panelFrame	Consented at
+b2b	journey	panelFrame	Sep 12, 2026 · 13:02 JST
+b2b	journey	panelFrame	nestle.jp form · ticked by her
+b2b	journey	panelFrame	Collected so far
+b2b	journey	panelFrame	Nothing yet
+b2b	journey	panelFrame	Fields unlock after consent
+b2b	journey	panelFrame	Only now does the form ask for her name
+b2b	journey	panelFrame	Every field that follows is one the notice already named. Nothing is stored before this record.
+b2b	journey	panelFrame	Purchase intent → e-commerce
+b2b	journey	panelFrame	Buy-now tap · redirect · attribution
+b2b	journey	panelFrame	TRACKED
+b2b	journey	panelFrame	Destination
+b2b	journey	panelFrame	Attributed to
+b2b	journey	panelFrame	Coupon
+b2b	journey	panelFrame	Pixels fired
+consumer	journey	igFrame	Instagram
+consumer	journey	igFrame	Sponsored
+consumer	journey	igFrame	Claim free sample
+consumer	journey	igFrame	3,241 likes
+b2b	journey	DEFAULT_TYPES	Instagram / Meta ads → LINE add-friend
+b2b	journey	DEFAULT_TYPES	Google & Yahoo! JAPAN sponsored search
+b2b	journey	DEFAULT_TYPES	Email newsletter
+b2b	journey	DEFAULT_TYPES	Vending-machine QR code
+b2b	journey	DEFAULT_TYPES	Website web form
+b2b	journey	adScreen	Acquisition · how the journey starts
+b2b	journey	adScreen	Every entry is UTM-tagged and lands in one place: the brand’s LINE official account.
+b2b	journey	afterSide/innerHTML	DELIVERED
+consumer	journey	siteNav	NASDAQ: MDLZ $62.36 USD 0.26 (0%)
+consumer	journey	siteNav	Mondelēz
+consumer	journey	webScreen	All⟦0⟧⟦1⟧Shopping⟦2⟧⟦3⟧Images⟦4⟧⟦5⟧News
+consumer	journey	webScreen	Claim free sample ›
+consumer	journey	webScreen	Form powered by ⟦0⟧FreeStand⟦1⟧ · embedded on this page
+consumer	journey	webScreen	Shown before anything is collected
+consumer	journey	webScreen	Read in full ›
+consumer	journey	webScreen	Verify
+consumer	journey	webScreen	Verifying…
+consumer	journey	webScreen	4.7 · 2,318 reviews
+consumer	journey	webScreen	tax incl.
+consumer	journey	webScreen	Free delivery · arrives tomorrow
+consumer	journey	webScreen	Add to cart
+consumer	journey	webScreen	Also on
+consumer	journey	leftHtml/system	You added
+consumer	journey	leftHtml/system	as a friend.
+b2b	appi	APPI/date	Sep 1, 2026
+b2b	appi	APPI/hash	sha256 7f3a…9c21
+consumer	appi	APPI/notice/h	What we collect
+consumer	appi	APPI/notice/t	Your name, mobile number and email; your child’s age; your survey answers (what matters most, where you shop, which milk your child drinks now); your postal code and address; your LINE user ID; delivery status; ad-tag (cookie) data. Nothing else.
+consumer	appi	APPI/notice/s	Name, phone, email, child’s age, survey answers, address, LINE ID, cookies. Nothing else.
+consumer	appi	APPI/notice/h	Why we use it
+consumer	appi	APPI/notice/t	① To send your sample and delivery updates ② To pick the right pack for your child’s age ③ To ask for your feedback after 7 days and send a coupon for the store you use (on LINE) ④ To measure the campaign ⑤ For Nestlé advertising: your email and phone number are hashed (encrypted) and sent to Meta, Google and LINE. We use your data for nothing else.
+consumer	appi	APPI/notice/s	Shipping and delivery updates · choosing your pack · Day-7 feedback and a coupon on LINE · campaign measurement · Nestlé advertising. Nothing else.
+consumer	appi	APPI/notice/h	Who sees it
+consumer	appi	APPI/notice/t	Nestlé Japan (campaign team) · FreeStand Japan (runs the campaign) · FreeStand India (system maintenance and customer support) · Yamato Transport (name, address and phone only) · LY Corporation (LINE messages) · AI address-check services (address only, never used for training) · Ad platforms: Meta, TikTok, Google, Yahoo! JAPAN, LINE.
+consumer	appi	APPI/notice/s	Nestlé Japan, FreeStand (Japan and India), Yamato Transport (delivery details only), LINE, AI address check, ad platforms.
+consumer	appi	APPI/notice/h	Accessed from India
+consumer	appi	APPI/notice/t	Your data is stored in Japan (AWS Tokyo region). FreeStand India staff in India access it to maintain the system and answer your questions. India’s privacy law is the Digital Personal Data Protection Act, 2023. Our contract requires the same safeguards as Japan’s privacy law (APPI): limited access, access logs and a yearly audit. The AI address-check services and ad platforms process data in the US, which has no single federal privacy law.
+consumer	appi	APPI/notice/s	Stored in Japan (AWS Tokyo). FreeStand India staff access it for maintenance and support. India’s law: DPDP Act 2023. Our contract requires Japan-level safeguards.
+consumer	appi	APPI/notice/h	How long we keep it
+consumer	appi	APPI/notice/t	Contact details: 12 months after the campaign ends. Address: 90 days after delivery. Then they are deleted automatically. The full schedule is in the table below.
+consumer	appi	APPI/notice/s	Contact details 12 months, address 90 days after delivery. Then deleted automatically.
+consumer	appi	APPI/notice/h	Your rights
+consumer	appi	APPI/notice/t	Ask to see, correct, stop using or delete your data at any time: privacy@freestand.jp. You can withdraw consent on LINE or by email.
+consumer	appi	APPI/notice/s	See, correct or delete your data, or withdraw consent: privacy@freestand.jp.
+consumer	appi	APPI/consent	I agree to the privacy notice above, including access from India
+consumer	appi	APPI/fields	Child’s age
+consumer	appi	APPI/fields	What matters most
+consumer	appi	APPI/fields	Where she shops
+consumer	appi	APPI/fields	Current milk
+consumer	appi	APPI/fields	Postal code
+b2b	appi	APPI/retention	name · phone · email
+b2b	appi	APPI/retention	Contact details
+b2b	appi	APPI/retention	12 months after the campaign ends
+b2b	appi	APPI/retention	postal code · street · building
+b2b	appi	APPI/retention	Postal code & address
+b2b	appi	APPI/retention	90 days after delivery
+b2b	appi	APPI/retention	Delivery photo proof
+b2b	appi	APPI/retention	30 days after delivery
+b2b	appi	APPI/retention	age · priority · store · milk
+b2b	appi	APPI/retention	Survey answers
+b2b	appi	APPI/retention	Anonymised after 24 months
+b2b	appi	APPI/retention	LINE UID
+b2b	appi	APPI/retention	LINE user ID
+b2b	appi	APPI/retention	Until she unfriends or withdraws consent
+b2b	appi	APPI/retention	hashed email/phone · cookies
+b2b	appi	APPI/retention	Ad audiences & cookies
+b2b	appi	APPI/retention	13 months
+b2b	appi	APPI/ropa	FreeStand DB · AWS Tokyo
+b2b	appi	APPI/ropa	Nestlé JP marketing · FreeStand ops JP · FreeStand India support (masked)
+b2b	appi	APPI/ropa	Delivery, LINE follow-up
+b2b	appi	APPI/ropa	12 mo after campaign
+b2b	appi	APPI/ropa	FreeStand DB · AWS Tokyo · Yamato system
+b2b	appi	APPI/ropa	FreeStand ops JP · Yamato · FreeStand India (maintenance, masked)
+b2b	appi	APPI/ropa	Delivery, address check
+b2b	appi	APPI/ropa	Nestlé JP marketing · FreeStand India analytics
+b2b	appi	APPI/ropa	Pack choice, tips, coupon store
+b2b	appi	APPI/ropa	24 mo → anonymised
+b2b	appi	APPI/ropa	LINE user ID & messages
+b2b	appi	APPI/ropa	LINE UID · chat history
+b2b	appi	APPI/ropa	LINE Official Account · FreeStand DB
+b2b	appi	APPI/ropa	FreeStand ops JP · LINE Yahoo
+b2b	appi	APPI/ropa	Delivery updates, Day-7 feedback
+b2b	appi	APPI/ropa	Until unfriend / withdrawal
+b2b	appi	APPI/ropa	Delivery photo
+b2b	appi	APPI/ropa	Yamato · FreeStand DB
+b2b	appi	APPI/ropa	FreeStand ops JP
+b2b	appi	APPI/ropa	Proof of delivery
+b2b	appi	APPI/ropa	Ad audiences & pixels
+b2b	appi	APPI/ropa	hashed email/phone · cookie events
+b2b	appi	APPI/ropa	Meta · TikTok · Google · Yahoo! · LINE (US)
+b2b	appi	APPI/ropa	Nestlé's media agency
+b2b	appi	APPI/ropa	Ad delivery & measurement
+b2b	appi	APPI/ropa	Audience lists 13 mo
+b2b	appi	APPI/ropa	notice version · time · IP
+b2b	appi	APPI/ropa	FreeStand compliance JP
+b2b	appi	APPI/ropa	Proof of consent
+b2b	appi	APPI/ropa	Kept while data is held
+b2b	appi	SETUP/MENU	Manage Clients
+b2b	appi	SETUP/MENU	Manage Campaigns
+b2b	appi	SETUP/MENU	Manage Vendors
+b2b	appi	SETUP/MENU	Manage SKUs
+b2b	appi	SETUP/MENU	Manage Accounts
+b2b	appi	SETUP/MENU	Manage Users
+b2b	appi	SETUP/MENU	Manage Teams
+b2b	appi	SETUP/MENU	Manage Audits
+b2b	appi	SETUP/MENU	Manage Reports
+b2b	appi	SETUP/MENU	Manage Notifications
+b2b	appi	SETUP/MENU	Manage Analytics
+b2b	appi	SETUP/MENU	Manage Analytics V2
+b2b	appi	SETUP/MENU	Reviews
+b2b	appi	SETUP/MENU	Manage Tickets
+b2b	appi	SETUP/MENU	Manage Schemas
+b2b	appi	SETUP/MENU	Manage PSPs
+b2b	appi	SETUP/MENU	Logistics
+b2b	appi	SETUP/MENU	Manage API Keys
+b2b	appi	SETUP/MENU	Playbooks
+b2b	appi	SETUP/NAV	Planner
+b2b	appi	SETUP/NAV	CATALOGUE
+b2b	appi	SETUP/NAV	SKUs
+b2b	appi	SETUP/NAV	Inventory
+b2b	appi	SETUP/NAV	Reengage
+b2b	appi	SETUP/NAV	My Coupons
+b2b	appi	SETUP/NAV	INSIGHTS
+b2b	appi	SETUP/NAV	Reports
+b2b	appi	SETUP/NAV	Audits
+b2b	appi	SETUP/NAV	OPERATIONS
+b2b	appi	SETUP/NAV	Promoters
+b2b	appi	SETUP/NAV	Retailers
+b2b	appi	SETUP/NAV	Customer Portal
+b2b	appi	SETUP/NAV	Query resolution
+b2b	appi	SETUP/side	Help
+consumer	appi	SETUP/formPrev	Get your free sample now!
+consumer	appi	SETUP/formPrev	Enter your
+consumer	appi	SETUP/formPrev	(privacy notice
+b2b	appi	SETUP/builder/pages	Page
+b2b	appi	SETUP/builder/pages	+ Add question
+b2b	appi	SETUP/builder/prev	Yes
+b2b	appi	SETUP/builder	Design interaction
+b2b	appi	SETUP/builder	Hi Apurva Sharma, Good afternoon! 🌤
+b2b	appi	SETUP/builder	Create Bot Fields⟦0⟧⟦1⟧Create FSChat Variables⟦2⟧⟦3⟧Manage SKUs
+b2b	appi	SETUP/builder	Publish⟦0⟧⟦1⟧Share
+b2b	appi	SETUP/builder	Preview
+b2b	appi	SETUP/builder	+ Add page
+b2b	appi	SETUP/builder	Reset
+b2b	appi	SETUP/MOD/skus	Assign SKUs⟦0⟧⟦1⟧Conditionally assign SKUs to claimants based on their responses
+b2b	appi	SETUP/MOD/skus	If answer to
+b2b	appi	SETUP/MOD/skus	then assign SKU(s)
+b2b	appi	SETUP/MOD/skus	+ Add logic
+b2b	appi	SETUP/MOD/skus	If ⟦0⟧none⟦1⟧ of the conditions are met, ⟦2⟧All SKU(s)⟦3⟧ in the campaign will be assigned⟦4⟧• If ⟦5⟧multiple⟦6⟧ conditions are met, the ⟦7⟧first⟦8⟧ logic will be applied
+b2b	appi	SETUP/MOD/skus	Close⟦0⟧⟦1⟧Save
+b2b	appi	SETUP/MOD/pixels	Interaction Settings⟦0⟧⟦1⟧Update settings for this interaction. Changes will be reflected immediately.
+b2b	appi	SETUP/MOD/pixels	Appearance
+b2b	appi	SETUP/MOD/pixels	Validity & Limits
+b2b	appi	SETUP/MOD/pixels	Referrers
+b2b	appi	SETUP/MOD/pixels	Pixel Tracking
+b2b	appi	SETUP/MOD/pixels	Enable Pixel Tracking
+b2b	appi	SETUP/MOD/pixels	Marketing Pixels⟦0⟧⟦1⟧Events
+b2b	appi	SETUP/MOD/pixels	Marketing Pixel 1
+b2b	appi	SETUP/MOD/pixels	Name (for your reference)
+b2b	appi	SETUP/MOD/pixels	Found in your
+b2b	appi	SETUP/MOD/pixels	Facebook Events Manager
+b2b	appi	SETUP/MOD/pixels	Initialization Code
+b2b	appi	SETUP/MOD/pixels	Enabled
+b2b	appi	SETUP/MOD/pixels	+ Add Marketing Pixel
+b2b	appi	SETUP/MOD/pixels	Save⟦0⟧⟦1⟧Close
+b2b	appi	SETUP/MOD/live/rows	LINE Official Account
+b2b	appi	SETUP/MOD/live/rows	Connected
+b2b	appi	SETUP/MOD/live/rows	Messaging API webhook
+b2b	appi	SETUP/MOD/live/rows	Verified
+b2b	appi	SETUP/MOD/live/rows	Rich menu & greeting message
+b2b	appi	SETUP/MOD/live/rows	Free sample campaign · Feeding guide · Official website
+b2b	appi	SETUP/MOD/live/rows	Published
+b2b	appi	SETUP/MOD/live/rows	Add-friend link with UTM
+b2b	appi	SETUP/MOD/live/rows	Ready
+b2b	appi	SETUP/MOD/live	Take live on LINE⟦0⟧⟦1⟧Publish this interaction to the brand's LINE Official Account · no code on the brand side.
+b2b	appi	SETUP/MOD/live	Customers who tap the ad are taken to LINE, add the account as a friend and the conversation starts from ⟦0⟧Page 1⟦1⟧. Every reply is stored on the customer profile.
+b2b	appi	SETUP/MOD/live	Close⟦0⟧⟦1⟧Publish & go live
+b2b	appi	SETUP/MOD/privacy	Interaction Settings⟦0⟧⟦1⟧Privacy notice & consent · required before Publish for campaigns in Japan (APPI)
+b2b	appi	SETUP/MOD/privacy	Privacy (APPI)
+b2b	appi	SETUP/MOD/privacy	Plain language · no vague wording
+b2b	appi	SETUP/MOD/privacy	Vague terms like “etc.”, “and others” or “partners”: 0 found. Every recipient is named.
+b2b	appi	SETUP/MOD/privacy	What · why · who · India access
+b2b	appi	SETUP/MOD/privacy	All four are written out. India is named with its law (DPDP Act 2023) and the safeguards in the contract.
+b2b	appi	SETUP/MOD/privacy	Consent matches the notice exactly
+b2b	appi	SETUP/MOD/privacy	fields in this form are named in the notice. A question that is not in the notice blocks Publish.
+b2b	appi	SETUP/MOD/privacy	Consent checkbox on the form · required · ⟦0⟧unticked by default⟦1⟧ · stored with notice
+b2b	appi	SETUP/MOD/privacy	Change the notice or add a question → the notice becomes ⟦0⟧v1.1⟦1⟧ and existing claimants are asked to consent again on LINE before the new data is used.
+b2b	appi	SETUP/MOD/ropa	Retention & records of processing⟦0⟧⟦1⟧How long each data type is kept, and the register of what we hold, where it lives and who touches it.
+b2b	appi	SETUP/MOD/ropa	Retention · automatic deletion⟦0⟧Deletion jobs scheduled
+b2b	appi	SETUP/MOD/ropa	Data
+b2b	appi	SETUP/MOD/ropa	Kept for
+b2b	appi	SETUP/MOD/ropa	Claim on Sep 12, 2026 · deleted on
+b2b	appi	SETUP/MOD/ropa	RoPA · records of processing⟦0⟧Written from this form
+b2b	appi	SETUP/MOD/ropa	Data type
+b2b	appi	SETUP/MOD/ropa	Where it lives
+b2b	appi	SETUP/MOD/ropa	Who touches it
+b2b	appi	SETUP/MOD/ropa	Purpose
+b2b	appi	SETUP/MOD/ropa	Retention
+b2b	appi	SETUP/MOD/ropa	FreeStand India
+b2b	appi	SETUP/MOD/ropa	Every deletion is logged in Manage Audits.⟦0⟧⟦1⟧Export RoPA (.csv)⟦2⟧⟦3⟧Save
+b2b	appi	SETUP/MOD/share/F	Where the traffic originates
+b2b	appi	SETUP/MOD/share/F	The marketing channel or format
+b2b	appi	SETUP/MOD/share/F	The campaign or promotion name
+b2b	appi	SETUP/MOD/share/F	Content
+b2b	appi	SETUP/MOD/share/F	The creative, placement, or message
+b2b	appi	SETUP/MOD/share/F	Term
+b2b	appi	SETUP/MOD/share/F	The keyword or targeting term
+b2b	appi	SETUP/MOD/share/F	The platform or device context
+b2b	appi	SETUP/MOD/share/F	The audience segment being targeted
+b2b	appi	SETUP/MOD/share/F	Variant
+b2b	appi	SETUP/MOD/share/F	The experiment or link variant
+b2b	appi	SETUP/MOD/share	Share form⟦0⟧⟦1⟧Build a trackable campaign link, protect access, or embed the form on your website.
+b2b	appi	SETUP/MOD/share	Ready to share⟦0⟧⟦1⟧Tracking values are applied live to every link and embed below.
+b2b	appi	SETUP/MOD/share	Embed code
+b2b	appi	SETUP/MOD/share	Website embed
+b2b	appi	SETUP/MOD/share	Campaign link
+b2b	appi	SETUP/MOD/share	Copy
+b2b	appi	SETUP/MOD/share	Values are URL-encoded automatically.⟦0⟧⟦1⟧Close
+b2b	appi	SETUP/callout	WHAT’S HAPPENING
+b2b	appi	SETUP/callout	Got it · next
+b2b	appi	SETUP/intro	WEBSITE SAMPLING
+b2b	appi	SETUP/intro	Start with the campaign builder
+b2b	appi	SETUP/integrate	Share form
+b2b	appi	SETUP/integrate	Trackable link, access control or website embed.
+b2b	appi	SETUP/integrate	Embed this form in your website
+b2b	appi	SETUP/integrate	Close
+b2b	appi	SETUP/integrate/ph	Get your free sample
+b2b	appi	SETUP/integrate/ph	Powered by
+b2b	appi	SETUP/integrate	One paste. No developer, no release cycle.
+b2b	popups	MODALS/geo	Geo Verification
+b2b	popups	MODALS/geo	Postal code mapped, geocoded and approved for delivery
+b2b	popups	MODALS/geo	Delivery zone
+b2b	popups	MODALS/geo	Inside delivery zone
+b2b	popups	MODALS/geo	DELIVERY ZONE⟦0⟧⟦1⟧Approved
+b2b	popups	MODALS/geo	2–3 day area
+b2b	popups	MODALS/geo	CAMPAIGN STATUS⟦0⟧⟦1⟧Approved⟦2⟧⟦3⟧Geography verified
+b2b	popups	MODALS/geo	Postal code mapping
+b2b	popups	MODALS/geo	Geographic zone
+b2b	popups	MODALS/geo	Delivery eligibility
+b2b	popups	MODALS/geo	Serviceable address zone
+b2b	popups	MODALS/geo	Campaign eligibility
+b2b	popups	MODALS/geo	Targeting approved
+b2b	popups	MODALS/geo	VERIFIED POSTAL CODE
+b2b	popups	MODALS/geo	Campaign eligible: Yes
+b2b	popups	MODALS/alloc/rows	ASSIGNED
+b2b	popups	MODALS/alloc	Dynamic delivery-partner allocation
+b2b	popups	MODALS/alloc	FreeStand scores every contracted partner for ⟦0⟧this⟦1⟧ pincode, on every claim
+b2b	popups	MODALS/alloc	Score⟦0⟧partner⟦1⟧ =
+b2b	popups	MODALS/alloc	Partner (live in
+b2b	popups	MODALS/alloc	On-time · last 90 d
+b2b	popups	MODALS/alloc	Delivery time
+b2b	popups	MODALS/alloc	Cost / shipment
+b2b	popups	MODALS/alloc	Score
+b2b	popups	MODALS/alloc	assigned · score
+b2b	popups	MODALS/alloc	Re-scored per claim, per pincode · a different postal code on the next claim can route to a different partner. The number the customer sees on screen is the winning partner’s live TAT, not a generic “2–3 business days”.
+b2b	popups	MODALS/verify/A	Address format matches Japan Post conventions
+b2b	popups	MODALS/verify/A	Claude
+b2b	popups	MODALS/verify/A	Cross-referenced with the postal database · valid match
+b2b	popups	MODALS/verify/A	Grok
+b2b	popups	MODALS/verify/A	Verified against real-time address records
+b2b	popups	MODALS/verify/A	Gemini
+b2b	popups	MODALS/verify/A	Geolocation validation passed successfully
+b2b	popups	MODALS/verify	FreeStand Agentic Consensus
+b2b	popups	MODALS/verify	Four independent AI agents compare the typed address with the postal database · the sample is approved on their consensus similarity score
+b2b	popups	MODALS/verify	AS TYPED BY THE CUSTOMER
+b2b	popups	MODALS/verify	JAPAN POST
+b2b	popups	MODALS/verify	CANONICAL RECORD
+b2b	popups	MODALS/verify	Approval threshold ⟦0⟧≥
+b2b	popups	MODALS/verify	Postal code ↔ address
+b2b	popups	MODALS/verify	Postal database verified
+b2b	popups	MODALS/verify	Address validity
+b2b	popups	MODALS/verify	Valid & deliverable
+b2b	popups	MODALS/verify	Uniqueness check
+b2b	popups	MODALS/verify	No duplicate claim on this household
+b2b	popups	MODALS/verify	Geolocation
+b2b	popups	MODALS/verify	Building-level pin · confidence 98%
+b2b	popups	MODALS/verify	VERIFIED ADDRESS · SAMPLE APPROVED
+b2b	popups	MODALS/skumap/opts	customer’s answer
+b2b	popups	MODALS/skumap	SKU allocation · live rule engine
+b2b	popups	MODALS/skumap	Question
+b2b	popups	MODALS/skumap	Answer “
+b2b	popups	MODALS/order/prod	by FreeStand
+b2b	popups	MODALS/order/row	✦ NEW ORDER
+b2b	popups	MODALS/order	Processing
+b2b	popups	MODALS/order	Product
+b2b	popups	MODALS/order	Delivery partner
+b2b	popups	MODALS/order	Highest dynamic-allocation score for this pincode
+consumer	popups	MODALS/order	Ships from
+b2b	popups	MODALS/order/inv	Campaign inventory
+b2b	popups	MODALS/order	This claim is sample ⟦0⟧#
+b2b	popups	MODALS/order	stock is decremented at the moment of allocation, so the campaign can never over-promise. At 90% FreeStand alerts the brand to re-stock
+b2b	popups	MODALS/order	FreeStand Order Management
+b2b	popups	MODALS/order	Orders, delivery-partner assignment and live sample inventory
+b2b	popups	MODALS/order	ORD-2026
+b2b	popups	MODALS/order	Sep 12, 2026
+b2b	popups	MODALS/order	orders today · ⟦0⟧New order created successfully⟦1⟧⟦2⟧⟦3⟧Close⟦4⟧⟦5⟧Order Created
+consumer	popups	MODALS/track	Arriving on
+consumer	popups	MODALS/track	Monday
+consumer	popups	MODALS/track	September
+consumer	popups	MODALS/track	Assigned by dynamic allocation
+consumer	popups	MODALS/track	Tracking ID
+consumer	popups	MODALS/track	Order details
+consumer	popups	MODALS/track	Order ID
+consumer	popups	MODALS/track	ORD-2026-003
+consumer	popups	MODALS/track	Order placed on
+consumer	popups	MODALS/track	Contents
+consumer	popups	MODALS/track	How was your delivery experience?
+consumer	popups	MODALS/track	TERRIBLE
+consumer	popups	MODALS/track	EXCELLENT
+consumer	popups	MODALS/track	Submit
+consumer	popups	MODALS/track	How likely are you to recommend Free Sample to friends &amp; family?
+consumer	popups	MODALS/track	Not at all likely⟦0⟧⟦1⟧Extremely likely
+consumer	popups	MODALS/track	The tracking page is FreeStand’s · so the delivery experience score and the NPS come back onto the same customer profile as the claim, the answers and the feedback.
+b2b	popups	MODALS/screening	Brand screening
+b2b	popups	MODALS/screening	Which brand she buys today · and whether this campaign wants her
+b2b	popups	MODALS/screening	Eligible · competitor-brand user
+b2b	popups	MODALS/screening	APPROVED
+b2b	popups	MODALS/screening	BUYS TODAY
+b2b	popups	MODALS/screening	CAMPAIGN TARGETS
+b2b	popups	MODALS/screening	Switch likelihood
+b2b	popups	MODALS/enrol	Existing customer detected
+b2b	popups	MODALS/enrol	She already buys the brand · so the offer changes
+b2b	popups	MODALS/enrol	NOT SENT
+b2b	popups	MODALS/enrol	SENT INSTEAD
+b2b	popups	MODALS/soldout	Stock is decremented at allocation · so the campaign can never over-promise
+b2b	popups	MODALS/soldout	0⟦0⟧⟦1⟧still available
+b2b	popups	MODALS/soldout	Campaign stock exhausted
+b2b	popups	MODALS/soldout	WAITLISTED
+b2b	popups	MODALS/soldout	NOT POSSIBLE
+b2b	popups	MODALS/soldout	Waitlist + membership + coupon
+b2b	popups	MODALS/soldout	WAITLIST POSITION
+b2b	popups	MODALS/soldout	NEXT RESTOCK
+b2b	popups	MODALS/soldout	OFFERED NOW
+b2b	popups	MODALS/soldout	No order created · ⟦0⟧customer queued, not disappointed⟦1⟧⟦2⟧⟦3⟧Add to waitlist
+b2b	popups	MODALS/geowait	Geo verification failed
+b2b	popups	MODALS/geowait	The postal code resolves · but it is outside the campaign’s serviced geography
+b2b	popups	MODALS/geowait	Not serviced yet
+b2b	popups	MODALS/geowait	Outside delivery zone
+b2b	popups	MODALS/geowait	Not in the campaign geography
+b2b	popups	MODALS/geowait	GEO WAITLIST
+b2b	popups	MODALS/geowait	WAITING IN
+b2b	popups	MODALS/geowait	ACTIVATION THRESHOLD
+b2b	popups	MODALS/geowait	DECISION OWNER
+b2b	popups	MODALS/geowait	No order created · ⟦0⟧demand recorded against this postal code⟦1⟧⟦2⟧⟦3⟧Add to geo waitlist
+b2b	popups	MODALS/geoon	Postal code activated
+b2b	popups	MODALS/geoon	The brand opened the area · everyone waiting is messaged automatically
+b2b	popups	MODALS/geoon	WAITING, NOW MESSAGED
+b2b	popups	MODALS/geoon	COURIER SCORED
+b2b	popups	MODALS/geoon	DAYS ON WAITLIST
+b2b	popups	MODALS/gratify	A 7-day gratification period is given to the consumer before feedback is triggered.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)		Nestlé LACTOGROW — waitlisted (stock exhausted)
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/kicker	SCENARIO C · CAMPAIGN STOCK RUNS OUT
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/title	100,000 samples gone.⟦0⟧Nobody gets a dead end.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/sub	The last pack is claimed mid-journey. She is waitlisted, apologised to, enrolled and given a coupon — in the same conversation.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/meta	Stock exhausted
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/meta	Waitlist + coupon
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	Stock hits zero
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	Allocation fails → waitlist, not an error.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	Live inventory
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	No over-promise
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	Keep her anyway
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	INTRO/phases	Apology, membership, discount coupon.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	B/after	Purchase intent · Distacart coupon
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/t	The brand builds the form, not a developer
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/s	Questions, grouped into pages. The phone is the live preview.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	Page 3 collects the address
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/t	One answer decides which pack ships
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/s	Four answers → two packs. No wrong sample leaves the warehouse.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	1–3 y → LACTOGROW 3
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	4–6 y → LACTOGROW Aktif
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/t	The agency’s pixels fire from the form
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/s	Pasted in once. Every claim and store click goes back to the platform that paid for the click.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	No tag-manager work on nestle.jp
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	Attributed to the exact creative
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/s	UTM values are written into the link automatically.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/pre/call/pts	Live in hours, not a release cycle
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/ad/caption	She sees the sample offer — or searches for it. Both land on the same form on nestle.jp.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/ad/line	Same form, same UTM, whichever medium brings her. Follow-up runs on LINE.
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/friend/desc	Nestlé LACTOGROW Japan official account. Delivery updates, growing-up tips and Familyness offers.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/optinTag	Web claim · LINE friend
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/persona/address	Not collected — stock ran out first
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/persona/cohorts	Waitlist #1,482
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/persona/cohorts	Coupon LACTO20
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/persona/cohorts	Priority at restock
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/persona/fc	Kanagawa Logistics Center (Yokohama, Kanagawa)
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/weights	On-time performance
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/weights	Delivery speed
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/weights	Cost per shipment
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Best on-time record in 153-0042, and matches the fastest transit time in the ward.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Sagawa Express
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Cheapest 2-day option, slightly lower on-time record.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Japan Post Yu-Pack
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Lowest cost, one day slower into Meguro.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Seino Super Express
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/alloc/partners	Built for bulk freight, not single parcels.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/consensus/agents	Building name and block/lot order match Japan Post conventions
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/consensus/agents	Canonical match on the 153-0042 postal record
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/consensus/agents	Geocoded to building level · confidence 98%
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/verdict	Eligible — competitor-brand user
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/sub	She buys a rival growing-up milk. That makes her the campaign’s best prospect.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/now	Another brand of growing-up milk
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/want	Switchers & first-time users
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/scoreLabel	Switch likelihood — highest of any answer
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/note	31% of competitor-brand parents bought LACTOGROW after a 7-day trial in the last campaign.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/rows	Target switchers · exclude current LACTOGROW buyers
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/rows	Approved — continue to delivery
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/tags	Switcher
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/tags	High conversion value
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/tags	Competitor user
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/screening/tags	Priority retargeting
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/sub	The 100,000th pack was claimed 4 minutes ago. Allocation stops — nobody is promised a sample that doesn’t exist.
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/rows	Allocation attempt
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/rows	Blocked — 0 packs left in Kanagawa
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/rows	Stock out → waitlist, apologise, compensate
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/rows	Queued at #1,482 · coupon issued instantly
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/coupon	LACTO20 · 20% off
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/tags	Waitlisted
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/tags	Coupon issued
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/waitlist/tags	First in line at restock
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/item	LACTOGROW 3 · 1–3 years trial pack (400 g)
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Meguro delivery centre · Yamato Transport
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	13 SEP
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Arrived at destination hub
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Meguro delivery centre, Tokyo
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Kanagawa Logistics Center → Tokyo
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Shipment picked up
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Order packed
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/track/activity	Sample #50,001 · allocated from campaign stock
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	ORD-2026-001
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	Yuki Tanaka
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	Sakura Heights 201, 2-5-9 Shibuya, Tokyo 150-0002
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	LACTOGROW Aktif · 4–6 years trial pack by FreeStand
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	ORD-2026-002
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	Kenta Mori
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	3-14-6 Kōhoku-ku, Yokohama, Kanagawa 222-0033
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/orders	LACTOGROW 3 · 1–3 years trial pack by FreeStand
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	“Use my 20% coupon” tapped in LINE
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Waitlist apology message
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Store chosen from her own answer
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	She told the form she buys on Distacart
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Redirect built with UTM + customer id
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Cohort “Waitlisted · Distacart”
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Coupon auto-applied
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	LACTO20 · 20% off 400 g
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Conversion events fired
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Meta · TikTok · Google · Yahoo! · LINE
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	Loop closed
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/events	A stock-out became a sale
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/attr	The Instagram creative she tapped on Sep 12
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/coupon	LACTO20 · 20%
+b2b	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/purchase/coupon	Waitlist compensation · 30 days
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/note	FreeStand form on nestle.jp · utm_source=meta captured
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/step	Step 1 of 1
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/note	Stock is checked the moment you submit.
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/cta	Checking availability…
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Allocation blocked — 0 packs left
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/t	We’re so sorry — samples are gone
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/s	All ⟦0⟧100,000⟦1⟧ packs are claimed. You’re ⟦2⟧#1,482⟦3⟧ on the waitlist for the ⟦4⟧Oct 6⟦5⟧ restock — and we’ve put ⟦6⟧20% off⟦7⟧ on your card to make up for it.
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/sku/n	Waitlist #1,482 · Oct 6 restock
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/sku/p	Nestlé Familyness · 250 pts · LACTO20
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/cta	Get my coupon on LINE
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/note	No dead end · queued, enrolled and compensated
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Waitlisted #1,482 · Oct 6 restock
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Enrolled: Nestlé Familyness · 250 pts
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Coupon LACTO20 · 20% off
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	LINE: added as friend
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/b	We’re so sorry, Mayumi 🙏⟦0⟧This round of free samples is fully claimed. You’re #1,482 on the waitlist — we’ll message you the moment the Oct 6 restock opens.
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/b	Meanwhile, two things to say thank you 💙⟦0⟧1. You’re enrolled in Nestlé Familyness — 250 welcome points are on your card.⟦1⟧2. Here’s 20% off the full 400 g pack.⟦2⟧Coupon: LACTO20
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/opts	Use my 20% coupon
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Apology + loyalty + coupon in one message
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/coupon	Coupon LACTO20 applied · 20% off
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/k	NESTLÉ
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/n	Nestlé LACTOGROW Nutritious Milk Drink Powder, Biscuity Vanilla (2–6 years)
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/rating	4.7 · 1,884 reviews
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/deliv	Express shipping · 3–5 days
+consumer	tpl:Nestlé LACTOGROW — waitlisted (stock exhausted)	CHAT_CONFIG/groups/fact	Waitlisted customer bought anyway
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet		Nestlé LACTOGROW — postal code not serviced yet
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/kicker	SCENARIO D · HER AREA ISN’T OPEN YET
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/title	Wrong postal code.⟦0⟧Right customer — 20 days early.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/sub	Her area isn’t in the campaign geography. She joins a geo waitlist, and the day the brand opens the area she is asked if she still wants the sample.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/meta	Area not serviced
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/meta	Activated · day 20
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Her area fails the geo check
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Demand is recorded, not refused.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Geo waitlist
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Per-postal demand
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	The brand opens the area
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	She’s asked again — then the normal journey runs.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Auto re-invite
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	INTRO/phases	Sample shipped
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/trackLabel	Track my delivery
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/address	Kaigan Residence 305, 2-8-11 Akamine, Naha-shi, Okinawa 901-0152
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/area	Naha-shi, Okinawa
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/cohorts	Okinawa · Naha
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/cohorts	Geo waitlist → activated
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/fc	Fukuoka Logistics Center (Hakata, Fukuoka)
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/eta	arrives Oct 6
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/homeLabel	Kaigan Residence 305 · Naha
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/region	Okinawa region
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/persona/orderDate	Oct 2, 2026
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/alloc/partners	Serves Naha, but air freight makes it the slowest and dearest here.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/alloc/partners	Reliable to Okinawa, still a 4-day transit.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/alloc/partners	Best on-time record into 901-0152 and the only 3-day option to Okinawa.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/consensus/agents	Canonical match on the 901-0152 postal record
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/verdict	901-0152 is outside the campaign geography
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/sub	Okinawa isn’t in this wave. The claim stops here — but her demand is recorded against the postal code.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/waiting	1,240 parents
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/threshold	1,000 · reached
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/owner	Nestlé Japan · campaign team
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/rows	Valid · resolves to Naha-shi, Okinawa
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/rows	Campaign geography
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/rows	Kanto · Kansai · Chubu · Kyushu
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/rows	Geo waitlist · no sample promised
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/tags	Okinawa demand
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/tags	Re-invite on activation
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geowait/tags	No refusal
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/verdict	901-0152 is now serviced
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/sub	Demand crossed the threshold, so the brand added Okinawa and opened 20,000 packs for it.
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/beforeLabel	20 DAYS AGO
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/before	Not serviced · 1,240 waiting
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/after	Active · Yu-Pack · 3 days
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	Trigger
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	1,240 waiting in 901-0152 — threshold was 1,000
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	Brand action
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	Okinawa switched on · 20,000 packs allocated
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	FreeStand action
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/rows	Everyone on the geo waitlist re-invited on LINE
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/days	20 days
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/tags	Area activated
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/tags	Demand-led expansion
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/geoon/tags	Sample now shipping
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/month	October
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	Naha delivery centre · Japan Post Yu-Pack
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	4 OCT
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	Naha delivery centre, Okinawa
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	3 OCT
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	Fukuoka Logistics Center → Naha (air)
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	2 OCT
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/track/activity	Sample #61,409 · Okinawa activation stock
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/events	“Shop on Distacart” tapped in LINE
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/events	Day-7 coupon message
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/events	Cohort “High intent · Distacart”
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/events	LACTO10 · 10% off 400 g
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/events	Order webhook links sample → purchase
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/coupon	LACTO10 · 10%
+b2b	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/purchase/coupon	Single use · 14 days
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 1 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	One sample per household.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 2 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	The age decides the pack.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Child age: 2–3 years → LACTOGROW 3
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 3 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 4 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	Her Day-7 offer goes to the store she already uses.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 5 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	On another brand — switch opportunity
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Step 6 of 6
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/q	Where should we deliver?
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fields	Building · Street · Ward · City
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/cta	Check delivery time
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	We don’t deliver to ⟦0⟧901-0152⟦1⟧ yet
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Postal code: 901-0152 (Naha, Okinawa)
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Outside campaign geography
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/t	Not your area — yet
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/s	Okinawa isn’t in this wave. You’re ⟦0⟧one of 1,240⟦1⟧ parents waiting in ⟦2⟧901-0152⟦3⟧ — we’ll message you the day it opens.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/sku/n	Geo waitlist · 901-0152
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/sku/p	1,240 waiting · re-invite on activation
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/cta	Notify me on LINE
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	Demand recorded · no sample promised
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/b	We’re so sorry, Mayumi 🙏⟦0⟧We don’t deliver to 901-0152 in this round. You’re on the list for Okinawa — we’ll message you the moment it opens.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Waiting for area activation
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/b	Good news! 🎉⟦0⟧Okinawa is now open — 901-0152 is serviced. Would you still like your free LACTOGROW 3 sample?
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/opts	Yes, send it
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/opts	No thanks
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/date	Oct 2 (Fri) · 20 days later
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Area activated Oct 2 · 20 days later
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Re-invite accepted
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/step	Last step
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/q	Confirm where we deliver
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fields	Kaigan Residence 305, 2-8-11 Akamine, Naha-shi, Okinawa
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/cta	Claim my sample
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Address approved · consensus 97.1%
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/t	Claim successful!
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/s	Your LACTOGROW 3 pack ships today from Fukuoka — ⟦0⟧3 days⟦1⟧ with Japan Post Yu-Pack.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/cta	Add Nestlé LACTOGROW on LINE
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/note	Tracking and Day-7 feedback happen on LINE
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Allocated: LACTOGROW 3
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Order ORD-2026-003 · sample #61,409
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/b	Hi Mayumi! Your LACTOGROW 3 sample has shipped 📦⟦0⟧Japan Post Yu-Pack · JP-5580-3317-4426⟦1⟧Arriving Mon, Oct 5.
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Shipped · Yu-Pack JP-5580-3317-4426
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/fact	Delivered · Oct 5 14:32 · photo proof
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/afterDate	Oct 5 (Mon)
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/after/b	Delivered ✅⟦0⟧Left at your door at 14:32 — photo on your tracking page.⟦1⟧Enjoy trying LACTOGROW ✨
+consumer	tpl:Nestlé LACTOGROW — postal code not serviced yet	CHAT_CONFIG/groups/after/u	Received, thank you!
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)		Nestlé LACTOGROW — website sampling (end to end)
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/kicker	WEBSITE SAMPLING · NESTLÉ LACTOGROW JAPAN
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/title	One form on nestle.jp —⟦0⟧and everything after it.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/sub	Nestlé buys the media. FreeStand runs the rest: the form, the pack rule, the courier, the delivery, the feedback, the loyalty card.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/meta	CHANNEL
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/meta	nestle.jp → LINE
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/meta	SAMPLES
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Questions, pack rules, pixels, embed code.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Bring her in
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Meta, TikTok, Google, Yahoo!, QR — one UTM-tagged form.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Run the whole engagement
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Qualify → pack → courier → verify → ship → ask → convert.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Agentic consensus
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Dynamic courier
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	One profile. Auto-enrolled into Nestlé Familyness.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	INTRO/phases	Enriched profile
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/title	Nestlé LACTOGROW — website sampling (web form)
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/cta	Set the privacy notice
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/k	STEP 2 · PRIVACY NOTICE (APPI)
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/t	The notice comes before the first field
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/s	Plain language: what we collect, why, who sees it, and that ⟦0⟧FreeStand India accesses it⟦1⟧. The consent box is written from the notice, so the form can’t ask for more.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/pts	India named, with its law and safeguards
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/pts	9 of 9 form fields covered · nothing extra
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/cta	Next: retention & RoPA
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/k	STEP 3 · RETENTION & RoPA
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/t	Every data type has a delete date
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/s	Retention is set per data type and deletion runs on its own. The RoPA register — what we hold, where it lives, who touches it — is written from the same form.
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/pts	Deleted on schedule, logged for audit
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/pts	RoPA export for Nestlé’s privacy team
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/k	STEP 4 · PACK LOGIC
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/k	STEP 5 · MEASUREMENT
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/pre/call/k	STEP 6 · GO LIVE
+b2b	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/persona/cohorts	Tummy comfort
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/note	Delivery in your area: ⟦0⟧2 days⟦1⟧ — Yamato Transport
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Postal code: 153-0042
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Courier: Yamato · 2 days
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fields	Sakura Terrace 402, 3-11-5 Aobadai, Meguro-ku, Tokyo
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Address approved · consensus 96.8%
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/s	Your LACTOGROW 3 pack ships today from Kanagawa — ⟦0⟧2 days⟦1⟧ with Yamato Transport.
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Order ORD-2026-003 · sample #50,001
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/b	Hi Mayumi! Your LACTOGROW 3 sample has shipped 📦⟦0⟧Yamato Transport · JP-4471-2280-9913⟦1⟧Arriving Mon, Sep 14.
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Shipped · Yamato JP-4471-2280-9913
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Delivered · Sep 14 14:32 · photo proof
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/afterDate	Sep 14 (Mon)
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/b	How was it? Tell us how your child liked LACTOGROW 3.
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/opts	🙂 Good
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/opts	😐 Okay
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/opts	😕 Not for us
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/b	Wonderful! 🛍️ You shop on Distacart — here’s 10% off the full 400 g pack there.⟦0⟧Coupon: LACTO10
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Purchase intent: Distacart tapped
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/coupon	Coupon LACTO10 applied · 10% off
+consumer	tpl:Nestlé LACTOGROW — website sampling (end to end)	CHAT_CONFIG/groups/fact	Store visit · attributed to utm_source=meta
+b2b	tpl:Where customers come from — FreeStand Japan		Where customers come from — FreeStand Japan
+b2b	tpl:Where customers come from — FreeStand Japan		Where customers come from
+b2b	tpl:Where customers come from — FreeStand Japan		The brand picks the media · FreeStand runs the whole engagement · the brand gets an enriched profile and the analytics behind it
+b2b	tpl:Where customers come from — FreeStand Japan		THE BRAND CHOOSES THE MEDIA
+b2b	tpl:Where customers come from — FreeStand Japan		CUSTOMER⟦0⟧ENGAGEMENT PLATFORM
+b2b	tpl:Where customers come from — FreeStand Japan		FREESTAND HANDLES THE ENGAGEMENT
+b2b	tpl:Where customers come from — FreeStand Japan		THE BRAND GETS
+b2b	tpl:Where customers come from — FreeStand Japan		Next → Scenario A: the approved claimant, end to end
+b2b	sources-js	SRC	Meta ads
+b2b	sources-js	SRC	TikTok ads
+b2b	sources-js	SRC	Google sponsored ads
+b2b	sources-js	SRC	Yahoo! JAPAN search
+b2b	sources-js	SRC	ChatGPT recommendation
+b2b	sources-js	SRC	Pack & vending QR
+b2b	sources-js	M1	Perfect — LACTOGROW 3 it is. Where should we deliver?
+b2b	sources-js	M1	Sakura Terrace 402, Meguro-ku, Tokyo
+b2b	sources-js	M1	Claim successful! 🎉 Your free LACTOGROW 3 pack ships today — Yamato Transport, arriving Sep 14.
+b2b	sources-js	M2	Your sample has shipped 📦⟦0⟧Yamato Transport · JP-4471-2280-9913⟦1⟧Arriving Mon, Sep 14.
+b2b	sources-js	M3	She finished the cup for the first time in weeks — thank you! ⭐⭐⭐⭐⭐
+b2b	sources-js	M4	Wonderful! 🛍️ You shop on Distacart — here's 10% off the full 400 g pack there.⟦0⟧Coupon: LACTO10
+b2b	sources-js	M4	Coupon applied at checkout ✓ ¥3,650 → ¥3,285
+b2b	sources-js	M5	Welcome to Nestlé Familyness, Mayumi 💙⟦0⟧You're in — 250 points for the sample and your feedback. No extra form.
+b2b	sources-js	M5	NF-2026-204118 · Bronze · 250 pts⟦0⟧Earn, redeem and shop inside LINE.
+b2b	sources-js	M6	Share a photo of your little one enjoying LACTOGROW and earn 250 points 📸
+b2b	sources-js	M6	Share a photo
+b2b	sources-js	M6	Posted to the Familyness wall ✨ +250 points — and thank you for the lovely photo.
+b2b	sources-js	M7	Tell us a funny moment with your child and we'll draw it as a manga 🎨
+b2b	sources-js	M7	She hid the scoop in her toy box so nobody else could make her milk.
+b2b	sources-js	M7	All done! 🎨
+b2b	sources-js	M7	Your family manga is ready — share it anywhere.
+b2b	sources-js	PH	Sign up to sample
+b2b	sources-js	PH	Sample delivered
+b2b	sources-js	PH	Feedback collected
+b2b	sources-js	PH	Purchase with coupon
+b2b	sources-js	PH	Loyalty enrolment
+b2b	sources-js	PH	UGC given
+b2b	sources-js	PH	Oct 2 (Fri)
+b2b	sources-js	PH	Re-engagement · manga
+b2b	sources-js	tags	Child 2–3 y
+b2b	sources-js	tags	Distacart buyer
+b2b	sources-js	cap	Sep 14 · photo
+b2b	sources-js	cap	Loved it ⭐5
+b2b	sources-js	cap	Purchase
+b2b	sources-js	cap	250 pts · Bronze
+b2b	sources-js	cap	1 photo · 1 manga
+b2b	sources-js	DON	Sampled
+b2b	sources-js	DON	Waitlist
+b2b	sources-js	innerHTML	Profile + analytics⟦0⟧LIVE
+b2b	sources-js	innerHTML	Mayumi Satō⟦0⟧⟦1⟧090-3312-7748 · mayumi.sato@gmail.com⟦2⟧Sakura Terrace 402, 3-11-5 Aobadai, Meguro-ku, Tokyo
+b2b	sources-js	innerHTML	RELEVANT COHORTS
+b2b	sources-js	innerHTML	CAPTURED BY FREESTAND
+b2b	sources-js	innerHTML	AND THE ANALYTICS BEHIND IT⟦0⟧NLG-JP-2026 · 100,000 samples
+b2b	sources-js		Claims per week
+b2b	sources-js		Outcome mix
+b2b	sources-js		Export to Meta
+b2b	sources-js		Google
+b2b	sources-js		Yahoo!
+b2b	tpl:Case Studies — FreeStand		Case Studies — FreeStand
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Pet care
+b2b	tpl:Case Studies — FreeStand	CASES/brand	MARS Petcare — Sheba, Whiskas & Pedigree
+b2b	tpl:Case Studies — FreeStand	CASES/title	End-to-end sampling for three brands, one platform
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Geography
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Pan-India
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Journey
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Qualified journey
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Pet parents
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Web-form + WhatsApp integration
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Scalable solution
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Google & Meta pixels
+b2b	tpl:Case Studies — FreeStand	CASES/steps	One-time integration set-up
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Offline claims too
+b2b	tpl:Case Studies — FreeStand	CASES/steps	promoter at the brand stall → customer signs up on WhatsApp → sample handed over
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique customers reached
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Pan-India incl. metro & tier-1 cities
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase conversion
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Sampling → full-size purchase
+b2b	tpl:Case Studies — FreeStand	CASES/mets	3:00 min
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Avg. engagement time
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Messages exchanged
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback rate
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Data points
+b2b	tpl:Case Studies — FreeStand	CASES/award	Best Product Sampling Award
+b2b	tpl:Case Studies — FreeStand	CASES/award	afaqs Marketers Excellence Awards 2025 & 2024
+b2b	tpl:Case Studies — FreeStand	CASES/hi	20M reached · 20% purchase conversion
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Skincare
+b2b	tpl:Case Studies — FreeStand	CASES/brand	L'Oréal CeraVe
+b2b	tpl:Case Studies — FreeStand	CASES/title	Launch sampling for a new-to-market skincare brand
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Delhi & Mumbai
+b2b	tpl:Case Studies — FreeStand	CASES/setup	LSM 10+ women
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Targeting
+b2b	tpl:Case Studies — FreeStand	CASES/steps	hyper-targeting on Facebook
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Interaction + qualification
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Fulfilment + experience
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Consumer feedback
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Sales
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase-intent CTA
+b2b	tpl:Case Studies — FreeStand	CASES/mets	2:30 min
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback shared
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique data points
+b2b	tpl:Case Studies — FreeStand	CASES/mets	PII collected
+b2b	tpl:Case Studies — FreeStand	CASES/award	A trophy-studded campaign
+b2b	tpl:Case Studies — FreeStand	CASES/award	Award-winning launch sampling
+b2b	tpl:Case Studies — FreeStand	CASES/hi	10M+ reached · 5% purchase-intent CTA
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Baby care
+b2b	tpl:Case Studies — FreeStand	CASES/brand	Piramal Little's
+b2b	tpl:Case Studies — FreeStand	CASES/title	Customised opt-in — the platform allocates the SKU
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Mothers with toddlers
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Auto SKU selection
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Fulfilment
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Delivered as selected
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Ads targeted to mothers with toddlers
+b2b	tpl:Case Studies — FreeStand	CASES/steps	on Facebook and Instagram
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Assured qualification
+b2b	tpl:Case Studies — FreeStand	CASES/steps	plus automated SKU selection from the answers
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Sample delivered as per selection
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Captured switching insight
+b2b	tpl:Case Studies — FreeStand	CASES/steps	brand they used to buy & why they switched to Little's
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback loop
+b2b	tpl:Case Studies — FreeStand	CASES/steps	95.4% rated the product 4–5 stars
+b2b	tpl:Case Studies — FreeStand	CASES/skus	Small
+b2b	tpl:Case Studies — FreeStand	CASES/skus	Large
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Rated 4–5 stars
+b2b	tpl:Case Studies — FreeStand	CASES/mets	3 SKUs
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Customised sample delivered
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Large
+b2b	tpl:Case Studies — FreeStand	CASES/mets	the most-claimed SKU
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Medium
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Chose Small
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Brand switched from + why
+b2b	tpl:Case Studies — FreeStand	CASES/hi	3 SKUs auto-allocated · 95.4% 4–5★
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Infant nutrition
+b2b	tpl:Case Studies — FreeStand	CASES/brand	Nestlé Lactogrow
+b2b	tpl:Case Studies — FreeStand	CASES/title	Sampling with young parents — search intent to doorstep
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Young parents
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Instagram ads + search-based targeting
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Customer interaction on the website
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Delivery updates on WhatsApp
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback + purchase CTA
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Sampling-led UGC
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique customer interactions
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Clicks on purchase links
+b2b	tpl:Case Studies — FreeStand	CASES/mets	chatbot → retail purchase page
+b2b	tpl:Case Studies — FreeStand	CASES/mets	1:30 min
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Total messages
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique PII data
+b2b	tpl:Case Studies — FreeStand	CASES/hi	Search intent → sample → UGC
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Body care
+b2b	tpl:Case Studies — FreeStand	CASES/brand	HUL Vaseline Gluta-Hya
+b2b	tpl:Case Studies — FreeStand	CASES/title	Influencer-led sampling with best-in-class intent
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Influencer content
+b2b	tpl:Case Studies — FreeStand	CASES/steps	automatic capture — 1 in 2 responded
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Feedback response rate
+b2b	tpl:Case Studies — FreeStand	CASES/mets	1 in 2 shared detailed product feedback — far above industry average
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Purchase-link clicks
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Unique reach
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Avg. engagement
+b2b	tpl:Case Studies — FreeStand	CASES/mets	PII data points
+b2b	tpl:Case Studies — FreeStand	CASES/award	Top performer
+b2b	tpl:Case Studies — FreeStand	CASES/award	Highest engagement · best-in-class purchase intent
+b2b	tpl:Case Studies — FreeStand	CASES/hi	50% feedback · 25% purchase clicks
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Professional haircare
+b2b	tpl:Case Studies — FreeStand	CASES/brand	L'Oréal Professionnel — Shampoo & Mask
+b2b	tpl:Case Studies — FreeStand	CASES/title	Launch sampling for a salon range, at scale
+b2b	tpl:Case Studies — FreeStand	CASES/steps	shampoo & mask sample delivered to the door
+b2b	tpl:Case Studies — FreeStand	CASES/steps	integrated redirect on positive feedback + sampling-led UGC
+b2b	tpl:Case Studies — FreeStand	CASES/mets	metro & tier-1 cities
+b2b	tpl:Case Studies — FreeStand	CASES/mets	sampling → full-size purchase
+b2b	tpl:Case Studies — FreeStand	CASES/hi	7M reached · 7% purchase conversion
+b2b	tpl:Case Studies — FreeStand	CASES/ind	Pharma & health
+b2b	tpl:Case Studies — FreeStand	CASES/brand	Cipla Nicotex
+b2b	tpl:Case Studies — FreeStand	CASES/title	World No Tobacco Day — #UrgeToQuit sampling
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Chatbot
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Multilingual — Hindi & English
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Launch
+b2b	tpl:Case Studies — FreeStand	CASES/setup	On World No Tobacco Day
+b2b	tpl:Case Studies — FreeStand	CASES/setup	Smokers looking to quit + their families
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Media ads + chatbot
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Two audiences
+b2b	tpl:Case Studies — FreeStand	CASES/steps	in the customer's own language
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Nicotex sample delivered to the doorstep
+b2b	tpl:Case Studies — FreeStand	CASES/steps	Feedback + sales
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Quit journeys started on No Tobacco Day
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Languages — Hindi & English chatbot
+b2b	tpl:Case Studies — FreeStand	CASES/mets	31 May
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Launched on World No Tobacco Day
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Audiences — smokers + their families
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Doorstep delivery with automatic feedback
+b2b	tpl:Case Studies — FreeStand	CASES/mets	Cause-led sampling campaign in India
+b2b	tpl:Case Studies — FreeStand	CASES/hi	Thousands of quit journeys started
+b2b	tpl:Case Studies — FreeStand	VIS/0/cap	afaqs Marketers' Excellence Awards · FreeStand × MARS Petcare
+b2b	tpl:Case Studies — FreeStand	VIS/0/cap	Multi-media setup to acquire customers
+b2b	tpl:Case Studies — FreeStand	VIS/1/cap	Free-sample ad creative
+b2b	tpl:Case Studies — FreeStand	VIS/1/cap	ET Shark Awards 2024 · FreeStand × L'Oréal
+b2b	tpl:Case Studies — FreeStand	VIS/1/pos	center 20%
+b2b	tpl:Case Studies — FreeStand	VIS/2/cap	Ads to mothers with toddlers
+b2b	tpl:Case Studies — FreeStand	VIS/2/cap	3 SKUs — allocated from the answers
+b2b	tpl:Case Studies — FreeStand	VIS/3/cap	Young parents · interaction on the website
+b2b	tpl:Case Studies — FreeStand	VIS/3/pos	30% center
+b2b	tpl:Case Studies — FreeStand	VIS/4/cap	Influencer content · Gluta-Hya
+b2b	tpl:Case Studies — FreeStand	VIS/5/cap	Meta ad creative
+b2b	tpl:Case Studies — FreeStand	VIS/6/cap	Bilingual chatbot · Hindi & English
+b2b	tpl:Case Studies — FreeStand	chatVis	Brand chatbot
+b2b	tpl:Case Studies — FreeStand	webVis	The 8 best picks — buyer\'s guide
+b2b	tpl:Case Studies — FreeStand	webVis	Community answers
+b2b	tpl:Case Studies — FreeStand	webVis	Google search → web form
+b2b	tpl:Case Studies — FreeStand	skuVis	SKU allocation from the chat answers
+b2b	tpl:Case Studies — FreeStand	skuVis	95.4% rated 4–5 stars
+b2b	tpl:Case Studies — FreeStand	skuVis	High customer satisfaction
+b2b	tpl:Case Studies — FreeStand	overview	Case studies
+b2b	tpl:Case Studies — FreeStand	overview	Seven industries. One platform.
+b2b	tpl:Case Studies — FreeStand	overview	Chatbot · web form · promoter · influencer
+b2b	tpl:Case Studies — FreeStand	overview	7⟦0⟧case studies
+b2b	tpl:Case Studies — FreeStand	overview	Brands that trust FreeStand
+b2b	tpl:Case Studies — FreeStand	slide	Case study
+b2b	hubreg	ANA	Overview — what this tab tells the brand
+b2b	hubreg	ANA	Overview — live numbers, updating as customers come in
+b2b	hubreg	ANA	Overview — UTM breakdown for the media agency
+b2b	hubreg	ANA	Live Analytics — what this tab tells the brand
+b2b	hubreg	ANA	Live Analytics — the live feed: source · geo · answer · SKU
+b2b	hubreg	ANA	Data Visualisation — what this tab tells the brand
+b2b	hubreg	ANA	Data Visualisation — every question the brand asked, charted
+b2b	hubreg	ANA	Data Visualisation — each UTM source as its own funnel
+b2b	hubreg	ANA	Statistical Analysis — what this tab tells the brand
+b2b	hubreg	ANA	Statistical Analysis — what actually drives purchase intent
+b2b	hubreg	ANA	Campaign Performance — what this tab tells the brand
+b2b	hubreg	ANA	Campaign Performance — health at a glance
+b2b	hubreg	ANA	Saved Audiences — what this tab tells the brand
+b2b	hubreg	ANA	Saved Audiences — segments that update themselves
+b2b	hubreg	ANA	All Claimants — what this tab tells the brand
+b2b	hubreg	ANA	All Claimants — filter, save, export to Meta / Google / LINE
+b2b	hubreg	HUB_DEMOS/group	Acquisition
+b2b	hubreg	HUB_DEMOS/steps	The brand chooses the media → FreeStand handles the engagement → the brand gets enriched data
+b2b	hubreg	HUB_DEMOS/group	Scenario A · Approved claimant journey
+b2b	hubreg	HUB_DEMOS/name	Approved claimant — the whole journey
+b2b	hubreg	HUB_DEMOS/pages/steps	Why website sampling
+b2b	hubreg	HUB_DEMOS/pages/steps	Form builder — questions & live preview
+b2b	hubreg	HUB_DEMOS/pages/steps	Privacy notice (APPI) — what, why, who, India access
+b2b	hubreg	HUB_DEMOS/pages/steps	Retention & RoPA register
+b2b	hubreg	HUB_DEMOS/pages/steps	Pack logic — age → LACTOGROW 3 / Aktif
+b2b	hubreg	HUB_DEMOS/pages/steps	Pixels — Meta · TikTok · Google · Yahoo! · LINE
+b2b	hubreg	HUB_DEMOS/pages/steps	Share — embed code + UTM
+b2b	hubreg	HUB_DEMOS/pages/steps	Embedded on nestle.jp — script becomes the form
+b2b	hubreg	HUB_DEMOS/pages/steps	Acquisition — Instagram ad + Google search
+b2b	hubreg	HUB_DEMOS/pages/steps	Landing page on nestle.jp
+b2b	hubreg	HUB_DEMOS/pages/steps	Privacy notice & consent — before any data
+b2b	hubreg	HUB_DEMOS/pages/steps	Name, phone & email
+b2b	hubreg	HUB_DEMOS/pages/steps	Child's age → pack allocated
+b2b	hubreg	HUB_DEMOS/pages/steps	What matters most right now
+b2b	hubreg	HUB_DEMOS/pages/steps	Where she shops → coupon destination
+b2b	hubreg	HUB_DEMOS/pages/steps	Another brand → competitor-user screening
+b2b	hubreg	HUB_DEMOS/pages/steps	Postal code → courier scored live
+b2b	hubreg	HUB_DEMOS/pages/steps	Address → agentic consensus
+b2b	hubreg	HUB_DEMOS/pages/steps	Claim success → order + live inventory
+b2b	hubreg	HUB_DEMOS/pages/steps	LINE — add the official account
+b2b	hubreg	HUB_DEMOS/pages/steps	Shipped — tap the tracking link
+b2b	hubreg	HUB_DEMOS/pages/steps	Day-7 feedback (tap on the phone)
+b2b	hubreg	HUB_DEMOS/pages/steps	Coupon → Shop on Distacart
+b2b	hubreg	HUB_DEMOS/pages/steps	Distacart — UTM + coupon, pixels fired
+b2b	hubreg	HUB_DEMOS/pages/steps	Auto-enrolled into Nestlé Familyness
+b2b	hubreg	HUB_DEMOS/pages/steps	Welcome on LINE — the member-card link
+b2b	hubreg	HUB_DEMOS/pages/steps	She taps it — the Familyness mini app opens (interactive)
+b2b	hubreg	HUB_DEMOS/pages/steps	Shichi-Go-San — spin the wheel
+b2b	hubreg	HUB_DEMOS/pages/steps	Manga — her story as a manga
+b2b	hubreg	HUB_DEMOS/pages/steps	Hinamatsuri — free sticker set
+b2b	hubreg	HUB_DEMOS/pages/steps	Tanabata — wish tanzaku
+b2b	hubreg	HUB_DEMOS/pages/steps	Nyūgakushiki (school entrance) — skipped, she doesn't match
+b2b	hubreg	HUB_DEMOS/pages/steps	The point of the whole journey
+b2b	hubreg	HUB_DEMOS/group	Scenario B · Existing customer journey
+b2b	hubreg	HUB_DEMOS/name	Existing customer — enrolled, not sampled
+b2b	hubreg	HUB_DEMOS/pages/steps	Scenario B — she already buys LACTOGROW
+b2b	hubreg	HUB_DEMOS/pages/steps	Form builder — same form as Scenario A
+b2b	hubreg	HUB_DEMOS/pages/steps	Pack logic — only for non-buyers
+b2b	hubreg	HUB_DEMOS/pages/steps	Pixels — plus the loyalty_enrol event
+b2b	hubreg	HUB_DEMOS/pages/steps	Child's age
+b2b	hubreg	HUB_DEMOS/pages/steps	“Yes — LACTOGROW already” → enrolled, not sampled
+b2b	hubreg	HUB_DEMOS/pages/steps	Enrolled — 250 welcome points
+b2b	hubreg	HUB_DEMOS/pages/steps	“Thank you for being a valued member” on LINE
+b2b	hubreg	HUB_DEMOS/pages/steps	She taps the link — the Familyness mini app opens (interactive)
+b2b	hubreg	HUB_DEMOS/pages/steps	Data Visualisation — existing customers enrolled in the loyalty program
+b2b	hubreg	HUB_DEMOS/pages/steps	Live Analytics — claims as they happen
+b2b	hubreg	HUB_DEMOS/group	Scenario C · Stock-out journey
+b2b	hubreg	HUB_DEMOS/name	Stock exhausted — waitlisted, not lost
+b2b	hubreg	HUB_DEMOS/pages/steps	Scenario C — the campaign runs out of stock
+b2b	hubreg	HUB_DEMOS/pages/steps	Stock checked on submit — 0 packs left → waitlisted
+b2b	hubreg	HUB_DEMOS/pages/steps	Apology — waitlist #1,482 + 20% coupon
+b2b	hubreg	HUB_DEMOS/pages/steps	Sorry, loyalty program & coupon on LINE
+b2b	hubreg	HUB_DEMOS/pages/steps	Distacart — she buys with the 20% coupon
+b2b	hubreg	HUB_DEMOS/pages/steps	Data Visualisation — how many people were waitlisted
+b2b	hubreg	HUB_DEMOS/group	Scenario D · Area-not-serviced journey
+b2b	hubreg	HUB_DEMOS/name	Postal code not serviced — activated on day 20
+b2b	hubreg	HUB_DEMOS/pages/steps	Scenario D — her area isn’t open yet
+b2b	hubreg	HUB_DEMOS/pages/steps	901-0152 → outside the campaign geography
+b2b	hubreg	HUB_DEMOS/pages/steps	Geo waitlist — 1,240 waiting in her postal code
+b2b	hubreg	HUB_DEMOS/pages/steps	“We’ll message you the day it opens”
+b2b	hubreg	HUB_DEMOS/pages/steps	Day 20 — area activated, she says yes
+b2b	hubreg	HUB_DEMOS/group	Case Studies
+b2b	hubreg	HUB_DEMOS/name	Case Studies — 7 industries
+b2b	hubreg	HUB_DEMOS/steps	Overview — seven industries
+b2b	hubreg	HUB_DEMOS/steps	MARS Petcare · Pet care
+b2b	hubreg	HUB_DEMOS/steps	L'Oréal CeraVe · Skincare
+b2b	hubreg	HUB_DEMOS/steps	Piramal Little's · Baby care
+b2b	hubreg	HUB_DEMOS/steps	Nestlé Lactogrow · Infant nutrition
+b2b	hubreg	HUB_DEMOS/steps	HUL Vaseline · Body care
+b2b	hubreg	HUB_DEMOS/steps	L'Oréal Professionnel · Haircare
+b2b	hubreg	HUB_DEMOS/steps	Cipla Nicotex · Pharma & health
+b2b	hubreg	HUB_DEMOS/steps	Thank you — restart
+b2b	hubshell	renderSidebar/textContent	Nothing here yet — demos for this section will be added next.
+b2b	hubshell	renderStage/innerHTML	This section is reserved — tell me what to put here and I’ll build it in.
+b2b	hubshell	renderStage/textContent	Interactive demo — Next/Prev or arrow keys step through it.
+b2b	hubshell	renderStage/innerHTML	Frames for “
+b2b	hubshell	renderStage/innerHTML	” pending — awaiting Figma source.
+b2b	hubshell	renderPage/textContent	Next demo
+b2b	hubshell		End
