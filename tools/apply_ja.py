@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """Build the Japanese index.html from the English bundle.
 
-    git show main:index.html > /tmp/index.en.html      # English source
-    python tools/apply_ja.py --src /tmp/index.en.html --out index.html --list tools/strings_tagged.tsv
+    git show main:index.html > /tmp/index.en-src.html  # original English bundle
+    python tools/apply_ja.py --src /tmp/index.en-src.html --out index.html \
+        --en-out index.en.html --list tools/strings_tagged.tsv
 
 Options: --dry (list strings only), --partial (cache only, no API calls).
 Needs SAKANA_API_KEY unless every string is already in translate_cache.json.
 
 Walks every nested bundle, extracts user-facing strings, tags each B2B or
 consumer (tools/tagging.py), translates through translate.py (cached), and
-repacks. Also sets lang="ja" and adds a Noto Sans JP font fallback.
+repacks. Also sets lang="ja" and adds a Noto Sans JP font fallback. Code fixes
+in tools/source_fixes.py are applied first; --en-out writes the fixed English
+build.
 """
 import argparse
 import collections
@@ -25,6 +28,7 @@ sys.path.insert(0, os.path.dirname(HERE))
 
 import bundle
 import extract_strings as extract
+import source_fixes
 import tagging
 
 KINDS = [
@@ -111,12 +115,16 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", default="index.html")
     ap.add_argument("--out", default="index.html")
+    ap.add_argument("--en-out", help="also write the fixed English build here")
     ap.add_argument("--list", help="write the tagged string list (TSV) here")
     ap.add_argument("--dry", action="store_true", help="list strings only, no API calls")
     ap.add_argument("--partial", action="store_true", help="cache only: no API calls, untranslated strings stay English")
     a = ap.parse_args()
 
-    h = open(a.src, encoding="utf-8").read()
+    h = source_fixes.apply(bundle, open(a.src, encoding="utf-8").read())
+    if a.en_out:
+        with open(a.en_out, "w", encoding="utf-8") as f:
+            f.write(h)
     rows = collect(h)
     occ = collections.OrderedDict()
     for kd, p, u in rows:
