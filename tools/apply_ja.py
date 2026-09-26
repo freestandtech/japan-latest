@@ -10,7 +10,8 @@ Needs SAKANA_API_KEY unless every string is already in translate_cache.json.
 
 Walks every nested bundle, extracts user-facing strings, tags each B2B or
 consumer (tools/tagging.py), translates through translate.py (cached), and
-repacks. Also sets lang="ja" and adds a Noto Sans JP font fallback. Code fixes
+repacks. Also sets lang="ja", adds a Noto Sans JP font fallback, and injects
+the English-on-hover tooltips (tools/en_tips.py; active only with ?en=1). Code fixes
 in tools/source_fixes.py are applied first; --en-out writes the fixed English
 build.
 """
@@ -27,6 +28,7 @@ sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.dirname(HERE))
 
 import bundle
+import en_tips
 import extract_strings as extract
 import source_fixes
 import tagging
@@ -155,19 +157,28 @@ def main():
         print(f"{len(missing)} strings failed; rerun to retry (cached ones are free)", file=sys.stderr)
         sys.exit(1)
 
+    # JA/EN pairs each document actually uses, for the ?en=1 hover tooltips.
+    # rebuild() visits a bundle's assets before its template, so by the time
+    # a template is rendered its document's pairs are complete.
+    used = collections.defaultdict(list)
+
     def fn(path, kind, text):
         kd = kind_of(kind, text)
         ranges = india_ranges(kd, text)
+        doc = path.rsplit("/", 1)[0]
 
         def tr(u, ctx):
             p = "/".join(ctx.get("path", ()))
             if skipped(kd, p, ctx.get("pos", -1), ranges):
                 return None
+            if ja.get(u):
+                used[doc].append((u, ja[u]))
             return ja.get(u)
 
         if kind == "template":
             new = extract.render_html(text, tr, {"file": kd})
             new = localize_template(new)
+            new = en_tips.inject(new, en_tips.pairs_for(used.pop(doc, [])))
         else:
             new = extract.render_js(text, tr, {"file": kd})
         return add_jp_fonts(new)
